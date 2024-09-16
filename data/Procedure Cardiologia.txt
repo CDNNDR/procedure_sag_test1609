@@ -1,0 +1,284 @@
+﻿Procedure Cardiologia
+La guida per risolvere i problemi più comuni agli EM del Santagostino
+
+
+Per tutti gli utilizzatori, mettiamo in evidenza i video del funzionamento dei nuovi sistemi CUSTO  :
+
+
+* ECG A RIPOSO
+
+
+-SANTAGOSTINO: Video Procedura per l’acquisitore
+
+
+-Customed: Video di formazione
+
+
+
+
+* TEST DA SFORZO
+
+
+-Customed: Video di formazione
+
+
+
+
+* APPLICAZIONE HOLTER
+
+
+        -SANTAGOSTINO: Procedura applicazione
+        
+
+
+
+
+In caso di interesse o necessità, trovate nelle pagine seguenti le indicazioni e principali soluzioni ai problemi più comuni con tutti i dispositivi delle branche di Cardiologia.
+Per ogni domanda, potete rivolgervi al team di IC con un ticket sulla piattaforma OSTicket o una mail a:
+
+
+ingegneria-clinica@santagostino.it
+________________
+
+
+
+
+Indice
+Indice        2
+2. Holter        2
+2.1. CUSTO        2
+● Non si riescono a modificare i dati dell’esame        2
+● Devo esportare il PDF di un esame        2
+2.1.1. ECG        2
+● Errore di caricamento holter: SD non formattabile        2
+● All’avvio della registrazione appare “Impossibile leggere la scheda...”        3
+2.1.2. PAO        4
+● Non si riesce a caricare/leggere l’esame        4
+3. Elettrocardiografo        5
+● Il dispositivo non si accende/si spegne alla stampa        5
+● Il segnale è tutto piatto        6
+● Il segnale è troppo disturbato        6
+4. Test da Sforzo        7
+4.1.1. CUSTO - CardioBT 300/ Ergoline        7
+● L'acquisizione non parte, schermata di errore        7
+4.1.2. Cardioline - HD+ / XR100 / Cube        8
+● Alla schermata di controllo delle derivazioni non si vede nessun segnale        8
+● La traccia appare ma non si avvia l’esame        9
+5. Defibrillatore        10
+2.1.1.1. LifeLine - DefibTech        10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Holter
+   1. CUSTO   
+   * Non si riescono a modificare i dati dell’esame  
+In fase di salvataggio, l’esame viene tenuto come “documento originale” e quindi non è modificabile e filtrabile per il medico refertante.
+
+
+[Soluzione 1] 
+      * Aprire il file con l’esame
+      * Premere “fine” e
+      * Nella schermata di chiusura, deselezionare “doc.originale”.
+
+
+  
+
+
+
+      * Devo esportare il PDF di un esame 
+
+
+
+
+      1. ECG
+
+
+Il dispositivo è chiamato custo flash 500/510. le procedure di applicazione sono disponibili a questo link.
+  
+
+
+
+      * Errore di caricamento holter: SD non formattabile
+
+
+Durante il caricamento dell’holter, non si riesce a formattare la scheda per un errore di accessi ai dati.
+
+
+[Soluzione 1]   
+      * Controllare che la scheda non sia in modalità LOCK, che impedisce scrittura e formattazione dei dati
+  
+
+Linguetta deve essere verso l'alto
+
+
+      * Se si hanno a disposizione 2 schede, provare con entrambe per capire se l’errore è dell’SD o del programma
+      * Controllare che la scheda sia stata inserita usando la stessa posizione di sempre, eventualmente facendo usando tutte le entrate disponibili
+
+
+[Soluzione 2]   
+
+
+E’ necessario controllare all’interno delle impostazioni di  Custo se la scheda è nella stessa posizione inserita di default.
+Segnalare con un ticket a ingegneria clinica, all’attenzione di Giacomo Cattaneo.
+In caso di emergenza (per presenza di medico o paziente in attesa), contattarli per le vie brevi.
+
+
+
+
+      * All’avvio della registrazione appare “Impossibile leggere la scheda...”   
+
+
+Questo errore si risolve accedendo ai Dispositivi e unità e formattando l’unità USB corrispondente all’Holter (unità USB..)
+         * Seguire le indicazioni riportate nella procedura precedente per la formattazione.
+         * Dopo aver fatto questa operazione è necessario collegare il dispositivo con la scheda inserita, aprire Custo e aspettare per dargli il tempo di creare i file di scrittura
+         * Al momento dell’identificazione dare il consenso per la formattazione della scheda. L’operazione potrebbe richiedere qualche minuto.
+Se il problema non si risolve, segnalare con un ticket all’ingegneria clinica
+         2. PAO
+Il dispositivo è chiamato custo screen 300. le procedure di applicazione sono disponibili a questo link.
+
+
+  
+
+  
+                                
+                                lettore infrarossi
+
+
+         * Non si riesce a caricare/leggere l’esame  
+Questo è un problema di mancanza di interazione di connessione tra lettore e holter
+
+
+[Soluzione 1] 
+            * Assicurarsi che l’holter sia acceso,eventualmente cambiare batteria
+            * Controllare che il lettore sia inserito nella presa USB
+            * Disporre una davanti all’altra le bande nere del lettore e sul lato dell’holter
+            * Riprovare a far partire il caricamento/scaricamento
+
+
+
+
+[Soluzione 2]   
+
+
+E’ necessario controllare all’interno delle impostazioni di  Custo se la scheda è nella stessa posizione inserita di default.
+Segnalare con un ticket a ingegneria clinica, all’attenzione di Giacomo Cattaneo.
+In caso di emergenza (per presenza di medico o paziente in attesa), contattarli per le vie brevi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+            3. Elettrocardiografo
+            * Il dispositivo non si accende/si spegne alla stampa  
+Controllare la connessione del cavo, sia lato dispositivo che lato trasformatore e presa.
+
+
+               * Se il led del trasformatore non si accende vuol dire che non c’è corrente, controllare la spina e cambiare presa
+               * Se il pulsante di accensione sulla cardiolina ha il led acceso blu e verde, vuol dire che la batteria è correttamente in carica
+
+
+Se il problema continua cambiando presa, segnalare con un ticket a ingegneria clinica, all’attenzione di Giacomo Cattaneo.
+               * Il segnale è tutto piatto  
+Se il cavo è collegato alla macchina e tutte le derivazioni sono collegate al paziente ma il segnale è come in foto
+
+
+
+
+[Soluzione] 
+                  * Controllare le connessione del cavo paziente, in maniera che il connettore sia ben fissato e avvitato alla macchina
+                  * Controllare i pin
+                  * Controllare in particolare il cavo GIALLO e quello NERO, sono quelli della messa a terra e se è tutto piatto vuol dire che loro non prendono il giusto segnale
+                  * Provare ad attaccare le derivazioni periferiche R V G N nella distribuzione come in foto
+  
+
+
+
+Se il problema continua, segnalare con un ticket a ingegneria clinica, all’attenzione di Giacomo Cattaneo.
+In caso di emergenza (per presenza di medico o paziente in attesa), contattarli per le vie brevi.
+                  * Il segnale è troppo disturbato  
+Nel caso il segnale sia presente ma ci sia eccessivo rumore.
+
+
+                     * Eseguire le stesse prove del caso precedente
+                     * Assicurarsi che il paziente stia fermo (tenerlo in posizione sdraiata)
+                     * Fare particolarmente attenzione alla connessione del cavo, che non sia come in foto
+                     * premere il TASTO F6 per andare nel menù e ripremerlo per tornare all'esame, per ricaricare i filtri
+
+
+  
+
+
+
+Se il problema continua, segnalare con un ticket a ingegneria clinica, all’attenzione di Giacomo Cattaneo.
+In caso di emergenza (per presenza di medico o paziente in attesa), contattarli per le vie brevi.
+
+
+
+
+
+
+
+
+                     4. Test da Sforzo
+                     1. CUSTO - CardioBT 300/ Ergoline
+                     * L'acquisizione non parte, schermata di errore    
+  finestra di errore
+NON PREMERE ANNULLA
+
+
+Non premere mai annulla per non perdere l’acquisizione, una volta che il dispositivo si collegherà il programma riprenderà da solo.
+
+
+[Soluzione]  
+                        * Controllare che il cavo di alimentazione dell’acquisitore sia scollegato dal pc e dall’alimentazione
+                        * Controllare se il dispositivo si è spento, provare a premere il tasto centrale ed essere sicuri che:
+                        * I LED centrali siano accesi come in foto
+                        * la spia della batteria sia verde
+                        * il simbolo del wifi lampeggi a intermittenza
+                        * Se è acceso, ma non si risolve, tenere premuto il tasto centrale finché il dispositivo non si spegne
+                        * Dopo 10 secondi da quando è spento, premere il tasto centrale per riaccenderlo e riprovare
+                        * Se non di ricollega, controllare che il bluetooth sia collegato (chiavetta inserita per le colonne e funzione accesa sui pc portatili)
+
+  
+
+Defibrillatore
+                           1. LifeLine - DefibTech
+Manuale Drive: https://drive.google.com/open?id=11PN48ItYV435gnVGxfIBl_We9QMrux3- 
+
+
+CFR pagina 31 per il lancio dell’auto test e per la diagnostica dei problemi.

@@ -1,0 +1,19 @@
+﻿Problemi comuni telefoni fissi:
+* Il telefono ha il display spento
+   * Risoluzione: controllare che il cavo di rete proveniente dalla presa a muro sia collegato alla presa “internet” sul retro del telefono. Se il collegamento è corretto provare a spostare il telefono in una differente presa di rete a muro e verificare se si accenda, se non si dovesse accendere aprire ticket segnalando il guasto dell'apparecchio, se si dovesse accendere aprire ticket per verificare la presa di rete.
+* Il telefono non riceve telefonate ma può effettuarle, verifiche da effettuare:
+* che la modalità DND “Do Not Disturb” non sia attiva, per farlo cliccare sul tasto “Menu” -> “2.Funzionalità” -> “9.DND” -> “1.Stato DND”, se lo stato è “On” modificarlo in “Off” con le frecce e cliccare il tasto “Salva”
+* che l’inoltro di chiamata non sia attivo, per farlo cliccare sul tasto “Menu”->”2.Funzionalità”->”1.Inoltro di chiamata”, verificare che lo stato di ogni opzione di inoltro sia su Off, se non dovesse esserlo modificarlo in Off e salvare
+* Il telefono ha il display acceso, riceve ed effettua chiamate ma non si sente nulla dalla cornetta, verificare:
+   * che il cavo di collegamento telefono-cornetta sia integro e che siano presenti le linguette su entrambi i connettori
+* lato telefono: che il cavo che va alla cornetta sia collegato correttamente alla porta indicata con il simbolo di una cornetta e non a quella con il simbolo delle cuffie (le porte, in base al modello, si trovano sul fianco o sul retro del telefono)
+* lato cornetta: 
+   * che il connettore sia inserito fino in fondo nella presa e che la linguetta dell’attacco sia integra
+   * che scuotendo delicatamente la cornetta non si sentano rumori di oggetti che “ballano” all’interno della cornetta
+* Se la cornetta è integra e il collegamento con il telefono è corretto controllare che sul display non compaia la scritta “no service” o “nessun servizio”
+* Se sul display del telefono compare una delle scritte citate in precedenza verificare, premendo il tasto ok, che il telefono abbia ottenuto un ip del tipo 192.168.xxx.yyy o 172.16.xxx.yyyy e aprire ticket segnalando l’indirizzo ip se è stato ottenuto e l’interno telefonico assegnato al telefono
+
+
+Problemi comuni cordless:
+* Il cordless si spegne dopo pochi minuti che è scollegato dalla base
+   * Risoluzione: verificare che le batterie sul retro del telefono siano del tipo “mini stilo” - AAA, se dovessero esserlo procedere con la sostituzione delle batterie con delle batterie RICARICABILI dello stesso formato

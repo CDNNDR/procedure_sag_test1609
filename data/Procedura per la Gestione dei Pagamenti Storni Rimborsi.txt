@@ -1,0 +1,527 @@
+﻿Procedura metodi di pagamento, rimborsi e storni -  SPA
+	Pagina  di  
+
+
+
+
+
+
+      
+	
+
+
+
+
+
+
+
+COVER DELLA PROCEDURA
+	
+
+Titolo procedura
+	Procedura metodi di pagamento, rimborsi e storni SPA
+	Versione
+	1.0.0
+	Data
+	06/08/2024
+	
+
+
+
+Autore
+	Valentina Maffucci (Merger Integration Manager)
+	Owner
+	Valentina Maffucci (Merger Integration Manager)
+	Verificato da
+	Sara Andriotto (CFO) Sara Gotti (Junior Project Manager) 
+	
+
+
+
+Tracciamento modifiche
+	Data
+	Ver.
+	Autore 
+	Ruolo
+	Note
+	GG/MM/AA
+	X.Y.Z
+	Nome Cognome
+	Job title
+	Descrizione delle modifiche
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+NOTE:
+Versione: 
+* X = MODIFICABILE SOLO DALL’OWNER. Da incrementare solo per modifiche strutturali della procedura (prima di incremetare e modificare la versione, esportare pdf versione precedente in modo da mantenere lo storico). 
+* Y = Da incrementare se vengono aggiunte attività alla procedura.
+* Z = Da incrementare ad ogni modifica del documento. 
+
+
+
+
+
+
+
+
+Da condividere con:
+
+
+* Direzione Operativa
+* Direzione Commerciale
+* RM (Regional Manager)
+* HCM (Health Coach Manager)
+* Specialist
+* Health Coach 
+* Finance & Administration
+* Business Unit
+* Staff Santagostino
+
+
+
+
+Distribuito il 06/08/2024 in formato digitale. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INDICE
+1. Premessa
+2. Indice        
+3. Modalità di pagamento
+4. Gestione Storni e Rimborsi
+        
+________________
+
+
+1. Premessa            
+Il presente documento descrive le modalità di pagamento accettate nelle nostre strutture, con l'obiettivo di garantire efficienza e trasparenza. Verranno illustrati i metodi di pagamento disponibili e le procedure specifiche per ciascuno.
+È essenziale che tutto il personale segua attentamente queste linee guida per mantenere alti standard di qualità e sicurezza. Aggiornamenti continui saranno effettuati per adattarsi alle nuove tecnologie e alle esigenze dei clienti.     
+
+
+2. Indice
+
+
+* Procedura per la gestione dei pagamenti con Contanti
+* Procedura per la gestione dei pagamenti con Bancomat e Carta di Credito
+* Procedura per la gestione dei pagamenti con Bonifici
+* Procedura per la gestione dei pagamenti con Assegni
+* Procedura per la gestione dei pagamenti con Scalapay
+* Procedura per la gestione dei pagamenti con Satispay
+* Procedura per la gestione dei pagamenti con Finanziaria
+* Procedura per la gestione dei pagamenti Online
+* Procedura per la gestione degli Storni e Rimborsi                                                                                                                        
+3. Modalità di pagamento
+
+
+* Procedura per la gestione dei pagamenti con Contanti
+
+
+Una volta effettuata l'accettazione del paziente, accedere alla sezione FATTURAZIONE. All'interno di questa sezione, sarà necessario selezionare il metodo di pagamento CONTANTI. 
+Dopo aver selezionato il metodo di pagamento, procedere cliccando su CREA FATTURA. 
+È fondamentale verificare con attenzione l'importo dovuto dal paziente per evitare discrepanze in cassa. Ogni operatore dispone di una cassa con un fondo di 100€ per la gestione dei resti, che deve essere utilizzato per fornire il resto corretto al paziente. 
+
+
+Infine, è importante informare il paziente che, secondo la legge di Bilancio entrata in vigore  il 1 Gennaio 2020 se il pagamento avviene in contanti, la fattura non può essere detratta dal modello 730.
+
+
+
+
+* Procedura per la gestione dei pagamenti con Bancomat e Carta di Credito
+
+
+Per gestire correttamente i pagamenti tramite POS con Bancomat o Carta di Credito, seguire attentamente i passaggi descritti di seguito.
+
+
+Una volta effettuata l'accettazione del paziente, cliccare sulla sezione FATTURAZIONE.
+
+
+All'interno della sezione fatturazione, sarà necessario selezionare il metodo di pagamento desiderato. Le opzioni disponibili sono BANCOMAT e CARTA DI CREDITO.
+Selezionare l'opzione appropriata in base alle preferenze del paziente.
+
+
+Dopo aver selezionato il metodo di pagamento, procedere cliccando su CREA FATTURA. 
+
+
+Questo passaggio è essenziale per generare la richiesta di pagamento sul terminale POS.
+
+
+Il terminale POS visualizzerà l’importo che il paziente deve pagare. È importante verificare attentamente che l’importo visualizzato corrisponda esattamente a quello dovuto dal paziente. Se l’importo è corretto, chiedere al paziente di confermare il pagamento. Una volta confermato, la fattura verrà automaticamente generata a sistema.
+
+
+NB: Solo nel caso in cui l’importo non venga visualizzato o nel caso di un malfunzionamento della connessione tra HISWEB e POS, è necessario adottare una procedura alternativa. Modificare il metodo di pagamento selezionando ELETTRONICO MANUALE. A questo punto, digitare manualmente l’importo corretto direttamente sul terminale POS e procedere con il pagamento come di consueto.
+
+
+* Segnalazione di Malfunzionamento
+
+
+Se si verifica un malfunzionamento del terminale POS, è fondamentale segnalarlo tempestivamente per evitare disagi futuri. Aprire un ticket sulla piattaforma Osticket selezionando tipo richiesta: AMMINISTRAZIONE/ SCAMBIO IMPORTO. Nel ticket, fornire tutti i dettagli necessari per la risoluzione del problema. 
+
+
+
+
+
+
+
+
+* Procedura per la gestione dei pagamenti con Bonifici
+
+
+Il paziente può effettuare il pagamento tramite bonifico per importi superiori a 800€. In questo caso, è necessario effettuare il bonifico almeno due giorni lavorativi prima della data di erogazione della prestazione, oppure in caso di situazioni straordinarie in cui non sia possibile utilizzare altri metodi di pagamento. Le informazioni necessarie per il bonifico sono riportate di seguito:
+
+
+Prestazioni poliambulatoriali: 
+
+
+Beneficiario: Società e Salute SPA
+Indirizzo: Via Temperanza n. 6, 20127 Milano
+Banca: Intesa SanPaolo
+IBAN: IT30D0306909457100000010474
+Causale: Nome Cognome, Codice Paziente, Sede, Prestazione, Giorno.
+Importo: specificare l'importo in €
+
+
+Prestazioni odontoiatriche: 
+
+
+Beneficiario: Società e Salute SPA
+Indirizzo: Via Temperanza n. 6, 20127 Milano
+Banca: Unicredit
+IBAN: IT18V0200801600000105868542
+Causale: Nome Cognome, Codice Paziente, Sede,  Prestazione, Giorno.
+Importo: specificare l'importo in €
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Procedura per la gestione dei pagamenti con Assegni
+
+
+L’operatore ritira l'assegno e controlla che sia compilato correttamente con luogo e data di emissione, importo in cifre e in lettere, beneficiario "Società e Salute S.p.A" con timbro, e firma dell'emittente. Non si accettano assegni post-datati e devono essere non trasferibili. 
+
+
+Nel poliambulatorio non si accettano assegni bancari, ad eccezione delle prestazioni di Chirurgia Complessa erogate nella regione Emilia Romagna, per le quali è possibile utilizzare assegni bancari seguendo le regole applicate in odontoiatria specificate di seguito.
+
+
+In odontoiatria non si accettano assegni bancari per importi inferiori a 800 €. Si accettano assegni bancari per importi tra 800 € e 5.000 €, e assegni circolari per importi superiori a 
+5.000 €.
+
+
+Una volta ritirato l’assegno, trascrivere a matita sul retro dell'assegno il numero di fattura (es. F:48041577). Avvisare via email l’HCM dell’avvenuto incasso. Fotocopiare l'assegno e conservarne la copia nella cassa, mentre l'originale va in cassaforte. Registrare l'importo nel file casse nella colonna "Assegno". 
+
+
+Se l'intestatario della fattura non coincide con l'emittente dell'assegno, allegare copia di entrambi i documenti. 
+
+
+Gli assegni dovranno essere versati in banca settimanalmente dall’HCM per la regione Lombardia. Per le sedi dell’Emilia Romagna l’assegno verrà ritirato dal portavalori (Battistolli) insieme ai contanti. 
+
+
+* distinta di versamento
+
+
+Attenzione: la firma da apporre dietro l’assegno può essere fatta solo da chi è in possesso di delega per le operazioni di cassa. Per chi non avesse ancora la firma può farli versare ad un collega con delega inviando la richiesta a amministrazione@santagostino.it. 
+
+
+
+
+
+
+
+
+
+
+* Procedura per la gestione dei pagamenti con Scalapay
+
+
+Il servizio è attivo solo per i pagamenti in sede, con importi pari o inferiori a 2.000€, e non accetta pagamenti online.
+
+
+Il paziente sceglie Scalapay come modalità di pagamento al desk, dove l’operatore comunica il costo totale comprensivo di commissioni e bollo. Il paziente invia tramite l'app Scalapay la cifra esatta; se la transazione è approvata, viene generato un barcode sul telefono del paziente. L’operatore seleziona "Scalapay" come modalità di pagamento e, cliccando su "Crea Fattura", genera la fattura se il barcode è corretto. 
+
+
+  
+
+
+
+Il servizio può essere utilizzato anche per le prestazioni odontoiatriche accettate e saldate su HisWeb, quali:
+
+
+- VISITA: Visita odontoiatrica con percorso diagnostico
+- VISORTO: Visita ortodontica adulti
+- VISITA 18: Prima visita odonto/orto under 18
+- OD01: Visita odontoiatrica con igiene
+- OD02: Visita gnatologica
+- IM: Intervento di emergenza
+- IGIENEO: Igiene dentale
+
+
+È inoltre possibile utilizzare Scalapay per prestazioni odontoiatriche presenti all’interno di un preventivo con piano di pagamento impostato su modalità “E” o “P”. Una o tutte le rate presenti in un piano di pagamento “P” possono essere saldate tramite questa modalità.
+NB: comunicare al paziente di selezionare come negozio “Santagostino odontoiatria" dalla sezione “In negozio” dell’app
+
+
+Modalità di pagamento E: 
+
+
+  
+
+
+
+Modalità di pagamento P:  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In caso di errore nel codice inserito, il sistema restituisce un messaggio di errore e il pagamento non viene effettuato; è necessario reinserire correttamente il codice.
+
+
+
+
+* Procedura per la gestione dei pagamenti con Satispay
+
+
+In ogni sede in cui è attivo Satispay, il paziente può identificare la struttura tramite un QR Code o utilizzare l’app Satispay per visualizzare la sede tramite GPS. 
+
+
+NB: Per odontoiatria le uniche prestazioni che possono essere saldate con metodo Satispay sono Visita e Igiene.
+
+
+Quando il paziente richiede il pagamento con Satispay al desk, viene comunicato l’importo totale delle prestazioni da saldare. Il paziente poi invia autonomamente l’importo esatto tramite l’app Satispay.
+
+
+L’operatore, a questo punto, seleziona “Satispay” come modalità di pagamento e clicca su “Crea Fattura”. 
+
+
+Si aprirà una schermata che mostra tutti i pagamenti in attesa di approvazione, con dettagli su Nome e Cognome. Dopo aver selezionato il pagamento e cliccato su “Approva”, viene generata la fattura e il denaro viene incassato.
+
+
+  
+
+
+
+
+
+In caso di storno della fattura, il rimborso della prestazione può essere effettuato con modalità contante o bonifico.
+
+
+
+
+* Procedura per la gestione dei pagamenti con Finanziaria
+
+
+La gestione dei pagamenti tramite finanziaria è una soluzione che permette ai pazienti di accedere alle cure odontoiatriche necessarie senza dover sostenere immediatamente l'intero costo del trattamento. Questa opzione offre la possibilità di dilazionare il pagamento nel tempo, rendendo più accessibili le cure dentistiche, anche quelle di importi più elevati. In questo contesto, è possibile usufruire della finanziaria  COFIDIS : 
+
+
+* Qui la procedura dettagliata per la gestione dei pagamenti. 
+
+
+
+
+
+
+* Procedura per la gestione dei pagamenti Online
+
+
+Sul sito nell’area personale, è possibile salvare un metodo di pagamento (carta di credito, di debito o prepagata o l'account Paypal) in modo che la maggior parte dei pagamenti avvenga in modo automatico.
+
+
+In regime privato l'importo della prestazione verrà automaticamente addebitato dopo la visita. La fattura sarà disponibile sul suo dossier clinico.
+
+
+In regime assicurativo, il personale della sede può addebitare la franchigia a carico del paziente in fase di accettazione, utilizzando come metodo di pagamento quello online.
+
+
+Qui la pagina del paziente smart
+
+
+
+
+
+
+
+
+
+
+4. Gestione Rimborsi e Storni
+
+
+* Procedura per la gestione dei Rimborsi e Storni
+
+
+Gli storni sono fondamentali per correggere errori, annullare operazioni non valide o adeguare transazioni precedentemente registrate. Questa procedura prevede la generazione di una nota di credito, garantendo che i conti siano bilanciati correttamente.
+
+
+NB: Queste operazioni non possono essere eseguite dal team del Service Center. 
+
+
+Nella schermata di fatturazione del gestionale, è possibile gestire sia lo storno che l'annullamento delle fatture:
+
+
+* Annullamento della Fattura:
+
+
+Se la fattura è stata emessa per errore e non è stato effettuato alcun pagamento da parte del paziente, è possibile procedere con l'annullamento della fattura. Il sistema genererà automaticamente una nota di credito, visualizzabile nella scheda contabile del paziente. 
+  
+
+
+
+
+
+* Storno del Documento: 
+
+
+Utilizzando la funzione di storno documento, verrà automaticamente generata una nota di credito. In questa fase, sarà possibile specificare la modalità di rimborso corretta, assicurando che il rimborso venga effettuato in modo appropriato.
+  
+
+
+
+* Modalità di rimborso: 
+
+
+Contanti: Permette di rimborsare i documenti emessi con tutti i metodi di pagamento, ad esclusione dei finanziamenti 
+Bonifico: Permette di rimborsare i documenti emessi con tutti i metodi di pagamento, ad esclusione dei finanziamenti 
+Online: Permette di rimborsare solo i documenti pagati con metodo di pagamento ONLINE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prima di procedere allo storno di una fattura di un paziente che ha pagato con una carta agganciata al profilo, verifica dai log se il pagamento è avvenuto in prenotazione o in accettazione.
+
+
+* se ha pagato in prenotazione e hai effettuato l’accettazione lo storno NON comporterà alcun rimborso automatico
+* se ha pagato in prenotazione e NON hai effettuato l’accettazione lo storno farà partire un rimborso automatico
+* se ha pagato in accettazione con metodo smart lo storno farà partire un rimborso automatico
+
+
+Se il paziente ha pagato una parte in prenotazione e la differenza in accettazione (es: il medico aggiunge una prestazione) lo storno della fattura rimborserà solo la parte pagata in accettazione.
+
+
+* Rimborsi Parziali 
+
+
+Il paziente ha pagato in contanti, pos, assegno, bonifico:
+
+
+* Se il rimborso è > 100€ 
+Apro ticket specifico per rimborso amministrazione e allego nota di credito e nuova fattura entrambe emesse con metodo di pagamento bonifico. 
+
+
+* Se il rimborso è < 100€ 
+Annullo la fattura, emetto una fattura con la stessa modalità di pagamento. Al paziente è possibile rimborsare l’importo in contanti (se presenti in sede) o in alternativa tramite bonifico utilizzando la stessa procedura descritta sopra.
+
+
+Il paziente ha pagato con metodo online
+Per i pagamenti online gli storni parziali sono gestiti solo dal team rimborsi via ticket. Questi casi non vengono mai gestiti dal personale di sede o service center.

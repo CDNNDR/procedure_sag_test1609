@@ -1,0 +1,19 @@
+﻿ACCESSO E AUTENTICAZIONE VPN 
+
+
+1. Avviare l'applicazione Forticlient
+1.   2. 3. Verificare  che sia presente nel campo “Vpn Name” la scritta “Santagostino” 
+4.   
+
+   3. Inserire come username il proprio login (nome.cognome) e come password quella utilizzata per l'accesso all'account Google
+
+
+  
+
+
+
+
+
+
+
+   4.    5.    6. 4. Se per caso dovesse fermarsi l'avanzamento percentuale e dare errore di collegamento, probabilmente bisogna aggiornare la password dell'account Google

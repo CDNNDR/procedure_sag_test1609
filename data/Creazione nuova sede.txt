@@ -1,0 +1,724 @@
+﻿Procedura creazione nuova sede
+	Pagina 1 di 13 
+
+
+
+
+Data 16/11/2022
+      
+	
+
+
+
+COVER DELLA PROCEDURA
+	
+
+Titolo procedura
+	Procedura creazione nuova sede
+	Versione
+	1.0.0
+	Data
+	16/11/2022
+	
+
+
+
+Autore
+	Maffucci Valentina (PM)
+	Owner
+	Maffucci Valentina (PM)
+	Verificato da
+	Deborah Dabini
+	
+
+
+
+Tracciamento modifiche
+	Data
+	Ver.
+	Autore 
+	Ruolo
+	Note
+	01/03/23
+	
+
+	Maffucci Valentina
+	PM
+	cambi ruoli nelle attività 
+	22/11/23
+	
+
+	Maffucci Valentina
+	PM
+	revisione creazione sede con Wizard
+	
+
+NOTE:
+Versione: 
+* X = MODIFICABILE SOLO DALL’OWNER. Da incrementare solo per modifiche strutturali della procedura (prima di incrementare e modificare la versione, esportare pdf versione precedente in modo da mantenere lo storico). 
+* Y = Da incrementare se vengono aggiunte attività alla procedura.
+* Z = Da incrementare ad ogni modifica del documento. 
+
+
+  
+
+	Procedura creazione nuova sede
+	Pagina 2 di  
+
+
+
+
+Data 16/11/2022
+      
+	              
+
+
+
+
+Da condividere con:
+
+
+* BU (Business Unit)
+* U (Unit)
+* RM (Regional Manager)
+* HCM (Health Coach Manager)
+* Specialist
+* Staff Santagostino 
+
+
+Distribuito il: 16/11/2022
+
+
+
+
+INDICE
+1. Scopo della procedura        
+2. Responsabilità        
+3. Capitoli        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+	Procedura creazione nuova sede
+	Pagina 3 di  
+
+
+
+
+Data 16/11/2022
+      
+	              
+                                                                  
+1. Scopo della procedura 
+Questa procedura descrive le azioni da intraprendere quando si apre una nuova sede, in particolare la creazione delle sede di in SAP e compilazione check list di sede. 
+2. Responsabilità
+La procedura deve essere applicata dal personale di Head Office e Customer Care.
+3. Capitoli
+1. Comunicazione 
+2. Amministrazione
+3. HCM o Referente nuova sede
+4. HR medici
+5. People & Culture  + HCM o Referente nuova sede
+6. HCM o Referente nuova sede
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+	Procedura creazione nuova sede
+	Pagina 4 di  
+
+
+
+
+Data 16/11/2022
+      
+	
+
+
+
+
+
+1 - Comunicazione →  Ideazione nome Nuova Sede (Silvano Rubino + Valentina Maffucci)
+
+
+L’ufficio comunicazione comunica il nome ufficiale della nuova sede all’ufficio Amministrazione e al resto della pipeline. 
+NB: Il nome della sede, deve avere sempre inclusa la provincia prima del nome.
+
+
+
+
+2 - Amministrazione → Creazione Progetto (Sara Gotti) 
+
+
+L’ufficio Amministrazione crea la nuova sede in Wizard che assegnerà in automatico il numero progressivo. 
+Inoltre compila i seguenti campi: nome sede, indirizzo, mettere "Attiva" e salvare. 
+
+
+Per rendere operativo il tutto serve riavviare l'Add on HIS oppure uscire e rientrare da SAP.
+
+
+Alla fine del processo è possibile comunicare al referente che si occuperà della creazione della sede che i passaggi sono stati completati ed è possibile procedere con il resto delle attività. 
+
+
+Wizard  - Crea nuova sede:
+  
+
+
+
+Add-On Manager
+
+
+  
+
+
+
+              
+
+
+3 -  HCM o Referente nuova sede → CREAZIONE NUOVA SEDE +  CONDIVISIONE CHECK LIST 
+
+
+L’HCM o referente dell’apertura della nuova sede può procedere con la creazione della sede in sap e condividere a staff HO la check list 
+
+
+
+
+SELEZIONARE DAL MENU PRINCIPALE: 
+
+
+1. MULTI SEDE
+2. CREA UNA NUOVA SEDE
+
+
+   
+
+
+  
+
+	Procedura creazione nuova sede
+	Pagina 6 di  
+
+
+
+
+Data 16/11/2022
+      
+	
+
+
+
+
+
+CLICCARE SUL CERCHIO INDICATO DALLA FRECCIA; 
+
+
+* Si aprirà una finestra dove selezionare la sede.
+* Premere selezionare
+
+
+*   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+	Procedura creazione nuova sede
+	Pagina 7 di  
+
+
+
+
+Data 16/11/2022
+      
+	
+
+
+
+PARAMETRIZZAZIONE HIS
+
+
+1 - cliccare sulla barra parametri HIS
+2 - cliccare come da immagine copia da sede esistente
+3 - scegliere la sede più simile a quella che si apre (già esistente) 
+4 - Aggiornare
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+	Procedura creazione nuova sede
+	Pagina 8 di  
+
+
+
+
+Data 16/11/2022
+      
+	
+
+
+
+
+
+ATTIVARE SERIE DI NUMERAZIONE: 
+
+
+
+
+1 - cliccare sulla barra serie di numerazione
+2 - selezionare le celle ACC e PRE 
+3 - cliccare in basso a sx aggiungi serie 
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+	Procedura creazione nuova sede
+	Pagina 9 di  
+
+
+
+
+Data 16/11/2022
+      
+	
+
+
+
+ATTIVARE BRANCHE SULLA SEDE:
+
+
+1 - selezionare sulla barra BRANCHE e flaggare le specialità attive sulla sede e deselezionare quelle che non sono presenti 
+2 - selezionare memorizza branche
+
+
+  
+
+
+
+
+
+NB: comunicare a Selenia Donzella e Alberto Checchi  l'elenco delle branche da autorizzare in fase di apertura. 
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+	Procedura creazione nuova sede
+	Pagina 10 di  
+
+
+
+
+Data 16/11/2022
+      
+	
+
+
+
+ATTIVARE UTENTI SULLA SEDE:
+
+
+
+
+1 - selezionare sulla barra UTENTI e flaggare gli operatori con mansione accettazione e gli operatori con mansione medico (selezionare solo i medici che saranno presenti nella sede) 
+
+
+2 - selezionare aggiornare 
+
+
+ATTIVARE ASSICURAZIONI SULLA SEDE:
+
+
+1 - selezionare sulla barra ASSICURAZIONI e flaggare solo le voci elencate:  
+
+
+   * PRIVATO
+   * SCONTO 40%
+   * NON PAGANTE
+   * NON PAGANTE PER RIPETIZIONE
+   * sconto BUONO SALUTE
+   * VOUCHER CMS 
+
+
+2 - selezionare aggiornare 
+
+
+NB: Le successive assicurazioni verranno inserite da GABRIELE CASCIATO  quando convenziona la sede con le assicurazioni private.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+	Procedura creazione nuova sede
+	Pagina 11 di 
+
+
+
+
+Data 16/11/2022
+      
+	
+
+
+
+ATTIVARE ELIMINA CODE PRESENTE IN SEDE
+
+
+Trovate in alto a dx un flag da selezionare per attivare l’eliminacode (totem) 
+
+
+Cosa vuol dire attivare l’eliminacode? 
+Sostanzialmente al pz NON arriverà il codice fast check in, questo permetterà di far ricevere l’sms  con il fast check in solo ai pz che si recano nella sede in cui è presente il totem. 
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+	Procedura creazione nuova sede
+	Pagina 12 di  
+
+
+
+
+Data 16/11/2022
+      
+	
+
+
+
+PROCEDURA CREAZIONE STANZE 
+
+
+TOOLS / FINESTRE DEFINITE DALL’UTENTE / SAINS_AMB_VISITE
+  
+
+
+
+Compilare i campi:
+Code, Name (uguale a Code), Descrizione ambulatorio, Sede (con il numero sede comunicato dall’Amministrazione).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+	Procedura creazione nuova sede
+	Pagina 12 di  
+
+
+
+
+Data 16/11/2022
+      
+	
+
+
+
+4 - Ufficio HR MEDICI →  Creazione Google Groups
+
+
+Seguire il  Manuale GoogleGroups per la creazione dei nuovi gruppi. In generale, è necessario creare:
+
+
+   * tutti i gruppi branca-sede nuova (es: cardiologi- castaldi@...) 
+   * 1 gruppo medici-sede nuova (es: medici-castaldi@...)
+
+
+
+
+Inoltre, bisogna riempire i gruppi nel seguente modo: Attività in carico ad HCM/Specialist 
+
+
+   * I gruppi specialità-sede nuova vanno riempiti con gli specialisti relativi;
+   * I gruppi specialisti-città vanno riempiti con i neo gruppi specialisti-sede nuova relativi; 
+   * Nel gruppo medici-città va inserito il neo gruppo medici-sede nuova; 
+
+
+5 - People & Culture + HCM o Referente sede →  Creazione Google Groups
+
+
+Seguire il Manuale GoogleGroups per la creazione dei nuovi gruppi. In generale, è necessario creare:
+   * gruppo desk-sede nuova (es: desk-castaldi@...) + segreteria-castaldi@....
+
+
+   * Inserire nel gruppo desk-sede HCM di riferimento con il ruolo di Gestore senza notifica email attiva 
+
+
+   * Nel gruppo customer care va inserito il neo gruppo desk-sede nuova. 
+
+
+Quando i gruppi sono creati avvisare HCM o referente della nuova sede. 
+Inoltre, bisogna riempire i gruppi nel seguente modo: Attività in carico a HCM o referente della nuova sede
+
+
+   * I gruppi desk-sede vanno riempiti con gli health coach di sede
+   * avvisare dipartimento DDD (Giulia Bravo) per creazione sede su osticket indicando l’indirizzo gmail della sede
+
+
+  
+
+	Procedura creazione nuova sede
+	Pagina 13 di  
+
+
+
+
+Data 16/11/2022
+      
+	
+
+
+
+
+
+6 - HCM o Referente sede →  TESTING, TROUBLESHOOTING
+
+
+Rimane solo da fare il testing: fare una prova di prenotazione direttamente dal sito www.santagostino.it , come se a farla fosse un paziente. Se va tutto a buon fine, comunicare ai gruppi customer care, staff-ho e stagisti-ho la fine del processo.
+
+
+
+
+   * Inviare email a tutto lo Staff per comunicare l’apertura del nuovo centro. (HCM)
+
+
+      Informazioni da inserire nella mail; 
+
+
+   * dove si trova la sede
+   * giorno di apertura 
+   * come è composta la sede (quante stanze, specialità…) 
+   * accessibile o no ai disabili
+   * chi sono i desk officer e lo specialist di riferimento - inserire email del desk 
+   * allegare layout se a disposizione
+   * allegare pagina sito

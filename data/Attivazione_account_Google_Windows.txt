@@ -1,0 +1,32 @@
+﻿AUTENTICAZIONE ACCOUNT GOOGLE
+SU PC WINDOWS
+
+
+1. Accedere come “Altro utente”
+2. 3. Cliccare sull'icona Google, oppure se già presente su “Accedi con il tuo account di lavoro
+4.   
+
+3. Inserire la propria email Santagostino
+
+
+  
+
+
+
+
+
+4. Inserire la propria password
+
+
+  
+
+
+
+5. Alla comparsa di questa richiesta, inserire la password di default: Santagostino24!
+6.   
+
+
+
+
+
+6. All'apertura del PC, se non fosse sincronizzata l'utenza su Google Chrome, cliccare in alto a destra in corrispondenza di questa icone, attivare la sincronizzazione mettendo nuovamente le credenziali di Santagostino (email e password)

@@ -1,0 +1,198 @@
+﻿Procedura gestione pazienti CUP di Imola
+
+
+	Pagina  di  
+
+
+
+
+
+
+      
+	
+
+
+
+COVER DELLA PROCEDURA
+	
+
+Titolo procedura
+	Procedura gestione pazienti CUP di Imola 
+	Versione
+	1.0.0
+	Data
+	02/08/2024
+	
+
+
+
+Autore
+	Valentina Maffucci (Operation Team Leader)
+	Owner
+	Valentina Maffucci (Operation Team Leader)
+	Verificato da
+	
+
+	
+
+
+
+Tracciamento modifiche
+	Data
+	Ver.
+	Autore 
+	Ruolo
+	Note
+	GG/MM/AA
+	X.Y.Z
+	Nome Cognome
+	Job title
+	Descrizione delle modifiche
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+NOTE:
+Versione: 
+* X = MODIFICABILE SOLO DALL’OWNER. Da incrementare solo per modifiche strutturali della procedura (prima di incremetare e modificare la versione, esportare pdf versione precedente in modo da mantenere lo storico). 
+* Y = Da incrementare se vengono aggiunte attività alla procedura.
+* Z = Da incrementare ad ogni modifica del documento. 
+________________
+* 
+
+Da condividere con:
+
+
+* Direzione Operativa
+* Direzione Commerciale
+* Regional Manager Emilia Romagna
+* HCM Imola
+* Specialist Imola
+* Desk Imola 
+* Responsabile Service Center
+
+
+
+
+Distribuito il 02/08/2024: data di distribuzione del documento in forma digitale.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+
+
+
+
+INDICE
+1. Premessa        
+2. Flusso prenotazione e accettazione pazienti Cup di Imola  
+3. Flusso refertazione medici CUP di Imola
+4. Flusso pagamento pazienti CUP di Imola 
+5. Agendazione
+        
+
+
+________________
+
+
+1. Premessa            
+Il presente documento descrive il processo standard adottato per la gestione dei pazienti del CUP di Imola, coprendo le fasi di prenotazione, accettazione e fatturazione. Viene inoltre illustrata la gestione da parte dei medici relativa alla refertazione e all'acquisizione dei campioni di anatomia patologica o istologia. L'attuazione di questa procedura è fondamentale per mantenere elevati standard di cura e soddisfare le esigenze della nostra comunità.                                                                                                                                                          
+2. Flusso prenotazione e accettazione pazienti Cup di Imola 
+
+
+L'AUSL di Imola prenota le prestazioni tramite il proprio gestionale del CUP. Il desk di Imola ha accesso al portale per visualizzare i pazienti prenotati. I pazienti si presentano in sede, dove il personale del desk li informa su dove recarsi. Le prestazioni non vengono mappate nei nostri sistemi.
+Se un medico ha necessità di erogare una prestazione di laboratorio (istologia, tamponi, anatomia patologica) contatta telefonicamente il desk e richiede l'inserimento del paziente. Il desk accede al portale del CUP per recuperare i dati del paziente e inserirli in HIS WEB, permettendo la creazione di un'accettazione diretta per il medico. Questo abilita il medico alla refertazione e all'acquisizione del campione. Il consenso privacy verrà raccolto in fase di fatturazione.
+NB: Nel caso in cui un paziente del Cup dovesse mettersi in contatto tramite i nostri servizi di Service Center, è necessario aprire un ticket al desk di Imola in modo che possano supportare in caso di necessità. 
+
+
+3. Flusso Refertazione medici CUP di Imola
+La refertazione dei medici dell’Ausl di Imola viene gestita all’interno del gestionale del CUP. L'accesso a ECMS è consentito solo ai medici con prestazioni di laboratorio nel proprio listino e permette di accedere esclusivamente alla pagina per l'acquisizione dei campioni, senza accesso alle cartelle cliniche dei pazienti Santagostino.
+
+
+Medici con accesso al portale del CUP di Imola
+
+
+* Ceroni Compadretti Giacomo Andrea (Otorinolaringoiatria) 
+* Manetti Massimo (Geriatria)
+* Palmonari Massimo (Ortopedico) 
+* Sani Leonardo (Neurologia)
+* Garfalo Marco (Urologia) 
+
+
+Medici con accesso al gestionale del CUP di Imola + ECMS 
+
+
+* Cani Carlotta (Ginecologia e Ostetricia) 
+* Costa Francesco (Urologia) 
+
+
+Procedura di Refertazione per Prestazioni in Sala Operatoria
+
+
+Per le prestazioni effettuate in sala operatoria, i medici utilizzano il registro operatorio cartaceo. Questo registro viene compilato e conservato in sede. Successivamente, i medici emettono il referto digitale attraverso il gestionale CUP, il quale viene poi consegnato direttamente al paziente.
+4. Flusso pagamento pazienti CUP di Imola 
+
+
+I pazienti potranno pagare le prestazioni erogate tramite il CUP direttamente al desk, utilizzando il POS fornito dall'AUSL di Imola. Le prestazioni di anatomia patologica e istologia dovranno essere saldate e fatturate tramite il nostro gestionale HIS WEB, effettuando il pagamento sul POS Santagostino.
+
+
+5. Agendazione
+L’Ausl comunica alla sede quali sono le date e ore di apertura agende. Le agende dei professioni elencati sopra dovranno essere aperte nel gestionale HIS WEB         per avere evidenza degli spazi occupati in sede, all’interno delle agende non sarà possibile prenotare nessun tipo di prestazione Le prestazioni non vengono inserite nelle agende, ma si procede tramite accettazione diretta. 
+Direzione Sanitaria Santagostino
+Società e Salute Spa - Sede le
+gale via Temperanza, 6 - 20127 Milano - P.Iva 03740811207 e C.F. 05128650966

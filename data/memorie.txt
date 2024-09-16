@@ -1,0 +1,2022 @@
+﻿CENISIO
+
+
+Ciao, di quale Centro Medico Santagostino stiamo avendo problemi?
+
+
+Il centro di via Cenisio, angolo via Monviso 43. 
+
+
+ok, l’ingresso del centro denominato Cenisio si trova in via Cenisio 43 e si accede tramite badge o con lo smartphone o usando il portale https://cmsantagostino-sedi.jago.cloud/locks per l’apertura da remoto.
+
+
+non c’è corrente e non riesco entrare, come posso fare?
+
+
+la sede di cenisio ha due contatori, uno che serve via Monviso 43 e uno che serve via Cenisio 5. Se non c’è corrente sulla porta di ingresso, vuol dire che potrebbe essere saltato il contatore di quella che chiamiamo fase 1 (contatore su via cenisio 5). 
+
+
+quali altri modi ci sono per entrare nella sede di Cenisio?
+
+
+si può entrare dal portone condominiale di via Cenisio e se si hanno le chiavi, entrare da una delle porte vetrate del cortile, oppure se c’è corrente nella fase 2 del centro (contatore di via Monviso 43) e si ha il pulsante, è possibile entrare dal passaggio carrabile (basculante). In extremis è possibile sfondare la rete “smoke out” che si trova sopra la porta finestra che si trova su via Monviso 43.
+
+
+perchè salta la corrente nella sede di via Cenisio?
+
+
+il contatore di via Cenisio 5, denominato fase 1, ha una potenza di 30kW
+il contatore di via Monviso 43, denominato fase 2, ha una potenza di 90 kW
+le UTA del centro medico, della risonanza e delle sale operatorie sono sotto il contatore della fase 1 (30kW).
+tutte le pompe della centrale termica sono sotto il contatore della fase 1 (30kW)
+gli umidificatori sono sotto il contatore della fase 1 (30kW)
+l’impianto Daikin di condizionamento degli ambulatori da A1 a A9 è sotto il contatore della fase 1 (30kW).
+la polivalente 1 è sotto il contatore di fase 1 (30kW).
+sotto il contatore di fase 2 (90kW) troviamo invece la polivalente 2, tutte le macchine di diagnostica per immagini come RM, RX, TAC, Mammografo.
+
+
+ok quindi perchè salta corrente a volte?
+
+
+se sul contatore di fase 1 si accendono in contemporanea la polivalente 1 e l’impianto Daikin o la polivalente 1 e le UTA con gli umidificatori, l’impianto supera la sua potenza massima.
+
+
+quanto consumano i vari elementi dell’impianto?
+
+
+la polivalente 1 e la polivalente 2 consumano dai 18 ai 25kW, un umidificatore può consumare anche 7-8 kW di potenza. L’impianto di condizionamento Daikin può arrivare ad 11 kW di potenza elettrica, così come le pompe tutte assieme possono arrivare a 10-13kW di potenza elettrica.
+senza corrente come posso fare per gestire la risonanza magnetica?
+
+
+la sede Santagostino denominata Cenisio ha una risonanza magnetica da 1.5 Tesla, con tubo di quench, marca Siemens Altea. La macchina deve sempre avere acqua fredda per raffreddare il compressore che tiene l’elio vicino allo zero assoluto.
+La risonanza magnetica non può stare senza corrente elettrica, in caso di blackout della fase 1 (contatore di via Cenisio), le pompe di ricircolo ed il sistema di supervisione ISMA controlli sono spenti, quindi è necessario intervenire in fretta per ripristinare il problema.
+se invece ci fosse un blackout in fase 2 (via Monviso 43) le pompe continuerebbero ad andare, dando qualche ora di cuscinetto sfruttando i serbatoi di accumulo, mentre la polivalente 2 sarebbe spenta.
+
+
+Voglio analizzare i dati che arrivano dalla risonanza magnetica per capire qual’è il suo problema. Possiamo farlo?
+
+
+certo, la risonanza magnetica ha dei parametri monitorati tramite sensoristica:
+
+
+temperatura di mandata dell'acqua fredda
+temperatura di ritorno dell’acqua fredda
+potenza elettrica della risonanza, misurata con pinze amperometriche sul quadro 
+contatto pulito SIEMENS che scatta e manda allarme in caso di anomalia generica
+
+
+aiutami ad interpretare i dati
+
+
+se la temperatura di mandata dell’acqua e la temperatura di ritorno dell’acqua hanno valori molto simili, è possibile che ci siano le pompe di ricircolo il blocco, quindi che non ci sia movimento d’acqua.
+
+
+Un altra causa potrebbe essere che il compressore della risonanza non sia in funzione e quindi non stia scambiando calore con l’acqua. Ti accorgi se il compressore va o no perchè la potenza elettrica assorbita dalla risonanza si può dividere così:
+
+sopra i 3000 W (3kW) il compressore sta funzionando e la macchina è spenta
+sopra i 10000 W (10kW) la macchina è accesa e sta bene
+sotto i 2000W (2kW) la macchina ha problemi
+sotto i 1000W (1kW) la macchina ha problemi seri e bisogna intervenire
+
+
+se il compressore è sotto i 1000W di assorbimento elettrico, una volta che vengono ripristinate le pompe ed il flusso d’acqua occorre resettare il compressore, andando nel locale tecnico, aprendo l’armadio di Siemens stretto e lungo, dove arrivano i tubi dall’alto e girando F1 F2 e F3 i tre potenziometri neri posti alla base dell’armadiatura.
+
+
+La risonanza mi sta dando allarme alta temperatura o flusso, cosa posso fare?
+
+
+se la temperatura dell’acqua sale sopra i 26 gradi, la risonanza magnetica potrebbe bloccarsi e dare allarme di temperatura troppo alta. Spegnere la risonanza magnetica dal computer, aspettare che la temperatura dell’acqua scenda, facendo un check che una delle due polivalenti stia funzionando e riaccendere la risonanza magnetica.
+In generale cosa controllare quando si hanno problemi su una risonanza magnetica?
+
+
+
+
+A cenisio controllerei prima gli assorbimenti elettrici:
+
+
+1. la risonanza magnetica (RM o MRI) quanti kW sta consumando? se è sopra i 3kW lei è ok
+2. la polivalente 1 e la polivalente 2 quanti kW stanno consumando? se sono sopra i 10kW sono accese e stanno rinfrescando l’acqua
+3. verificherei che le pompe stiano andando, spesso se una delle due polivalenti è ferma, è perchè le pompe sono ferme e non chiamano la polivalente.
+4. verificare la temperatura di mandata e di ritorno dell’acqua, se sono simili come valore la pompa è ferma o il compressore della RM, se la temperatura di ritorno sale molto velocemente è un problema di pompe ferme.
+
+
+cosa mi sai dire sulla gabbia di faraday?
+
+
+la sala magnete o gabbia di faraday deve avere una temperatura compresa tra i 20 e 23 °C massimi e un'umidità relativa compresa tra i 55 e 65% di umidità.
+Quando ci sono problemi su questi valori è possibile che:
+
+
+1. l’UTA abbia i ventilatori spenti e quindi non stia spingendo aria dentro
+2. una delle batterie dell’UTA non sta ricevendo acqua fredda o calda, provare a vedere le valvole a tre vie o la percentuale di apertura di queste
+3. se in estate l’umidità è molto alta, potrebbe essere un problema della batteria di post riscaldamento, l’aria viene raffreddata velocemente dalla batteria fredda e poi passa dalla batteria calda (in estate), per perdere umidità
+
+
+come funziona l’impianto, la centrale termica di Cenisio?
+
+
+la sede Santagostino di Cenisio ha un impianto VRV ad espansione diretta Daikin che serve la sala d’attesa principale e gli ambulatori dall’A1 fino all'A9, ovvero quella zona che noi denominiamo Fase 1 e che afferisce al contatore di via Cenisio 5.
+Il resto della clinica, ovvero la Fase 2, blocco di diagnostica per immagini e la Fase 3, blocco chirurgico, sono serviti da due macchine polivalenti che producono acqua fredda e acqua calda che viene messa nei serbatoi di accumulo e servono le UTA e tutti gli ambulatori della Fase 2 e 3.
+
+
+L’impianto è dotato di umidificatori per la sala RM e le sale operatorie. Ha delle pompe gemellari, le pompe n°6 sono pompe di backup per il circuito frigo della risonanza magnetica. Sono da controllare in caso di problemi sulla risonanza magnetica.
+
+
+
+
+
+
+
+
+
+
+CORVETTO B
+
+
+ciao, se mi chiedi informazioni sul centro di Corvetto B, mi puoi confermare che è quello in viale Lucania 6 a Milano?
+
+
+si confermo che il centro Santagostino, denominato Corvetto B, si trova in viale Lucania 6, Milano, metro M3 Corvetto.
+
+
+raccontami del centro di Corvetto e di come sono fatti i suoi impianti.
+
+
+il centro di Corvetto B ha due pompe di calore Mitsubishi ad espansione diretta che vanno a servire tutti gli ambulatori, le sale d’attesa del centro. Servono anche la stanza RX e la TAC. 
+Poi abbiamo un Chiller della Rhoss che produce l’acqua fredda destinata al circuito frigo della risonanza magnetica da 1.5 Tesla. La stessa acqua serve due split idronici, uno nel locale rack e uno nel locale tecnico della risonanza magnetica.
+La sede è poi dotata di un UTA che va a servire la gabbia di faraday della risonanza magnetica. L’acqua fredda e l’acqua calda che serve per le batterie dell’UTA viene prodotta da una polivalente.
+Il ricambio d’aria, la VMC, viene prodotta da una macchina Cpan della CLIVET. Questa macchina ha un compressore che fornisce un supporto, circa 30kW di potenza, in estate ed inverno, e deve essere accesa per raffreddare l’aria di mandata in estate e scaldarla in inverno.
+
+
+che suggerimenti mi dai sulla gestione della climatizzazione della sede di Corvetto B?
+
+
+la sede di Corvetto B non ha problemi di energia elettrica, in quanto ha una cabina elettrica dedicata.
+La sede ha un involucro terribile, durante l’inverno e l’estate piena, le pompe di calore devono essere accese dalle 4 della mattina fino alle 22 di sera no stop, se no la sede non riesce a mantenere la temperatura. Anche di domenica deve essere acceso l’impianto nei periodi di picco del caldo o del freddo. In questi periodi dell’anno è fondamentale accendere la Clivet per fornire un supporto alle pompe di calore Mitsubishi. Si ricorda che erano state installate delle pellicole solari nelle vetrate al piano terra della sede. In particolare in estate la reception e la stanza B17 (infermeria) sono le più problematiche. In inverno invece la reception e le stanze B16 e B15 sono quelle che soffrono maggiormente.
+
+
+l’impianto va in blocco di solito?
+
+
+l’impianto solitamente non ha grossi blocchi, in passato saltava l’interruttore differenziale delle dorsali delle unità interne, ma è stato sostituito e non da più problemi. La Clivet ogni tanto va in blocco quando le temperature esterne sono molto alte, lo potete verificare guardando i dati dei sensori mandata clivet, ritorno clivet, corvetto B VMC su Datacake. Se supera i 27°C la macchina non sta lavorando. In estate dovrebbe mandare 24 gradi e in inverno 23 gradi.
+
+
+
+
+
+
+
+
+la sede di Corvetto B ha una risonanza magnetica, come si gestisce?
+
+
+Nella sede di Corvetto B abbiamo una risonanza magnetica da 1.5Tesla, sempre della Siemens ma modello Magnetom. Su questa sede non abbiamo molta sensoristica, abbiamo solo la temperatura di mandata e di ritorno dell’acqua e la temperatura del locale tecnico.
+
+
+cosa posso fare in caso di problemi sulla risonanza magnetica?
+
+
+se a corvetto B ci sono problemi sulla risonanza magnetica, queste sono le cose che controllerei:
+
+
+1. la temperatura dei sensori dell’acqua di mandata e ritorno che ci sono su Datacake. Se la temperatura dei due sensori è uguale abbiamo un problema di flusso, le pompe potrebbero essere ferme.
+2. se la temperatura dell’acqua è molto alta e anche quella del locale tecnico, vuol dire che non sta arrivando acqua fredda al circuito, il chiller probabilmente è in blocco
+3. se la gabbia di faraday ha temperature troppo elevate, potrebbe essere un blocco della polivalente o della valvola a tre vie. In passato era successo che non miscelasse bene ed era stata aperta tutta in freddo. La polivalente in passato ha dato allarmi di alta pressione.
+
+
+come entro in sede se c’è un blackout?
+
+
+senza corrente non è possibile entrare in sede a Corvetto B se non tramite chiavi. Il cancello elettrico su strada si apre con la corrente e con la serratura smart Sofia Locks, così come le porte che danno sul cortile interno. Sarebbe utile installare un sistema di UPS o di backup sulle serrature che in questo momento è assente.
+
+
+la sede ha un sistema di supervisione da remoto?
+
+
+la sede ha un sistema Mitsubishi e Clivet che permette di operare da remoto, ha un sistema Siemens Synco che ha un touch panel dietro alla reception, insieme ad un touch panel Mitsubishi. Il sistema Siemens Synco non ci permette di operare gran chè da remoto.
+Tutta la centrale termica della sede si trova in copertura, si accede dalla stanza di fisioterapia situata al primo piano vicino al locale rack.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PALAZZO DI GIUSTIZIA O CINQUE GIORNATE        
+
+
+ciao, se mi chiedi informazioni sul centro Santagostino di Cinque Giornate, mi puoi confermare che è quello in via Manara vicino al Palazzo di Giustizia a Milano?
+
+
+si confermo che il centro Santagostino, denominato Cinque Giornate, si trova in via Manara 17, zona Palazzo di Giustizia, Milano e si raggiunge comodamente con il tram n°19
+
+
+come sono fatti gli impianti della sede?
+
+
+la sede è divisa in due sezioni, una principale, fase A e una più piccina fase B. L’impianto clima è gestito da due macchine Samsung ad espansione diretta poste sulla copertura esterna dei box.
+Ci sono tre recuperatori a flussi incrociati, due nei bagni e uno nello spogliatoio, che fanno il ricambio d’aria della sede.
+
+
+in caso di problemi in sede sul condizionamento cosa faresti?
+
+
+la sede non ha grossi problemi di impianto, l’impianto clima performa bene e non serve accenderlo con grande anticipo. Anche perché la sede è al piano seminterrato.
+In caso di problemi controllare il DMS o il BioT Samsung per vedere se c’è qualche blocco sui termostati o qualche allarme. Inoltre assicurarsi che la ventilazione meccanica funzioni, non si possono aprire finestre in quanto danno su strada a livello del marciapiede.
+
+
+come si accede in sede se manca corrente?
+
+
+In sede si accede da via Luciano Manara 17, c’è un portone condominiale di cui serve la chiave e poi la serratura della clinica ha la serratura smart Sofia Locks con badge. In caso di blackout non si entra in sede, se non con le chiavi o passando dai box. Il condominio ha un servizio di portineria che dalle 7.30 fino alle 18.00 presidia l’ingresso su strada.
+
+
+altri consigli sulla sede di Cinque Giornate?
+
+
+se dovesse capitare, le chiusure dell’acqua si trovano nei bagni disabili e il passaggio di tubi dell’acqua è nelle grate davanti alla sede. Ci si può calare dal marciapiede alzando le grate. Prestare attenzione e farlo solo quando si è in due persone. Una deve controllare che nessuno cada nella grata aperta.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BARONA        
+
+
+ciao, se mi chiedi informazioni sul centro Santagostino di Barona, mi puoi confermare che è quello in via Walter Tobagi a Milano?
+
+
+si confermo che il centro Santagostino, denominato Barona, si trova in via Walter Tobagi 10, Milano 
+
+
+come sono fatti gli impianti della sede?
+
+
+la sede è servita da un impianto idronico condominiale. In inverno viene usata la caldaia condominiale per produrre acqua calda, in estate c’è un gruppo frigo condominiale in copertura che produce acqua fredda. L’impianto non è nuovissimo ed è stato di recente automatizzato in quanto i vecchi termostati non funzionavano correttamente. La sede inoltre è tutta vetrata con pellicole solari, ma in estate si consiglia di tenere abbassate le tende esterne per schermare dal sole. In estate nei giorni più caldi o in inverno nei giorni più freddi, si consiglia di contattare il condominio e chiedere che l’impianto centralizzato parta alla 6 della mattina. Diversamente la temperatura in sala d’attesa potrebbe non essere idonea e generare lamentele.
+
+
+in caso di problemi in sede sul condizionamento cosa faresti?
+
+
+controllerei se c’è acqua calda o fredda nell’impianto, o mettendo la mano sui tubi che portano l’acqua ai condizionatori o utilizzando una termocamera. Potresti verificare se dal portale Shelly le unità interne sono accese o alimentate da corrente elettrica. L’impianto essendo condominiale, spesso capita che l’inversione stagionale non venga fatta dal condominio o che cambino gli orari di funzionamento dell’impianto, provare a contattare anche l’amministratore in caso di problemi.
+
+
+
+
+come si accede in sede se manca corrente?
+
+
+In sede si accede da via Walter Tobagi 10, con accesso diretto da strada tramite chiave. La sede non ha serratura smart.
+
+
+altri consigli sulla sede di Barona?
+
+
+la sede ha un involucro pessimo in quanto è tutta vetrata, l’impianto clima deve essere programmato in maniera corretta. Non abbiamo sistemi di supervisione acquistati ma solo il sistema creato da Luca Savastano con i sensori AltAir e le Shelly pro 1 mini, che accendono le unità interne quando rilevano la presenza con la CO2. Durante i lavori di ristrutturazione della sede l’impianto clima non era stato toccato, quindi è piuttosto vecchio. Non sappiamo bene se la ventilazione funziona correttamente e spesso nella stanza dell’ottico, la n°5 capita che ci siano perdite condominiali. In quella stanza il controsoffitto è crollato due volte perchè si impregnava d’acqua a causa delle infiltrazioni.
+BUCCINASCO        
+
+
+ciao, se mi chiedi informazioni sul centro Santagostino di Buccinasco, mi puoi confermare che è quello in via Don Minzoni a Buccinasco?
+
+
+si confermo che il centro Santagostino, denominato Buccinasco, si trova in via Don Minzoni 25,a Buccinasco. Il centro non è facilmente raggiungibile con i mezzi pubblici, si consiglia l’uso dell’auto.
+
+
+come sono fatti gli impianti della sede?
+
+
+la sede è stata da poco rifatta dal punto di vista impianto di condizionamento. Ha un impianto idronico Samsung indipendente. L’impianto al momento non ha alcun sistema di supervisione, è quindi lasciato un po’ agli utenti e ha sicuro margini di miglioramento. In passato l’impianto era condominiale, condiviso con la farmacia che si trova al piano terra. L’impianto condominiale era alimentato da una pompa di calore idronica posta nel cortile esterno del centro. L’impianto condominiale aveva sempre creato problemi in quanto sotto dimensionato, ecco perchè nel 2023 abbiamo sfruttato l’ampliamento di due stanze del centro, per rifare le unità interne (inserendo macchine più potenti) e renderci indipendenti installato una unità esterna tutta nostra.
+
+
+in caso di problemi in sede sul condizionamento cosa faresti?
+
+
+verificherei dal sistema Samsung BioT se la pompa di calore esterna idronica, unico elemento che è remotizzato, presenta allarmi o sta funzionando. Controllerei il funzionamento delle pompe di circolazione, stanno spingendo l’acqua nell’impianto? e verificherei che le unità interne idroniche siano alimentate. L’acqua calda è ancora gestita a livello condominiale, occorre sentire i tecnici comunali in caso di problemi in quanto l’immobile è di proprietà del Comune di Buccinasco.
+
+
+come si accede in sede se manca corrente?
+
+
+In sede si accede dal piano strada in via Don Minzoni e non ha accesso smart. Si accede solo tramite chiave, salendo poi al primo piano dove si trova la clinica. Il contatore è posizionato fuori dalla clinica, nell’armadio metallico nella viuzza di fianco al centro al piano terra. Per aprirlo serve una chiave tipo brugola.
+
+
+altri consigli sulla sede di Buccinasco?
+
+
+In sede spesso aprono le finestre e lasciano l’impianto acceso, così da far fatica a funzionare. In generale è una sede tranquilla, non crea grossi problemi.
+
+
+
+
+
+
+
+
+
+
+
+
+CADORNA        
+
+
+ciao, se mi chiedi informazioni sul centro Santagostino di Cadorna, mi puoi confermare che è quello in via Foro Buonaparte 63 Milano?
+
+
+si confermo che il centro Santagostino, denominato Cadorna, si trova in via Foro Buonaparte, 63, zona cairoli, Milano e si raggiunge comodamente con la metro verde M2.
+
+
+come sono fatti gli impianti della sede?
+
+
+La sede utilizza in inverno i radiatori, caloriferi, che ricevono acqua condominiale calda. Mentre d’estate la sede usa delle unità interne Daikin in pompa di calore ad espansione diretta. La sede è molto semplice, è una sede che eroga solo Psicoterapia. In questo momento è in corso la remotizzazione della sede tramite accentratore Daikin.
+
+
+in caso di problemi in sede sul condizionamento cosa faresti?
+
+
+Se siamo in inverno e abbiamo problemi di riscaldamento sentirei l'amministratore condominiale in quanto possiamo far poco noi essendo l’impianto condominiale. In inverno l’unica cosa che possiamo provare a fare in autonomia è provare a sfiatare i caloriferi, magari è presente dell’aria internamente. In estate invece, controllerei che le unità esterne Daikin siano alimentate e che tutte le stanze siano settate sul fiocco di neve, estate. 
+
+
+come si accede in sede se manca corrente?
+
+
+Senza corrente non è possibile accedere alla sede. La sede ha una serratura Sofia Locks Smart e un sistema che fornisce ai pazienti via SMS un codice per entrare. La sede è estremamente vulnerabile in caso di blackout, si rischia di non poter entrare in quanto non ci sono chiavi.
+
+
+altri consigli sulla sede di Cadorna?
+
+
+fare dei sopralluoghi ogni tanto in quanto la sede non ha un desk a presidio. In generale è una sede che non da grossi problemi. Nel 2023 è stato rifatto il controsoffitto e le lampade di illuminazione dando alla sede un aspetto molto gradevole. Essendo una sede che eroga psicoterapia, quando si va in sede è consigliabile prestare molto silenzio.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CAIROLI 1 E CAIROLI 2         
+
+
+ciao, se mi chiedi informazioni sul centro Santagostino di Cairoli 1 o Cairoli 2, mi puoi confermare che è quello in via Foro Buonaparte 70 a Milano?
+
+
+si confermo che il centro Santagostino, denominato Cairoli 1 o Cairoli 2, si trova in via Foro Buonaparte 70, Milano fermata M2 Cairoli
+
+
+come sono fatti gli impianti della sede?
+
+
+la sede è divisa in due edifici. Cairoli 1 e Cairoli 2.
+Cairoli 1 è stato costruito nel 2016 ed ha un impianto idronico acqua-acqua che usa l’acqua calda del condominio in inverno, con l’uso dei radiatori e in estate acqua fredda, prodotta dal gruppo frigo Parkair, che si trova al -1 nel locale tecnico vicino ai bagni, che alimenta degli split interni. La sezione denominata Cairoli 1 ha poi un riscaldamento radiante, che serve la palestra. La ventilazione meccanica di cairoli 2 è affidata a due recuperatori, uno posto al -1 e uno nel soppalco rialzato.
+L’edificio invece denominato Cairoli 2 è stato costruito nel 2018, ha un impianto Samsung con due pompe di calore ad espansione diretta e delle unità interne Samsung che sono controllate da remoto con sistema BioT. La ventilazione meccanica della sede di Cairoli 2 è controllabile da remoto da sistema BioT ed è affidata a due VMC che sono messe nel controsoffitto al piano terra, nel corridoio davanti alla stanza A9. L’impianto in generale di VMC non sembra essere molto performante, sarebbe utile rivedere le tubature eliminando il più possible quelle flessibili.
+
+
+in caso di problemi in sede sul condizionamento cosa faresti?
+
+
+si ci sono problemi in sede in Cairoli 1 i problemi possono essere tanti:
+- spesso in estate la pompa di calore acqua-acqua Parkair si blocca ad inizio stagione
+-i telecomandi degli split interni sono vecchi e spesso non comunicano con le unità interne
+-l’impianto di cairoli 1 non è remotizzato, usa delle shelly per spegnere ed accendere alcuni elementi. la prima cosa che guarderei in caso di fermo è il portale shelly per capire se c’è qualcosa non alimentato.
+
+
+se ci sono problemi invece in cairoli 2, occorre guardare sul sistema Samsung BioT per capire se ci sono errori particolari. La sede ha una buona performance, non richiede che l’impianto resti acceso per ore ore.
+
+
+
+
+come si accede in sede se manca corrente?
+
+
+La sede è dotata di serratura Smart Iseo Sofia, in caso di blackout l’unico modo per entrare è usando le chiavi e passando dal portone condominiale di Foro Buonapare 70. é presente un servizio di portineria condominiale.
+
+
+altri consigli sulla sede di Cairoli 1 o 2?
+
+
+La sede spesso presenta odore di fogna, soprattutto al -1 degli stabili. Ricordarsi di tenere i recuperatori, VMC, sempre accesi e di controllare periodicamente le fosse biologiche. In generale è un problema che è stato mitigato ma non risolto. A mio avviso, Andrea Codini, servirebbe in cairoli 2 creare una barriera al radon e una VMC ad altezza terra o spaccare le contropareti per verificare tutti gli scarichi condensa degli split, più le pareti perimetrali come sono messe. In cairoli 2, al piano interrato, tutte le pareti perimetrali sono rivestite da lastre di cartongesso con intercapedine. era stato fatto così per evitare risalite sui muri.
+Interessante sapere che c’è un cavo di rete che parte dal rack di cairoli 1 e va a finire nel rack di cairoli 2 attraverso le cantine, questo cavo era stato teso tra i due edifici in caso di guasti su una delle due linee, tenetelo a mente in caso di problemi relativi ad internet. 
+Ricordarsi anche che le sedi di cairoli 1 e cairoli 2 in generale hanno poca copertura di campo dei telefoni cellulari.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CERNUSCO SUL NAVIGLIO
+
+
+ciao, se mi chiedi informazioni sul centro Santagostino di Cernusco sul Naviglio, mi puoi confermare che è quello in via Roma 17  a Cernusco Sul Naviglio?
+
+
+si confermo che il centro Santagostino, denominato Cernusco sul Naviglio, si trova in via Roma 17 a Cernusco sul Naviglio, raggiungibile anche con la metro M2 fermata Cernusco Sul Naviglio.
+
+
+come sono fatti gli impianti della sede?
+
+
+La sede è climatizzata da un impianto ad espansione diretta Samsung. L’unità esterna si trova nel cavedio che si trova all’esterno della porta che dà sul cortile, davanti alla stanza A3. Le unità interne sono delle cassette a quattro vie, a cui è collegata anche la mandata della ventilazione meccanica.
+La ventilazione meccanica viene fatta con due recuperatori sempre Samsung da 500 mc h l’uno. I recuperatori si trovano al piano -1 della clinica, all’interno del controsoffitto.
+
+
+in caso di problemi in sede sul condizionamento cosa faresti?
+
+
+aprire il sistema BioT di Samsung e controllerei se ci sono macchine ferme o allarmi. 
+La sede in generale non da grossi problemi e la macchina esterna è performante, manda subito in temperatura la sede. La sede non ha finestre, è fatta tutta da vetrine, bisogna assicurarsi che la ventilazione meccanica sia sempre attiva durante le ore di apertura del centro.
+
+
+come si accede in sede se manca corrente?
+
+
+Senza corrente, l’unico modo per accedere alla sede è passando dal cortile condominiale e dalla porta sul retro. In casi estremi è possibile contattare la proprietaria la Sig.rina Simona Di Gioia o in alternativa il Sig. Sirtori. La porta scorrevole della sede è ridondante, uscita di sicurezza, ha delle batteria al suo interno che la fanno spalancare in caso di blackout o guasti. Il funzionamento è normale, evita di bloccare dentro le persone.
+
+
+altri consigli sulla sede di Cernusco sul Naviglio?
+
+
+La ventilazione meccanica controllata della sede non è super performante, occorrerebbe capire se ci sono strozzature dei canali che dal piano interrato non fanno salire l’aria correttamente. La sede in generale non presenta grossi problemi, solo la porta scorrevole è stata oggetto di tantissime manutenzioni e cambi di componenti, se continua a rompersi può valer la pena pensare ad una sostituzione definitiva. Per quanto riguarda la ventilazione meccanica, nella stanza A3 è presente una finta colonna, al suo interno ci sono le salite dei canali dell’aria che dal -1, dove ci sono i recuperatori, salgono al piano terra. 
+Il comune di cernusco nel 2024, 4 anni dopo la fine dei lavori, ci ha chiesto 60k di oneri di urbanizzazione. Ricordarsi che se si costruisce a Cernusco o si fanno varianti, il Comune potrebbe chiedere altri oneri. Le cassette a quattro via della sede sono bordate da delle cornici di legno. Questo perchè durante i lavori di ristrutturazione, non c’era abbastanza spazio nel controsoffitto per inserirle. l’altezza degli spazi è risicata.
+
+
+
+
+
+
+
+
+
+
+
+
+CIMIANO
+
+
+ciao, se mi chiedi informazioni sul centro Santagostino di Cimiano, mi puoi confermare che è quello in via Benadir 5, secondo piano della Coop, Milano?
+
+
+si confermo che il centro Santagostino, denominato Cimiano, si trova in via Benadir 5, Milano al secondo piano del centro commerciale Coop, raggiungibile anche con la metro M2 fermata Cimiano. 
+
+
+come sono fatti gli impianti della sede?
+
+
+La sede è climatizzata da un impianto condominiale centralizzato. Il centro commerciale Coop ci fornisce i fluidi, acqua calda e fredda, che vanno ad alimentare le unità interne idroniche della sede. Non abbiamo quindi unità esterne di nostra competenza. Anche la ventilazione meccanica è gestita dal centro commerciale coop. Solo la sala chirurgica ambulatoriale ha due macchine esterne dedicate, che si trovano nel patio centrale. Le macchine della chirurgia ricevono comunque i fluidi caldo e freddo dal condominio, e si occupano poi di gestire l’umidità relativa e i ricambi d’aria, funzionano come due mini UTA.
+
+
+in caso di problemi in sede sul condizionamento cosa faresti?
+
+
+controllare i termostati a parete. Sono molto vecchi e spesso perdono il contatto con la morsettiera. Spesso un colpetto li ripristina. 
+Se ci sono problemi sentirei coop e controllerei che ci stanno inviando l’acqua fredda in estate o l’acqua calda in inverno. Utile è controllare, grazie ai sensori su Datacake, a che temperature ci sta mandando l’aria di ventilazione meccanica Coop. Spesso è troppo alta o troppo bassa e crea discomfort. In ultimo alcune stanze della sede di Cimiano hanno una pessima esposizione, in estate verificare che le tende siano abbassate.
+
+
+come si accede in sede se manca corrente?
+
+
+Senza corrente l’unico modo per accedere alla sede è con le chiavi. Il contatore della sede si trova nella cabina del centro commerciale coop, quindi in caso serva accedervi per tirare su corrente bisogna contattare la sicurezza del centro commerciale Quick Parking. In generale la sede di Cimiano ha la vigilanza sempre in loco, quindi per emergenze gravi è possibile sentire loro direttamente. Il loro ufficio si trova al parcheggio al -1. La sede di Cimiano non ha un sistema automatico sofia Locks, quindi non è possibile aprirla da remoto.
+
+
+altri consigli sulla sede di Cimiano?
+
+
+La sede è abbastanza in ordine, sarebbe utile remotizzare gli impianti della sede, in questo momento non abbiamo alcun controllo da remoto. Le prese elettriche sono un po’ vecchiotte. Le luci sono state rese LED nel 2022. I macchinari di odontoiatria sono abbastanza nuovi (2017) se si vogliono spostare. Sarebbe utile farei dei giri spesso in sede, avendo l’endoscopia e la chirurgia ambulatoriale la sede deve rimanere pulita e ordinata. Controllare anche che non lascino troppe bombole di ossigeno in giro per la sede. Anche i tessili della sede devono essere puliti spesso.
+
+
+
+
+
+
+
+
+CORVETTO A
+
+
+ciao, se mi chiedi informazioni sul centro Santagostino di Corvetto A, mi puoi confermare che è quello in viale Lucania 6A, a Milano?
+
+
+si confermo che il centro Santagostino, denominato Corvetto A, si trova in viale Lucania 6A a Milano. Si trova al secondo piano del palazzo che ha al piano terra la farmacia Boots e al primo piano degli studi di medici di base. Come per Corvetto B la metro più vicina è la M3 Corvetto. Gli edifici di Corvetto A e Corvetto B sono uno di fianco all’altro e hanno un cortile interno comune con dei parcheggi a nostro uso.
+
+
+
+
+come sono fatti gli impianti della sede?
+
+
+La sede di Corvetto A ha subito un restyling degli impianti nel 2023. è stato preso l’impianto del centro Santagostino di Vigevano, che è stato chiuso, e re-installato a Corvetto A. si tratta di un impianto Samsung, ad espansione diretta che si può comandare da remoto tramite il sistema BioT. Anche la ventilazione meccanica è affidata ad un recuperatore Samsung che è collegato al sistema BioT.
+
+
+in caso di problemi in sede sul condizionamento cosa faresti?
+
+
+verificherei il sistema BioT da remoto controllando che non ci siano errori o allarmi sulle macchine. Controllerei i dati della sensoristica per capire se le stanze sono andate in temperatura o se tutto sta funzionando ma banalmente si sono accesi gli impianti troppo tardi. In ultimo controllerei che vi sia alimentazione elettrica all’impianto di condizionamento, controllando se tutti gli interruttori al quadro sono alzati.
+
+
+come si accede in sede se manca corrente?
+
+
+Senza corrente l’unico modo per accedere alla sede è con le chiavi. Essendo che le sedi di corvetto A e corvetto B sono vicine, spesso viene lasciata una copia delle chiavi di una sede, all’interno dell’altra, così in caso di problemi è possibile magari accedere a Corvetto B e recuperare la chiavi di Corvetto A o viceversa.
+
+
+altri consigli sulla sede di Corvetto A?
+
+
+La sede ha un Pinguino De Longhi che in estate deve restare acceso per produrre aria fredda che punta verso l’impianto oleodinamico dell’ascensore. Questo sistema è a carico della proprietà, così come l’ascensore. La proprietà è il signor Busini, una persona squisita, in caso di problemi con ascensore di Corvetto A o con il cancello condominiale, è possibile sentire lui per risolvere. Il rack di Corvetto A è sempre in disordine, sarebbe bello tenerlo pulito e ordinato.
+La sede ha un buon involucro, erano state messe delle pellicole solari in sala d’attesa per ridurre il carico termico del sole in estate. La sede in generale non è mai pienissima, potrebbe aver senso non accendere il clima in tutte le stanze, facendo un po’ di energy saving.
+
+
+
+
+CITTÀ STUDI 
+
+
+ciao, se mi chiedi informazioni sul centro Santagostino di Città Studi, mi puoi confermare che è quello in viale Abruzzi, 4, Milano?
+
+
+si confermo che il centro Santagostino, denominato Città Studi, si trova in viale Abruzzi 4, Milano. Si accede dalla sede su strada ed ha un piano terra, un piano rialzato e un piano interrato al solo uso servizi (spogliatoi, magazzini ecc..).
+
+
+come sono fatti gli impianti della sede?
+
+
+La sede di Città Studi ha subito un restyling ad agosto del 2023. Sono state sostituite le unità interne con delle macchine idroniche Samsung che vengono alimentate da una unità esterna idronica Aermec. L’unità Aermec si trova in fondo al corridoio del piano rialzato vicino alla stanza D3. Durante il restyling è stato inserito il sistema di remotizzazione di Samsung BioT, anche la macchina Aermec è stata parzialmente integrata al sistema Samsung BioT, possiamo accenderla e spegnerla da remoto e fare anche l’inversione termica. Questo è stato possibile grazie ai contatti puliti che erano a bordo macchina e che abbiamo integrato nel sistema BioT. La sede ha anche una caldaietta che non stiamo utilizzando da anni, veniva usata in inverno per dare un boost alla pompa di calore. ATTENZIONE, in inverno la pompa di calore Aermec deve essere lasciata in mantenimento la notte, altrimenti i compressori ghiacciano. La ventilazione meccanica della sede è affidata ad un UTA che ha una valvola che fa arrivare acqua fredda o calda per fare un pre trattamento dell’aria. Spesso quando fa molto caldo o molto freddo, conviene aprire la valvola per fare un pre trattamento dell’aria di mandata della VMC. Nelle mezze stagioni invece conviene chiudere la valvola.
+
+
+in caso di problemi in sede sul condizionamento cosa faresti?
+
+
+controllerei la temperatura dell’accumulo dai sensori di Datacake. in estate deve stare tra i 10 e 15 gradi in inverno sopra i 35 gradi. Controllerei poi dal sistema BioT se non ci sono errori o allarmi. Controllerei poi sempre i dati di Datacake dei sensori delle stanze per vedere lo storico e la curva della temperatura interna. In ultimo mi assicurerei che non ci siano Shelly che hanno tolto alimentazione all’impianto. Controlleri anche la valvola di by-pass dell’unità di ventilazione meccanina.
+
+
+come si accede in sede se manca corrente?
+
+
+La sede ha una serratura di ingresso smart Sofia Locks, ma senza corrente l’unico modo per accedervi è tramite chiave. Il contatore della sede si trova nelle cantine condominiali, conviene andare al portinaio del condominio di fianco al centro e chiedere una mano.
+
+
+altri consigli sulla sede di Città Studi?
+
+
+La sede ha subito diverse infiltrazioni dal terrazzo dei condomini sotto di noi. Conviene monitorare perché spesso ritornano. Le stanze odontoiatriche D1 D2 e D3 sono spesso molto fredde in inverno, per cui conviene controllare bene quando accendere il clima, dandogli il tempo di scaldarsi. L’unità esterna Aermec è stata silenziata con una griglia afonica a gennaio del 2024, poiché i condomini si lamentavano del rumore elevato proveniente dalle ventole dell’unità esterna.
+La sede ha diversi Sanitrit installati nei bagni del piano interrato, spesso danno problemi e vengono intasati. Quando si bloccano la prima cosa da controllare è che siano connessi alla presa elettrica o alimentati da corrente elettrica.
+
+
+
+
+
+
+FOPPA
+
+
+ciao, se mi chiedi informazioni sul centro Santagostino di Foppa, mi puoi confermare che è quello in via Vincenzo Foppa, 7 a Milano?
+
+
+si confermo che il centro Santagostino, denominato Foppa, si trova in via Vincenzo Foppa, 7 Milano. Si accede dalla sede dall’ingresso condominiale. La sede si trova al piano rialzato, appena entrati nella porta condominiale, salire le scale e si trova l’accesso della sede a sinistra. La sede Santagostino di via Foppa è una sede che eroga solo servizi di psicoterapia.
+
+
+come sono fatti gli impianti della sede?
+
+
+La sede di Foppa ha degli impianti di tipo domestico, è servita da diverse unità esterne mono o multisplit ad espansione diretta. In inverno vengono utilizzati i caloriferi condominiali, mentre in estate le unità interne split.
+
+
+in caso di problemi in sede sul condizionamento cosa faresti?
+
+
+in caso di problemi di condizionamento sulla sede denominata Foppa non è possibile fare molto. L’unica cosa che è possibile fare è visionare i dati dei sensori presenti in Datacake e controllare se le stanze sono in temperatura, stanno andando in temperatura o sono bloccate. È possibile anche fare un tentativo verificando il portale Shelly e controllando che non ci sia nulla di spento. 
+
+
+come si accede in sede se manca corrente?
+
+
+La sede ha una serratura di ingresso smart Sofia Locks, ma senza corrente l’unico modo per accedervi è tramite chiave. 
+
+
+altri consigli sulla sede di Foppa?
+
+
+La sede ha un accesso tramite SMS che i pazienti ricevono con un codice univoco che gli permette di accedere alla sede, spesso questo sistema crea problemi. In caso potete sentire anche il team DDD per chiedere supporto. La sede in generale non da grossi problemi ed è un po’ lasciata andare in autonomia.
+
+
+
+
+
+
+
+
+
+
+HEAD OFFICE
+
+
+ciao, se mi chiedi informazioni sul centro Santagostino Head Office, mi puoi confermare che è quello in via Temperanza, 6 a Milano?
+
+
+si confermo che il centro Santagostino, denominato Head Office, si trova in via Temperanza 6 Milano. Si accede dalla sede dall’ingresso su strada. 
+
+
+come sono fatti gli impianti della sede?
+
+
+La sede denominata Head Office ha delle pompe di calore ad espansione diretta Mitsubishi, poste in copertura. Queste pompe di calore alimentano le unità interne che sono dei canalizzati che gestiscono piani interi, per cui ad ogni piano non è possibile regolare la temperatura per ogni stanza, ma è acceso o spento. Al piano interrato è presente anche lì un nuovo impianto ad espansione diretta installato in primavera del 2024, anch’esso canalizzato.
+
+
+in caso di problemi in sede sul condizionamento cosa faresti?
+
+
+in caso di problemi con il condizionamento della sede Head Office, consiglierei di controllare se tutte le macchine sono settate in inverno o estate, soprattutto quella del rack. Infatti se una macchina è settata in inverno e le altre in estate, l’impianto va in blocco. Altro controllo che farei e vedere se gli interruttori dei quadri elettrici ai piani sono alzati e quindi se l’impianto è alimentato. In ultimo proverei ad entrare nel sistema di supervisione Mel Cloud di Mitsubishi che gestisce la sede Head Office e controllerei se non ci sono allarmi o programmi che non sono efficaci.
+
+
+come si accede in sede se manca corrente?
+
+
+La sede ha serrature Sofia Locks Iseo smart, ma non ha i Gateway quindi non è possibile aprire la sede da remoto. Senza corrente l’unico modo per accedere alla sede Head Office è tramite chiave. Il contatore si trova nell’androne condominiale.
+
+
+altri consigli sulla sede di Head Office?
+
+
+La sede non è molto performante dal punto di vista energetico, l’involucro e le finestre non sono performanti. In momenti di inverno rigido o estati molto caldi serve far partire l’impianto al mattino alle 8 almeno, per portare lo spazio in temperatura. L’ufficio in generale è molto vecchio, si raccomanda di fare sempre le manutenzioni, di controllare l’impianto elettrico e di controllare la fossa degli spurghi che c’è al piano interrato. L’edificio ha delle caldaie a piano che negli anni abbiamo dismesso, continuava a dare blocchi e rotture costanti.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LABORATORIO ANALISI LAB
+
+
+ciao, se mi chiedi informazioni sul centro Santagostino Laboratorio Analisi, mi puoi confermare che è quello in Benadir 5 Milano?
+
+
+si confermo che il centro Santagostino, denominato Laboratorio Analisi, si trova in via Benadir 5, al secondo piano del centro commerciale coop, come per il centro di Cimiano. Sono di fatto due strutture che si trovano nello stesso luogo una di fronte all’altra.
+
+
+come sono fatti gli impianti della sede?
+
+
+La sede Santagostino Laboratorio Analisi ha due pompe di calore ad espansione diretta Samsung. All’interno è dotata di cassette a quattro vie e una unità esterna comanda metà delle cassette e l’altra l’altra metà. In questo modo la sede Laboratorio Analisi ha un impianto in ridondanza all’altro. La ventilazione meccanica invece viene fornita dal centro commerciale Coop, così come avviene per il centro di Cimiano. In generale questa scelta non è ottimale, è sempre meglio essere indipendenti dal punto di vista dell’impiantistica.
+
+
+in caso di problemi in sede sul condizionamento cosa faresti?
+
+
+la prima cosa che controllerei è il sistema BioT di Samsung. La sede Santagostino Laboratorio Analisi, ha un sistema di supervisione da remoto che consente di verificare eventuali errori o anomalie. L'altro punto di verifica è la temperatura di mandata della ventilazione meccanica che viene da Coop, spesso, come avviene per Cimiano, il centro commerciale manda aria troppo calda o troppo fredda. Infine verificherei se l’impianto di condizionamento è alimentato da corrente elettrica. La sede ha un involucro abbastanza performante, non necessità di accendere l’impianto con troppe ore di preavviso.
+
+
+come si accede in sede se manca corrente?
+
+
+Senza corrente non è possibile accedere alla sede, serve per forza la chiave. Anche per questa sede, come per la sede di Cimiano, per accedere al contatore occorre contattare il servizio di vigilanza del centro commerciale Quick Parking.
+
+
+altri consigli sulla sede di Santagostino Laboratorio Analisi?
+
+
+La sede non è aperta al pubblico e ha all’interno dei macchinari che producono molto calore. In inverno non serve accendere troppo il riscaldamento perchè è possibile sfruttare il calore delle macchine che servono per analizzare il sangur (catena).  Bisogna solo fare attenzione al locale frigoriferi, al locale rack e alle celle frigo che invece devono essere sempre fredde. Le celle frigo in particolare hanno delle unità in copertura esterne dedicate.
+In estate invece occorre raffrescare la sede, ma anche qui se si accende tutto l’impianto fa troppo freddo, va dosato.
+Le macchine che analizzano il sangue, non devono mai superare i 30°C, quindi in estate, anche di domenica, conviene spesso attivare il raffrescamento. L’impianto spesso ha dato problemi di elettronica, quando ci sono errori nel BioT contattare subio il CAT Samsung (Ivan di Tecnoservice). Attenzione in estate durante il week end, spesso il locale rack e il locale dove ci sono i frigoriferi, si scaldano molto. Verificare con i sensori di Datacake.
+
+
+
+
+LORETO
+
+
+ciao, se mi chiedi informazioni sul centro Santagostino Loreto, mi puoi confermare che è quello in via Mercadante, 16 Milano?
+
+
+si confermo che il centro Santagostino, denominato Loreto, si trova in via Mercadante 16 Milano, zona piazza Argentina, il centro ha delle vetrine e si accede da strada con serratura smart Iseo. C’è anche un eccesso dall’androne condominiale su via Buenos Aires che permette di accedere dalla stanza D2 dell’odontoiatria solo tramite chiave, che spesso ha il ragazzo delle pulizie (Jobbing).
+
+
+come sono fatti gli impianti della sede?
+
+
+La sede ha un impianto Daikin, composto da tre pompe di calore ad espansione diretta. Una al piano primo, si trova sul balcone della stanza A7, le altre due si trovano al piano terra, nel bagno dei dipendenti, dentro un armadio che dà sul cortile esterno. Una delle macchine si occupa di gestire solo il locale server. L’impianto è gestito da remoto tramite accentratore Daikin. Per eseguire l’inversione stagionale, esiste un selettore a bordo delle macchine che va manualmente messo su estate o inverno. Quindi, anche se da remoto si fa l’inversione stagionale, fino a quando non viene fatto lo switch da selettore a bordo macchina, l’inversione non viene riconosciuta dall’impianto.
+
+
+
+
+
+
+
+
+in caso di problemi in sede sul condizionamento cosa faresti?
+
+
+in caso di problemi con l’impianto clima, proverei a verificare da quadro elettrico se tutti gli interruttori sono alzati e se i termostati a muro si accendono. Poi proverei a verificare se l’inversione stagionale è stata fatta correttamente. In ultimo entrerei da remoto al sistema Daikin e cercherei lì eventuali problemi legati a settaggio errato o allarmi.
+
+
+come si accede in sede se manca corrente?
+
+
+Se manca corrente in sede, conviene provare ad entrare dall’ingresso condominiale di Corso Buenos Aires 65, da lì si accede al cortile condominiale e con la chiave, si entra dalla porta antipanico che da sullo studio dentistico del santagostino D2.
+
+
+altri consigli sulla sede di Loreto?
+
+
+In inverno in sede serve far accendere la lama d’aria per la reception, se no partono le lamentele per il freddo. Inoltre è bene quando fa molto freddo o caldo, far partire prima le stanze che hanno le vetrine su strada, le vetrine non sono molto efficienti. Inoltre prestare molta attenzione all’inversione stagionale, serve fisicamente a mano fare switch a bordo macchina. La sede inoltre ha un impianto di ventilazione meccanica, che deve essere sempre acceso.
+Ricordarsi che nella stanza A2, sotto la vetrina, c’è una braga condominiale che scarica nelle cantine. Controllare anche, sempre da Datacake, a che temperature si trovano le pompe di calore del piano terra nella loro nicchia. Se la temperatura scende sotto i 2-3°C le macchina potrebbe andare in sbrinamento e smettere di scaldare. Viceversa se in estate superano i 40°C potrebbero andare in blocco e non raffrescare più.
+
+
+
+
+
+
+
+
+
+
+
+
+MISSORI
+
+
+ciao, se mi chiedi informazioni sul centro Santagostino di Missori, mi puoi confermare che è quello in via Rugabella, 17, Milano?
+
+
+si confermo che il centro Santagostino, denominato Missori, si trova in via Rugabella, 17 a Milano, zona torre Velasca, il centro eroga solo prestazioni di psicoterapia e si trova al 4 piano del palazzo.
+
+
+come sono fatti gli impianti della sede?
+
+
+La sede ha un impianto condominiale a radiatori che utilizza in inverno, prendendo acqua calda dal condominio. In estate invece viene utilizzato un impianto ad espansione diretta della Panasonic. La sede non è ancora remotizzata, al momento non abbiamo nulla che possa controllare le unità split interne.
+
+
+in caso di problemi in sede sul condizionamento cosa faresti?
+
+
+Se il problema è sui termosifoni, l’unica possibilità è quella di sentire l’amministratore di condominio e chiedere un intervento dei tecnici. In caso invece di problemi sull’aria condizionata o l’impianto ad espansione diretta, non avendo sistemi di supervisione è possibile controllare i sensori ambientali di Datacake e nel caso sentire il manutentore.
+
+
+come si accede in sede se manca corrente?
+
+
+L’accesso alla sede avviene tramite codice o serratura smart. Il paziente riceve un SMS che contiene un codice univoco. Senza corrente non è possibile entrare in sede se non con la chiave. Potrebbe essere che la chiave si trovi nel centro Santagostino di Santa Sofia che è molto vicino.
+
+
+altri consigli sulla sede di Missori?
+
+
+Spesso viene aperta segnalazione che le luci non si accendono, se accade conviene controllare che sia stata girata la chiave all’ingresso della sede di Missori, che alimentata tutto il circuito luci.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MONZA CORTELONGA
+
+
+ciao, se mi chiedi informazioni sul centro Santagostino di Monza Cortelonga, mi puoi confermare che è quello in via Cortelonga 2 a Monza?
+
+
+si confermo che il centro Santagostino, denominato Monza Cortelonga, si trova in via Cortelonga 2 a Monza, in una zona molto centrale. Si accede al centro da strada e si sviluppa su tre piani.
+
+
+come sono fatti gli impianti della sede?
+
+
+La sede ha un impianto nuovo, installato nel 2022, si tratta di due pompe di calore ad espansione diretta modello Daikin, controllate tramite accentratore. La ventilazione meccanica viene invece fatta tramite una macchina marca Salda, un recuperatore a flussi incrociati che ha la possibilità di abilitare una serpentina elettrica che durante i mesi più freddi, può aiutare a dare un boost di calore. Durante i mesi estivi conviene tirare giù l’interruttore della serpentina dal quadro elettrico della Salda che si trova nel sottotetto dell’edificio (ultimo piano raggiungibile con scale condominiali esterne).
+
+
+in caso di problemi in sede sul condizionamento cosa faresti?
+
+
+La sede, soprattutto in inverno, ha diversi problemi e spesso lamenta freddo. La prima cosa da verificare durante l’inverno è che la serpentina elettrica del recuperatore marca Salda, sia accesa. Conviene inoltre accendere l’impianto ad espansione diretta molte ore prima durante la notte, così da far trovare la sede calda all’arrivo del personale di desk. La sede non è sempre piena, l’ideale sarebbe accendere gli spazi comuni e valutare l’accensione delle stanze che saranno poi usate.
+
+
+come si accede in sede se manca corrente?
+
+
+Senza corrente, l’unico modo per accedere in sede è tramite chiave. La sede è dotata di serratura smart Iseo Sofia Locks. La chiave apre la porta condominiale blindata.
+
+
+altri consigli sulla sede di Monza Cortelonga?
+
+
+Sarebbe ottimale installare una lama d’aria nella bussola di ingresso e compartimentare le scale perchè spesso il caldo sale verso le scale e si crea freddo in sala d’attesa. Un altro consiglio è quello di controllare spesso il recuperatore di calore marca Salda, ha un sistema di supervisione da remoto, ma spesso non funziona correttamente.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MONZA ESSELUNGA
+
+
+ciao, se mi chiedi informazioni sul centro Santagostino di Monza Esselunga, mi puoi confermare che è quello in viale della Libertà 25 Monza?
+
+
+si confermo che il centro Santagostino, denominato Monza Esselunga, si trova in viale della Libertà 25, Monza, in una zona molto centrale. Si accede al centro da strada e si sviluppa su tre piani.
+
+
+come sono fatti gli impianti della sede?
+
+
+La sede ha un impianto ad espansione diretta Samsung, composto da due pompe di calore e tre recuperatori di calore per la VMC che si trovano nel controsoffitto della sede.
+
+
+in caso di problemi in sede sul condizionamento cosa faresti?
+
+
+In caso di problemi con l’impianto clima entrerei nel sistema BioT di Samsung, spesso ci sono allarmi o errori dell’impianto clima. Controllerei anche i sensori presenti su Datacake, così da avere un tracciato completo dei valori di temperatura. In ultimo valuterei di controllare il quadro elettrico, verificare se gli interruttori relativi all’impianto clima sono alzati
+
+
+come si accede in sede se manca corrente?
+
+
+Senza corrente non è possibile entrare in sede, bisogna chiedere al box informazioni esselunga e andare al locale contatori con un manutentore esselunga. La porta scorrevole, in assenza di corrente, dovrebbe spalancarsi in automatico.
+
+
+altri consigli sulla sede di Monza Esselunga?
+
+
+La sede non da particolarmente problemi. Si segnala che il contatore di sede si trova nella cabina esterna, vicino alle rotonde (dove ci sono i contatori del bar).
+La sede ha un sistema smoke out che ci ha chiesto Esselunga per far evacuare i fumi in casi di incendio. Anche il sistema sprinkler è stato installato perchè chiesto da Esselunga. Prestare attenzione a non urtare gli ugelli degli sprinkler, se uno viene rotto inizia ad uscire acqua in pressione dal soffitto. Il tema degli sprinkler vale per tutti i centri Esselunga.
+La sede ha anche, in alcune stanze, il sistema solatube, che permette di immettere luce naturale solare. Se alla mattina presto, quando si entra, dovesse suonare l’impianto antincendio con le targhe luminose accese, potrebbe essere un esercitazione, chiedere al box informazioni esselunga. La nostra centralina antincendio è slave della centralina master del centro commerciale.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEMBRO ESSELUNGA
+
+
+ciao, se mi chiedi informazioni sul centro Santagostino di Nembro Esselunga, mi puoi confermare che è quello in via Cascina Colombaia, 3 Nembro(BG)?
+
+
+si confermo che il centro Santagostino, denominato Nembro Esselunga, si trova in via Cascina Colombaia, 3, Nembro (BG), all’interno del centro commerciale Esselunga al piano interrato, vicino al Bar Atlantic.
+
+
+come sono fatti gli impianti della sede?
+
+
+La sede ha un impianto ad espansione diretta Samsung, composto da due pompe di calore. La ventilazione meccanica è affidata al centro commerciale Esselunga, che ci fornisce aria primaria e ricambio d’aria.
+
+
+in caso di problemi in sede sul condizionamento cosa faresti?
+
+
+In caso di problemi con l’impianto clima entrerei nel sistema BioT di Samsung, spesso ci sono allarmi o errori dell’impianto clima. Controllerei anche i sensori presenti su Datacake, così da avere un tracciato completo dei valori di temperatura. In ultimo valuterei di controllare il quadro elettrico, verificare se gli interruttori relativi all’impianto clima sono alzati. Controllare anche la temperatura di mandata dell’aria di ventilazione meccanica che viene fornita da Esselunga, può capitare che mandino aria troppo caldo o troppo fredda. In quel caso contattare Esselunga.
+
+
+come si accede in sede se manca corrente?
+
+
+Senza corrente non è possibile entrare in sede, bisogna chiedere al box informazioni esselunga e andare al locale contatori con un manutentore esselunga. La porta scorrevole, in assenza di corrente, dovrebbe spalancarsi in automatico.
+
+
+altri consigli sulla sede di Nembro Esselunga?
+
+
+La sede ha installata una risonanza magnetica Esaote a basso campo, un mammografo Siemens e un RX Siemens. Questi ambienti devono essere tenuti a temperatura controllata. La sede ha un sistema di chiusura dell’acqua posto negli spogliatoi di fianco al desk, lì c’è uno sportello di legno bianco con all’interno il collettore principale. La sede è spesso vuota, quando si fa la programmazione del clima, conviene valutare se accedere solo gli spazi comuni in automatico e poi nel caso le stanze medicali.
+Se alla mattina presto, quando si entra, dovesse suonare l’impianto antincendio con le targhe luminose accese, potrebbe essere un esercitazione, chiedere al box informazioni esselunga. La nostra centralina antincendio è slave della centralina master del centro commerciale.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PORTA ROMANA
+
+
+ciao, se mi chiedi informazioni sul centro Santagostino di Porta Romana, mi puoi confermare che è quello in via Burlamacchi 11, Milano?
+
+
+si confermo che il centro Santagostino, denominato Porta Romana, si trova in via Burlamacchi 11, Milano, fermata Porta Romana della metro M3. Si accede al centro Santagostino di Porta Romana dal piano strada, la struttura si trova tutta al piano terra con un ampio vetrinato su strada.
+
+
+come sono fatti gli impianti della sede?
+
+
+La sede ha un impianto idronico con unità esterne Aermec e unità interne Daikin. Le unità esterne Aermec in realtà si trovano in cantina, assieme a tutto il circuito frigo e le pompe di ricircolo. Si accede alla cantina dalla rampa dei box. Le unità interne Daikin sono state tutte installate nel 2023 e sono controllate da remoto grazie ad accentratore Daikin. La sede è dotata di due recuperatori di calore, entrambi controllati con dei potenziometri presenti nel locale rack. I due recuperatori è fondamentale che siano accesi, la sede ha solo vetrine per cui non ha aperture finestrate. 
+
+
+in caso di problemi in sede sul condizionamento cosa faresti?
+
+
+Controllerei la temperatura del serbatoio d’accumulo presente su Datacake, proverei ad entrare sul controllo remoto Daikin e vedrei se ci sono errori. In ultima istanza, controllerei che i termostati a muri siano alimentati da corrente e se le pompe di circolazione stanno spingendo acqua nelle unità interne.
+
+
+come si accede in sede se manca corrente?
+
+
+Senza corrente per entrare in sede è necessario utilizzare le chiavi. La sede è dotata di serratura Smart Sofia Locks Iseo, che permette l’apertura da remoto se il gateway, uno scatolotto bianco posto sotto al desk, è collegato alla rete e alimentato.
+
+
+altri consigli sulla sede di Porta Romana?
+
+
+La sede di Porta Romana ha delle pellicole solari per ridurre l’impatto del sole sulle vetrine. In generale la sede, avendo una esposizione SUD OVEST, necessità l’inversione climatica dell’impianto molto presto. Controllare i sensori di Datacake e far avviare l’impianto con abbastanza preavviso per poter far arrivare in temperatura le stanze. In sede inoltre, nella stanza A7, viene erogata la prestazione di laser epilatorio. Il laser usa una presa industriale a 32A e produce puzza di pelo bruciato. La stanza A7 e A6 hanno un impianto Daikin ausiliario parallelo a quello ufficiale per produrre aria fredda in aggiunta quando il carico termico del laser è eccessivo. L’odore di pelo bruciato, se il ricambio d’aria non è attivo, si trasmette in tutta la sede.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PORTA VENEZIA
+
+
+ciao, se mi chiedi informazioni sul centro Santagostino di Porta Venezia, mi puoi confermare che è quello in via Vittorio Veneto, 10, Milano?
+
+
+si confermo che il centro Santagostino, denominato Porta Venezia, si trova in via Vittorio Veneto, 10, a Milano, fermata Porta Venezia della metro M1. La sede si trova all’interno di un condominio ed eroga solo prestazioni di psicoterapia.
+
+
+come sono fatti gli impianti della sede?
+
+
+La sede utilizza l’impianto condominiale durante il periodo invernale, il condominio fornisce acqua calda che riscalda i termosifoni. Durante il periodo estivo invece, ci sono tre unità esterne in pompa di calore ad espansione diretta, che alimentano le unità interna delle stanze. Le pompe di calore esterne sono sul balcone che affaccia sulla sala d’attesa.
+
+
+in caso di problemi in sede sul condizionamento cosa faresti?
+
+
+La sede non è remotizzata e se ci sono problemi in inverno, conviene sentire l'amministratore di condominio. Se invece il problema con l’impianto di condizionamento si manifesta in estate, controllare che le unità esterne siano alimentate da corrente, controllando gli interruttori sul quadro elettrico. Diversamente contattare il manutentore di Santagostino.
+
+
+come si accede in sede se manca corrente?
+
+
+Senza corrente per entrare in sede è necessario utilizzare le chiavi. La sede è dotata di serratura Smart Sofia Locks Iseo, che permette l’apertura da remoto se il gateway, uno scatolotto bianco posto sotto al desk, è collegato alla rete e alimentato.
+
+
+altri consigli sulla sede di Porta Venezia?
+
+
+La sede di Porta Venezia eroga solo prestazioni di psicologia, spesso è capitato che saltasse corrente a causa del corto dell’UPS. Questa cosa è stata sistemata ma se dovesse succedere ancora provare a vedere il rack.
+
+
+CASTALDI
+
+
+ciao, se mi chiedi informazioni sul centro Santagostino di Castaldi, mi puoi confermare che è quello in via Panfilo Castaldi, 6, Milano?
+
+
+si confermo che il centro Santagostino, denominato Castaldi, si trova in via Panfilo Castaldi, 6 Milano. Il centro si trova all’interno del palazzo che fa angolo con via Manuzio, ed è vicino alla fermata M3 della metro Repubblica. Il centro è diviso in diversi buildings REPA, REPR, REPB, REPC, ognuna di queste aree costituisce il centro di Castaldi.
+L’area REPR è quella che comprende i macchinari di diagnostica per immagini.
+
+
+come sono fatti gli impianti della sede?
+
+
+Nel padiglione REPA gli impianti di condizionamento comprendono un’unità esterna Panasonic posta in copertura e delle unità interne con supervisione da remoto.
+Nel padiglione REPR, l’unità esterna è sempre Panasonic e si trova alle spalle della reception, nel cortiletto esterno. Le unità interne dell’area REPR sono delle macchine canalizzate anch’esse gestite da remoto. Nell’area REPR, zona odonto in REPB e REPC l’impianto è invece condominiale. Il condominio fornisce acqua calda o fredda a servizio delle unità interne fancoil.
+Il padiglione REPA e REPR sono serviti da due recuperatori di calore che fanno la ventilazione meccanica. Le aree REPB e REPC non hanno ventilazione meccanica ma finestre.
+
+
+in caso di problemi in sede sul condizionamento cosa faresti?
+
+
+Se i problemi sono relativi ai padiglioni REPB, REPC o zone condominiale, bisogna sentire il condominio che è gestito dal Fondo Pensioni Cariplo per richiedere un check degli impianti. Se invece si hanno problemi di condizionamento nell’area REPA o REPR, controllare il sistema di supervisione Panasonic o Datacake. Spesso in inverno, l’involucro della sede fa sì che serva accendere le sale d’attesa e alcuni spazi molto prima la notte per portare a temperature gli spazi aperti al pubblico. Attenzione che la macchina unità esterna Panasonic della zona REPR, nonostante sia rivestita di una protezione acustica, se accesa troppo presto la notte, ovvero verso le 2 o 3 di notte, genera lamentele dei vicini circostanti. Calibrare quando accendere la macchina in base ai dati raccolti con Datacake.
+
+
+come si accede in sede se manca corrente?
+
+
+La sede non è provvista di serratura smart sofia locks iseo. In caso di mancata corrente occorre usare le chiavi che aprono le porte scorrevoli o le porte sul cortile interno. I contatori della sede si trovano appena entrati dalla rampa carrabile tutto a destra giù per le scale. Chiedere nel caso al portinaio. 
+
+
+altri consigli sulla sede di Castaldi?
+
+
+La sede è altamente frequentata, richiede un monitoraggio continuo al fine di garantire una soddisfazione degli utenti e del personale Santagostino. Inoltre il padiglione R è quello più critico in quanto c’è il mammografo, l’RX e tre risonanze magnetiche a basso campo marca Esaote. Queste risonanze sono meno delicate di quelle ad alto campo, ma devono essere comunque tenute ad una temperatura compresa tra i 21 e 23 °C massimi.
+Prestare attenzione che spesso la sede è oggetto di infiltrazioni condominiali, purtroppo le tubature vecchie del condominio, quando perdono, creano disagi e macchie di umidità nel controsoffitto dell’area REPA e REPR. In REPR capita ogni tanto che si genera odore di fogna quando vengono usati i riuniti odontoiatrici, se dovessere esserci segnalazioni in tal senso, prartire dalla zona odonto.
+
+
+
+
+RHO ESSELUNGA
+
+
+ciao, se mi chiedi informazioni sul centro Santagostino di Rho Esselunga, mi puoi confermare che è quello in corso Europa a Rho?
+
+
+si confermo che il centro Santagostino, denominato Rho Esselunga, si trova a Rho in corso Europa. Il centro si sviluppa al piano terra, all’interno del supermercato Esselunga.
+
+
+come sono fatti gli impianti della sede?
+
+
+La sede di Rho Esselunga ha un impianto di condizionamento ad espansione diretta del tipo 3 tubi. L’impianto è marca Samsung e ha le unità esterne sul tetto in copertura. La ventilazione meccanica è affidata a due recuperatori Samsung, posti nel controsoffitto all’interno del centro.
+
+
+in caso di problemi in sede sul condizionamento cosa faresti?
+
+
+In caso di problemi con l’impianto di condizionamento di Rho Esselunga, aprire il sistema Samsung BioT in cui è possibile cercare errori o guasti. Risulta fondamentale anche verificare che tutti gli interruttori del quadro elettrico, che si trova davanti alla sterilizzazione, siano alzati. In ultimo è possibile consultare i dati di Datacake per vedere l’andamento delle temperature nel tempo.
+
+
+come si accede in sede se manca corrente?
+
+
+La sede è fornita di serratura iseo smart sofia locks. In caso di guasti c’è una cassetta che se aperta, permette l’apertura della porta scorrevole tramite chiave. La cassetta si trova di fianco alla porta scorrevole sul muro. In assenza di corrente, la porta scorrevole dovrebbe aprirsi in maniera automatica in modalità sicurezza. Per visitare il contatore, occorre chiedere al box informazioni esselunga.
+
+
+altri consigli sulla sede di Rho Esselunga?
+
+
+La sede ha delle ottime performance in termini di impianti di condizionamento, non serve accendere il clima troppo presto la mattina. La sede ha anche, in alcune stanze, il sistema solatube, che permette di immettere luce naturale solare. Se alla mattina presto, quando si entra, dovesse suonare l’impianto antincendio con le targhe luminose accese, potrebbe essere un esercitazione, chiedere al box informazioni esselunga. La nostra centralina antincendio è slave della centralina master del centro commerciale.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ROMA SETTE CHIESE GARBATELLA
+
+
+Ciao, di quale Centro Medico Santagostino stiamo avendo problemi?
+
+
+Il centro di via Delle Sette Chiese, Roma, quartiere Garbatella
+
+
+ok, l’ingresso del centro denominato Sette Chiese Garbatella si trova in via Delle Sette Chiese e si accede tramite badge o con lo smartphone o usando il portale https://cmsantagostino-sedi.jago.cloud/locks per l’apertura da remoto.
+
+
+non c’è corrente e non riesco entrare, come posso fare?
+
+
+la sede di Sette Chiese Garbatella ha un contatore principale che si trovano nella cabina elettrica del complesso, che si trova in fondo nel cortile interno. 
+
+
+quali altri modi ci sono per entrare nella sede di Sette Chiese Garbatella?
+
+
+l’unico modo per entrare in sede in assenza di corrente elettrica, è tramite chiave che consente l’apertura della porta principale. La centrale termica si trova nella parte più interna dell’edificio, e vi si può accedere in maniera indipendente sempre tramite chiave dedicata.
+
+
+come sono fatti gli impianti della sede?
+
+
+
+
+La sede di Sette Chiese Garbatella è composta da un impianto ad espansione diretta marca Mitsubishi. L’impianto Mitsubishi serve tutto il puliambulatorio ad eccezione della gabbia di Faraday della risonanza magnetica Philips ad alto campo.
+La sede ha un impianto di ventilazione meccanica, oltre alla finestre che offrono ventilazione naturale. L’impianto di ventilazione meccanica, VMC, si trova all’esterno della struttura, nella nicchia a lato dell’edificio.
+L’impianto Mitsubishi di condizionamento ha le due pompe di calore modello Pury,poste invece nella terrazza esterna, così come il chiller marca Aermec che produce acqua fredda per la risonanza magnetica.
+Sempre sulla terrazza esterna troviamo l’UTA che è a servizio della gabbia di Faraday. 
+In sintesi sulla terrazza esterna, da cui si accede dalla stanza A3 (oculista) abbiamo:
+- due unità esterne pompe di calore ad espansione diretta Mitsubishi Pury
+-una unità di trattamento aria, UTA, a servizio della gabbia di Faraday
+- un gruppo frigo Chiller, marca Aermec che produce acqua fredda per raffreddare il circuito frigorifero della risonanza magnetica e che serve le batterie fredde dell’UTA.
+Le batterie calde del’UTA sono elettriche. Importante ricordarsi che l’Aermec è una macchina usata, l’abbiamo riciclata da Monza Cortelonga e nel 2024 aveva 3 anni di lavoro alle spalle.
+I serbatoi d’accumulo, le pompe e il sistema di supervisione Johnson dell’UTA si trovano nela centrale termica al piano terra (ex garage) da cui si accede dall’esterno.
+
+
+
+
+
+
+quanto consumano i vari elementi dell’impianto?
+
+
+il chiller Aermec consuma dai 10 ai 20 kW. L’impianto di condizionamento Mitsubishi può arrivare oltre gli 11 kW di potenza elettrica, così come le pompe tutte assieme possono arrivare a 5kW di potenza elettrica.
+
+
+senza corrente come posso fare per gestire la risonanza magnetica?
+
+
+la sede Santagostino denominata Sette Chiese Garbatella ha una risonanza magnetica da 1.5 Tesla, senza tubo di quench, marca Philips 5350. La macchina deve sempre avere acqua fredda per raffreddare il compressore che tiene il poco elio presente in macchina (10L circa), vicino allo zero assoluto.
+La risonanza magnetica non può stare senza corrente elettrica, in caso di blackout le pompe di ricircolo ed il sistema di supervisione Johnson controlli si spengono spenti, quindi è necessario intervenire in fretta per ripristinare il problema. Si sta valutando di inserire nella sede di Sette Chiese Garbatella, una batteria di UPS che in caso di blackout tenga in vita le pompe ed il sistema Johnson che in caso di spegnimento perde i settaggi.
+se invece il blackout o il blocco avviene solo del chiller Aermec e non delle pompe,  le pompe continuerebbero ad andare, dando qualche ora di cuscinetto sfruttando i serbatoi di accumulo che conterrebbero acqua fredda.
+
+
+Voglio analizzare i dati che arrivano dalla risonanza magnetica per capire qual’è il suo problema. Possiamo farlo?
+
+
+certo, la risonanza magnetica ha dei parametri monitorati tramite sensoristica:
+
+
+temperatura di mandata dell'acqua fredda
+temperatura di ritorno dell’acqua fredda
+potenza elettrica della risonanza, misurata con pinze amperometriche sul quadro 
+temperatura del locale tecnico RM, è molto importante per le risonaze Philips, perchè se supera i 27°C la macchina viene mandata in blocco in automatico.
+
+
+
+
+aiutami ad interpretare i dati
+
+
+se la temperatura di mandata dell’acqua e la temperatura di ritorno dell’acqua hanno valori molto simili, è possibile che ci siano le pompe di ricircolo il blocco, quindi che non ci sia movimento d’acqua.
+
+
+Un altra causa potrebbe essere che il compressore della risonanza non sia in funzione e quindi non stia scambiando calore con l’acqua. Ti accorgi se il compressore va o no perchè la potenza elettrica assorbita dalla risonanza si può dividere così:
+
+sopra i 3000 W (3kW) il compressore sta funzionando e la macchina è spenta
+sopra i 10000 W (10kW) la macchina è accesa e sta bene
+sotto i 2000W (2kW) la macchina ha problemi
+sotto i 1000W (1kW) la macchina ha problemi seri e bisogna intervenire
+
+
+se il compressore è sotto i 1000W di assorbimento elettrico, una volta che vengono ripristinate le pompe ed il flusso d’acqua occorre resettare il compressore. Attenzione, è bene notare che le risonanza Philips hanno un compressore ausiliario ad aria. Questo compressore quando parte è sintomo di problemi e scalda molto rapidamente il locale tecnico, portanto al blocco della macchina che può perdere il campo in poche ore. 
+
+
+Se la risonanza Philips perde campo magnetico, per ripristinarlo occorrono dai 2 ai 4 giorni e può avere un costo che oscilla dai 5.000 ai 10.000 euro ad intervento.
+
+
+La risonanza mi sta dando allarme alta temperatura o flusso, cosa posso fare?
+
+
+se la temperatura dell’acqua sale sopra i 26 gradi, la risonanza magnetica potrebbe bloccarsi e dare allarme di temperatura troppo alta. Spegnere la risonanza magnetica dal computer, aspettare che la temperatura dell’acqua scenda, facendo un check che una delle due polivalenti stia funzionando e riaccendere la risonanza magnetica.
+
+
+In generale cosa controllare quando si hanno problemi su una risonanza magnetica?
+
+
+
+
+controllerei prima gli assorbimenti elettrici:
+
+
+5. la risonanza magnetica (RM o MRI) quanti kW sta consumando? se è sopra i 3kW lei è ok
+6. il chiller o polivalente quanti kW stanno consumando? se sono sopra i 10kW sono accese e stanno rinfrescando l’acqua
+7. verificherei che le pompe stiano andando, spesso se una delle due polivalenti è ferma, è perchè le pompe sono ferme e non chiamano la polivalente.
+8. verificare la temperatura di mandata e di ritorno dell’acqua, se sono simili come valore la pompa è ferma o il compressore della RM, se la temperatura di ritorno sale molto velocemente è un problema di pompe ferme.
+9. se la risonanza è marca Philips come in questo caso nella sede di Roma Sette Chiese Garbatella, controllare anche la temperatura del locale tecnico. Se supera i 26 °C il sistema manda in shut down la macchina.
+
+
+cosa mi sai dire sulla gabbia di faraday?
+
+
+la sala magnete o gabbia di faraday deve avere una temperatura compresa tra i 20 e 23 °C massimi e un'umidità relativa compresa tra i 55 e 65% di umidità.
+Quando ci sono problemi su questi valori è possibile che:
+
+
+4. l’UTA abbia i ventilatori spenti e quindi non stia spingendo aria dentro
+5. una delle batterie dell’UTA non sta ricevendo acqua fredda, provare a vedere le valvole a tre vie o la percentuale di apertura di queste.
+6. nella sede di Roma Sette Chiese Garbatella, la batteria calda dell’UTA è elettrica, monitorare l’assorbimento in caso di umidità elevata. Se non sta funzionando non riesce a fare da post-riscaldamento e togliere l’umidità all’aria.
+7. se in estate l’umidità è molto alta, potrebbe essere un problema della batteria di post riscaldamento, l’aria viene raffreddata velocemente dalla batteria fredda e poi passa dalla batteria calda (in estate), per perdere umidità
+
+
+altri consigli sulla sede di Sette Chiese Garbatella?
+
+
+La sede in generale performa bene a livello climatico e le persone che gestiscono la sede al desk sono molto autonome. In passato abbiamo avuto problemi di rumore con il vicinato che sono stati risolti con una schermatura acustica della terrazza dove sono presenti le macchine esterne. Sempre quella terrazza ha uno scolo che deve essere sempre tenuto pulito, se si ottura con le foglie degli alberi circostanti e piove molto, è facile che la terrazza si allaghi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ROMA CAVOUR
+
+
+ciao, se mi chiedi informazioni sul centro Santagostino di Roma Cavour, mi puoi confermare che è quello in piazza Cavour, 19, Roma?
+
+
+si confermo che il centro Santagostino, denominato Roma Cavour, si trova in piazza Cavour,19, Roma, fermata più vicina della metro Lepanto. Si accede al centro Santagostino di Roma Cavour dal piano strada, la struttura si trova tutta al primo piano, scala C, è presente anche un servizio di portineria a cui chiedere.
+
+
+
+
+come sono fatti gli impianti della sede?
+
+
+La sede ha un impianto ad espansione diretta Mitsubishi. Le unità esterne si trovano in copertura, mentre le unità interne, sempre Mitsubishi, sono un misto tra canalizzate, split e fancoil. La ventilazione meccanica è affidata ad un recuperatore a flussi incrociati, che prende aria dalla terrazza del centro medico e si trova nel controsoffitto davanti alla porta che conduce alla terrazza. Il locale rack ha uno split che è alimentato da una unità esterna mono split dedicata. L’acqua calda della sede è affidata a diversi boiler elettrici presenti in alcune stanze.
+
+
+in caso di problemi in sede sul condizionamento cosa faresti?
+
+
+Controllerei le temperature e lo storico dai sensori di Datacake, così da verificare se l’impianto sta funzionando o non riesce ad andare in temperatura. Proverei poi a vedere il sistema Mel Cloud di Mitsubishi se ci sono errori o anomali ed infine andrei nel locale rack e controllerei se tutti gli interruttori del quadro elettrico sono alzati.
+Se ci sono problemi in una sola stanza, controllare dietro la porta della stanza, c’è un quadro elettrico secondario che potrebbe avere la linea dell’impianto clima abbassata.
+
+
+come si accede in sede se manca corrente?
+
+
+Senza corrente per entrare in sede è necessario utilizzare le chiavi. La sede è dotata di serratura Smart Sofia Locks Iseo, che permette l’apertura da remoto se il gateway, uno scatolotto bianco posto sotto al desk, è collegato alla rete e alimentato.
+
+
+altri consigli sulla sede di Roma Cavour?
+
+
+La sede di Roma Cavour in generale non crea problemi. Eroga un mix tra esami poliambulatoriali e psicoterapia. Spesso capita che sia vuota, quindi programmerei l’impianto clima per partire in automatico solo negli spazi comuni. La sede è inserita in un palazzo d’epoca molto bello e con mura spesse, ci sono alcuni problemi di ricezione del cellulare e per far funzionare il wifi è stato messo quasi un access point in ogni stanza.
+
+
+
+
+
+
+
+
+ROMA GOITO
+
+
+Ciao, di quale Centro Medico Santagostino stiamo avendo problemi?
+
+
+Il centro di via Goito, 58, Roma. Zona Termini.
+
+
+ok, l’ingresso del centro denominato Goito, si trova in via Goito 58 e si accede tramite badge o con lo smartphone o usando il portale https://cmsantagostino-sedi.jago.cloud/locks per l’apertura da remoto.
+
+
+non c’è corrente e non riesco entrare, come posso fare?
+
+
+la sede di Roma Goito ha due contatori, uno da 100kW che è a servizio del piano terra e della risonanza magnetica Philips, e uno da 35kW che è a servizio del primo piano.
+
+
+quali altri modi ci sono per entrare nella sede di Roma Goito?
+
+
+l’unico modo per entrare in sede in assenza di corrente elettrica, è tramite chiave che consente l’apertura della porta principale. Vi è anche la possibilità di provare a chiedere alla portineria o a MCGest, il fornitore del condominio.
+
+
+come sono fatti gli impianti della sede?
+
+
+
+
+La sede di Roma Goito è composta da un impianto ad espansione diretta marca Mitsubishi. L’impianto Mitsubishi serve tutto il puliambulatorio, piano terra e piano primo ad eccezione della gabbia di Faraday della risonanza magnetica Philips ad alto campo.
+La sede ha un impianto di ventilazione meccanica, oltre alla finestre che offrono ventilazione naturale. L’impianto di ventilazione meccanica, VMC, si trova all’interno del controsoffitto al piano terra e al piano primo, per un totale di due recuperatori.
+L’impianto Mitsubishi di condizionamento ha le due pompe di calore modello Pury, poste in copertura del palazzo, oltre l’ottavo piano. Infatti tutta la copertura del palazzo, è destinata agli impianti tecnologici. Del centro di Roma Goito troviamo le due pompe di calore Mitsubishi, come già detto, ed il chiller Mitsubishi Climaveneta a servizio della risonanza magnetica.
+Il resto dell’impianto della sede di Roma Goito, si trova al piano -1, dove troviamo la centrale termica. Lì abbiamo l’UTA a servizio della risonanza magnetica, il serbatoio di accumulo, le pompe, il sistema di supervisione Jhonson controlli e gli apparati elettronici di Philips della risonanza magnetica.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+quanto consumano i vari elementi dell’impianto?
+
+
+il chiller Mitsubishi Climaveneta consuma dai 10 ai 20 kW. L’impianto di condizionamento Mitsubishi può arrivare oltre gli 11 kW di potenza elettrica, così come le pompe tutte assieme possono arrivare a 5kW di potenza elettrica.
+
+
+senza corrente come posso fare per gestire la risonanza magnetica?
+
+
+la sede Santagostino denominata Roma Goito ha una risonanza magnetica da 1.5 Tesla, senza tubo di quench, marca Philis 5350. La macchina deve sempre avere acqua fredda per raffreddare il compressore che tiene il poco elio presente in macchina (10L circa), vicino allo zero assoluto.
+La risonanza magnetica non può stare senza corrente elettrica, in caso di blackout le pompe di ricircolo ed il sistema di supervisione Jhonson controlli si spengono, quindi è necessario intervenire in fretta per ripristinare il problema. Si sta valutando di inserire nella sede di Roma Goito, una batteria di UPS che in caso di blackout tenga in vita le pompe ed il sistema Jhonson che in caso di spegnimento perde i settaggi.
+se invece il blackout o il blocco avviene solo del chiller Mitsubishi Climaveneta e non delle pompe,  le pompe continuerebbero ad andare, dando massimo un’ora di cuscinetto sfruttando i serbatoi di accumulo che conterrebbero acqua fredda. Il serbatoio di accumulo della sede di Roma Goito è molto piccolo, quindi non offre tanto cuscinetto in caso di blocco del chiller.
+
+
+Voglio analizzare i dati che arrivano dalla risonanza magnetica per capire qual’è il suo problema. Possiamo farlo?
+
+
+certo, la risonanza magnetica ha dei parametri monitorati tramite sensoristica:
+
+
+temperatura di mandata dell'acqua fredda
+temperatura di ritorno dell’acqua fredda
+potenza elettrica della risonanza, misurata con pinze amperometriche sul quadro 
+temperatura del locale tecnico RM, è molto importante per le risonaze Philips, perchè se supera i 27°C la macchina viene mandata in blocco in automatico.
+
+
+
+
+aiutami ad interpretare i dati
+
+
+se la temperatura di mandata dell’acqua e la temperatura di ritorno dell’acqua hanno valori molto simili, è possibile che ci siano le pompe di ricircolo il blocco, quindi che non ci sia movimento d’acqua.
+
+
+Un altra causa potrebbe essere che il compressore della risonanza non sia in funzione e quindi non stia scambiando calore con l’acqua. Ti accorgi se il compressore va o no perchè la potenza elettrica assorbita dalla risonanza si può dividere così:
+
+sopra i 3000 W (3kW) il compressore sta funzionando e la macchina è spenta
+sopra i 10000 W (10kW) la macchina è accesa e sta bene
+sotto i 2000W (2kW) la macchina ha problemi
+sotto i 1000W (1kW) la macchina ha problemi seri e bisogna intervenire
+
+
+se il compressore è sotto i 1000W di assorbimento elettrico, una volta che vengono ripristinate le pompe ed il flusso d’acqua occorre resettare il compressore. Attenzione, è bene notare che le risonanze Philips hanno un compressore ausiliario ad aria. Questo compressore quando parte è sintomo di problemi e scalda molto rapidamente il locale tecnico, portanto al blocco della macchina che può perdere il campo in poche ore. 
+
+
+Se la risonanza Philips perde campo magnetico, per ripristinarlo occorrono dai 2 ai 4 giorni e può avere un costo che oscilla dai 5.000 ai 10.000 euro ad intervento.
+
+
+La risonanza mi sta dando allarme alta temperatura o flusso, cosa posso fare?
+
+
+se la temperatura dell’acqua sale sopra i 26 gradi, la risonanza magnetica potrebbe bloccarsi e dare allarme di temperatura troppo alta. Spegnere la risonanza magnetica dal computer, aspettare che la temperatura dell’acqua scenda, facendo un check che una delle due polivalenti stia funzionando e riaccendere la risonanza magnetica.
+
+
+In generale cosa controllare quando si hanno problemi su una risonanza magnetica?
+
+
+
+
+controllerei prima gli assorbimenti elettrici:
+
+
+10. la risonanza magnetica (RM o MRI) quanti kW sta consumando? se è sopra i 3kW lei è ok
+11. il chiller o polivalente quanti kW stanno consumando? se sono sopra i 10kW sono accese e stanno rinfrescando l’acqua
+12. verificherei che le pompe stiano andando, spesso se una delle due polivalenti è ferma, è perchè le pompe sono ferme e non chiamano la polivalente.
+13. verificare la temperatura di mandata e di ritorno dell’acqua, se sono simili come valore la pompa è ferma o il compressore della RM, se la temperatura di ritorno sale molto velocemente è un problema di pompe ferme.
+14. se la risonanza è marca Philips come in questo caso nella sede di Roma Goito, controllare anche la temperatura del locale tecnico. Se supera i 26 °C il sistema manda in shut down la macchina.
+
+
+cosa mi sai dire sulla gabbia di faraday?
+
+
+la sala magnete o gabbia di faraday deve avere una temperatura compresa tra i 20 e 23 °C massimi e un'umidità relativa compresa tra i 55 e 65% di umidità.
+Quando ci sono problemi su questi valori è possibile che:
+
+
+8. l’UTA abbia i ventilatori spenti e quindi non stia spingendo aria dentro
+9. una delle batterie dell’UTA non sta ricevendo acqua fredda, provare a vedere le valvole a tre vie o la percentuale di apertura di queste.
+10. nella sede di Roma Goito, la batteria calda dell’UTA è elettrica, monitorare l’assorbimento in caso di umidità elevata. Se non sta funzionando non riesce a fare da post-riscaldamento e togliere l’umidità all’aria.
+11. se in estate l’umidità è molto alta, potrebbe essere un problema della batteria di post riscaldamento, l’aria viene raffreddata velocemente dalla batteria fredda e poi passa dalla batteria calda (in estate), per perdere umidità
+
+
+altri consigli sulla sede di Roma Goito?
+
+
+La sede in generale performa bene a livello climatico e le persone che gestiscono la sede al desk sono molto autonome. In passato abbiamo avuto problemi di infiltrazioni dovute al condominio o a tubi che si sono rotti nel controsoffitto. Conviene fare una manutenzione molto attenta e regolare degli impianti idraulici e HVAC.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VIA LARGA CENTRO DONNA
+
+
+ciao, se mi chiedi informazioni sul centro Santagostino di via Larga Centro Donna, mi puoi confermare che è quello in via Larga, 6, Milano?
+
+
+si confermo che il centro Santagostino, denominato via Larga Centro Donna, si trova in via Larga, 6, Milano fermata più vicina della metro M1 Duomo o M3 Missori. Si accede al centro Santagostino di via Larga Centro Donna dal piano strada, la struttura si sviluppa su tre livello, un piano terra dove c’è la reception e tre stanze ambulatoriali, un piano interrato ammezzato e un piano -1. Ai piani inferiori troviamo altre stanze medicali corredate da una stanza mammografia e da una stanza moc.
+
+
+come sono fatti gli impianti della sede?
+
+
+La sede ha un impianto ad espansione diretta marca Daikin. L’impianto è controllato da remoto tramite sistema di supervisione Daikin, e ha due unità esterne Daikin sulla terrazza esterna vicino ai bagni. Le unità interne sono tutte Daikin e canalizzate. La sede poi ha due recuperatori a flussi incrociati adibiti alla ventilazione meccanica, VMC, marca Daikin, che si trovano al livello inferiore, nel controsoffitto degli spogliatoi del personale. La sede ha tre quadri elettrici principali distribuiti uno a piano e la chiusura principale dell’acqua nel bagno disabili al piano terra, o nel controsoffitto sopra la sala d’attesa del piano inferiore, dove c’è la botola.
+
+
+in caso di problemi in sede sul condizionamento cosa faresti?
+
+
+Controllerei le temperature e lo storico dai sensori di Datacake, così da verificare se l’impianto sta funzionando o non riesce ad andare in temperatura. Proverei poi a vedere il sistema Daikin da remoto se ci sono errori o anomalie ed infine controllerei che tutti gli interruttori dei quadri elettrici siano alzati.
+Bisogna prestare molta attenzione in inverno ai termostati Daikin, se per sbaglio iniziano a misurare la temperatura non più a muro ma a bordo macchina, si rischia che l’impianto rilevi temperature più alte di quelle reali, in quanto l’aria va a stratificare verso l’alto, e vada in spegnimento lasciando le persone al freddo. Sul drive di dipartimento c’è un video che spiega come controllare questa cosa.
+
+
+come si accede in sede se manca corrente?
+
+
+Senza corrente per entrare in sede è necessario utilizzare le chiavi e la porta blindata da ingresso condominiale. La sede è dotata di serratura Smart Sofia Locks Iseo, che permette l’apertura da remoto se il gateway, uno scatolotto bianco posto sotto al desk, è collegato alla rete e alimentato.
+
+
+altri consigli sulla sede di via Larga Centro Donna?
+
+
+In inverno spesso i piano inferiroi sono più freddi di quelli superiori, conviene settare il riscaldamento ad almeno 24°C. Ogni tanto capita che ci siano delle lamentele dei vicini per il rumore delle unità esterne, le unità esterne hanno una scheda elettronica Daikin che serve a silenziare le unità esterne. Questa opzione va spuntata nel programma usando l’accentratore da remoto. La sede di via Larga Centro Donna ha una fossa biologica al piano -1 dentro lo spogliatoio vicino l’ascensore, è l’unica fossa della sede e ha due pompe gemellari. Bisogna tenerla sempre pulita.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUSA
+
+
+Ciao, di quale Centro Medico Santagostino stiamo avendo problemi?
+
+
+Il centro di piazzale Susa, Milano
+
+
+ok, l’ingresso del centro denominato Susa, si trova in piazzale Susa, civico 2, Milano e si accede tramite badge o con lo smartphone o usando il portale https://cmsantagostino-sedi.jago.cloud/locks per l’apertura da remoto.
+
+
+non c’è corrente e non riesco entrare, come posso fare?
+
+
+la sede di Susa ha un contatore da 70kW che è a servizio di tutto il centro medico, compresa la risonanza magnetica, l’RX e la centrale termica. Questo contatore è al limite della sua capacità e non ha possibilità di ampliamento.
+
+
+quali altri modi ci sono per entrare nella sede di Roma Goito?
+
+
+l’unico modo per entrare in sede in assenza di corrente elettrica, è tramite chiave che consente l’apertura della porta principale. Si entra in sede dal piano strada e si sviluppa sul piano terra, al piano primo e al piano -1 dove ci sono solo spazi di servizio.
+
+
+come sono fatti gli impianti della sede?
+
+
+
+
+La sede Centro Medico Santagostino di Susa a Milano, ha un impianto idronico che funge da condizionamento per tutta la struttura, ad eccezione della gabbia di Faraday della risonanza magnetica. L’impianto ha una unità esterna Aermec che si trova nelle cantine (era già presente prima della ristrutturazione) e delle unità interne Galletti che a breve verranno remotizzato con sistema ISMA controlli. La sede poi ha un chiller gruppo frigo Climaveneta che si trova anch’esso nelle cantine e produce l’acqua fredda che serve per la risonanza magnetica e le batterie dell’UTA. Anche l’UTA si trova al piano interrato e ha delle batterie calde elettriche.
+Ricapitolando tutti gli impianti tecnologici di condizionamento della sede si trovano al piano inferiore al meno -1.
+
+
+
+
+
+
+quanto consumano i vari elementi dell’impianto?
+
+
+il chiller Climaveneta consuma dai 10 ai 20 kW. L’impianto di condizionamento Aermec oscilla tra i 5-10 kW di potenza elettrica, così come le pompe tutte assieme possono arrivare a 5kW di potenza elettrica.
+
+
+
+
+
+
+
+
+senza corrente come posso fare per gestire la risonanza magnetica?
+
+
+la sede Santagostino denominata Susa, e sita a Milano in piazzale Susa, 2, ha una risonanza magnetica da 1.5 Tesla, senza tubo di quench, marca Philis 5350. La macchina deve sempre avere acqua fredda per raffreddare il compressore che tiene il poco elio presente in macchina (10L circa), vicino allo zero assoluto.
+La risonanza magnetica non può stare senza corrente elettrica, in caso di blackout le pompe di ricircolo ed il sistema di supervisione ISMA controlli si spengono, quindi è necessario intervenire in fretta per ripristinare il problema. Se invece il blackout o il blocco avviene solo del chiller Climaveneta e non delle pompe,  le pompe continuerebbero ad andare, dando massimo un’ora di cuscinetto sfruttando i serbatoi di accumulo che conterrebbero acqua fredda. Ricordarsi che le risonanze di marca Philips, possono rimanere senza corrente per un massimo di 4 ore, poi in maniera automatica buttano giù il campo magnetico. Una volta che il campo magnetico è sceso, obbliga a chiamare Philips per ritirare su il campo magnetico, intervento che può richiedere anche 5 giorni lavorativi e tra i 5-10 mila euro di costo.
+
+
+Voglio analizzare i dati che arrivano dalla risonanza magnetica per capire qual’è il suo problema. Possiamo farlo?
+
+
+certo, la risonanza magnetica ha dei parametri monitorati tramite sensoristica:
+
+
+temperatura di mandata dell'acqua fredda
+temperatura di ritorno dell’acqua fredda
+potenza elettrica della risonanza, misurata con pinze amperometriche sul quadro 
+temperatura del locale tecnico RM, è molto importante per le risonaze Philips, perchè se supera i 27°C la macchina viene mandata in blocco in automatico.
+
+
+
+
+aiutami ad interpretare i dati
+
+
+se la temperatura di mandata dell’acqua e la temperatura di ritorno dell’acqua hanno valori molto simili, è possibile che ci siano le pompe di ricircolo il blocco, quindi che non ci sia movimento d’acqua.
+
+
+Un altra causa potrebbe essere che il compressore della risonanza non sia in funzione e quindi non stia scambiando calore con l’acqua. Ti accorgi se il compressore va o no perchè la potenza elettrica assorbita dalla risonanza si può dividere così:
+
+sopra i 3000 W (3kW) il compressore sta funzionando e la macchina è spenta
+sopra i 10000 W (10kW) la macchina è accesa e sta bene
+sotto i 2000W (2kW) la macchina ha problemi
+sotto i 1000W (1kW) la macchina ha problemi seri e bisogna intervenire
+
+
+se il compressore è sotto i 1000W di assorbimento elettrico, una volta che vengono ripristinate le pompe ed il flusso d’acqua occorre resettare il compressore. Attenzione, è bene notare che le risonanze Philips hanno un compressore ausiliario ad aria. Questo compressore quando parte è sintomo di problemi e scalda molto rapidamente il locale tecnico, portanto al blocco della macchina che può perdere il campo in poche ore. 
+
+
+Se la risonanza Philips perde campo magnetico, per ripristinarlo occorrono dai 2 ai 4 giorni e può avere un costo che oscilla dai 5.000 ai 10.000 euro ad intervento.
+
+
+La risonanza mi sta dando allarme alta temperatura o flusso, cosa posso fare?
+
+
+se la temperatura dell’acqua sale sopra i 26 gradi, la risonanza magnetica potrebbe bloccarsi e dare allarme di temperatura troppo alta. Spegnere la risonanza magnetica dal computer, aspettare che la temperatura dell’acqua scenda, facendo un check che una delle due polivalenti stia funzionando e riaccendere la risonanza magnetica.
+
+
+In generale cosa controllare quando si hanno problemi su una risonanza magnetica?
+
+
+
+
+controllerei prima gli assorbimenti elettrici:
+
+
+15. la risonanza magnetica (RM o MRI) quanti kW sta consumando? se è sopra i 3kW lei è ok
+16. il chiller o polivalente quanti kW stanno consumando? se sono sopra i 10kW sono accese e stanno rinfrescando l’acqua
+17. verificherei che le pompe stiano andando, spesso se una delle due polivalenti è ferma, è perchè le pompe sono ferme e non chiamano la polivalente.
+18. verificare la temperatura di mandata e di ritorno dell’acqua, se sono simili come valore la pompa è ferma o il compressore della RM, se la temperatura di ritorno sale molto velocemente è un problema di pompe ferme.
+19. se la risonanza è marca Philips come in questo caso nella sede di Roma Goito, controllare anche la temperatura del locale tecnico. Se supera i 26 °C il sistema manda in shut down la macchina.
+
+
+cosa mi sai dire sulla gabbia di faraday?
+
+
+la sala magnete o gabbia di faraday deve avere una temperatura compresa tra i 20 e 23 °C massimi e un'umidità relativa compresa tra i 55 e 65% di umidità.
+Quando ci sono problemi su questi valori è possibile che:
+
+
+12. l’UTA abbia i ventilatori spenti e quindi non stia spingendo aria dentro
+13. una delle batterie dell’UTA non sta ricevendo acqua fredda, provare a vedere le valvole a tre vie o la percentuale di apertura di queste.
+14. nella sede di Roma Goito, la batteria calda dell’UTA è elettrica, monitorare l’assorbimento in caso di umidità elevata. Se non sta funzionando non riesce a fare da post-riscaldamento e togliere l’umidità all’aria.
+15. se in estate l’umidità è molto alta, potrebbe essere un problema della batteria di post riscaldamento, l’aria viene raffreddata velocemente dalla batteria fredda e poi passa dalla batteria calda (in estate), per perdere umidità
+
+
+altri consigli sulla sede di Susa?
+
+
+La sede ha avuto diversi problemi legati al clima, tutti dovuti al sistema di supervisione Eclipse che non permetteva di regolare da remoto l’impianto. In generale la sede performa bene e per essere stato parecchio tempo senza supervisione elettronica, si comporta egreggiamente. Senza la supervisione è stata oggetto come sede di parecchi sprechi energetici. Dato interessante, essendo tutte le macchine che producono acqua fredda al -1, lavorona sempre ad una temperatura controllata e stabile, sforzano meno e consumano meno corrente che se fossero sopra una copertura dovendo lavorare al clado o al freddo.

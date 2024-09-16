@@ -1,0 +1,17 @@
+﻿RIAVVIO STAMPA BIGLIETTI TOTEM
+
+
+1. 1. Innanzitutto verificare che non sia finito il rotolo di carta
+
+
+2. Collegarsi al Totem attraverso ScreenConnect o attaccare al monitor (o PC di controllo) un mouse, se interviene un'operatore presente fisicamente in sede;
+
+
+3. Andare nei processi della stampante ed elimina tutti i lavori in sospeso
+
+
+  
+
+
+
+4. Verificare che al successivo input di richiesta del numero, la stampa del biglietto sia correttamente prodotta

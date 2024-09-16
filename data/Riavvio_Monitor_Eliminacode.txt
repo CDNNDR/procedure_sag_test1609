@@ -1,0 +1,21 @@
+﻿RIAVVIO MONITOR ELIMINA-CODE
+1. 1. Collegarsi al monitor attraverso ScreenConnect o attaccare al monitor (o PC di controllo) un mouse, se interviene un'operatore presente fisicamente in sede;
+
+
+
+
+2. Riavviare il sistema operativo Windows digitando:
+* “cmd “ sulla barra di ricerca
+* “shutdown /r ” sul prompt di comandi
+
+
+  
+
+
+
+3. Al riavvio della macchina, cliccare sull'icona “Attesa” per ripristinare il sistema di monitoring;
+
+
+  
+
+4. Verificare che la connessione sia correttamente ripristinata
