@@ -3,3 +3,4 @@ openai
 langchain
 faiss-cpu
 certifi
+langchain-community
