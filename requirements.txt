@@ -6,3 +6,4 @@ certifi
 langchain-community
 gitpython
 unstructured
+tiktoken 
