@@ -29,10 +29,25 @@ def wide_space_default():
 # Call the function to apply the setting
 wide_space_default()
 
+# -------------------------------------------------
+
+# Function to clone a GitHub repository
+def clone_github_repo(github_url, local_dir):
+    if not os.path.exists(local_dir):
+        git.Repo.clone_from(github_url, local_dir)
+
+# Define the GitHub URL and local directory path
+github_url = "https://https://github.com/CDNNDR/procedure_sag_test1609"
+local_dir = "/tmp/github_repo"  # Temporary local directory
+
+# Clone the repository
+clone_github_repo(github_url, local_dir)
+
 # -----------------------------------------
 # Function to load and split documents into manageable chunks
 def load_and_split_documents():
-    folder_path = "/Users/andrea/Documenti/PycharmProjects/streamapp/data"  # Your actual data folder path
+    #folder_path = "/Users/andrea/Documenti/PycharmProjects/streamapp/data" 
+    folder_path = "/Users/andrea/Documenti/PycharmProjects/streamapp/data" # Your actual data folder path
     loader = DirectoryLoader(folder_path, glob="**/*.txt")
     documents = loader.load()
 
