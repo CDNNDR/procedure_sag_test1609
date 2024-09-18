@@ -5,3 +5,4 @@ faiss-cpu
 certifi
 langchain-community
 gitpython
+unstructured
