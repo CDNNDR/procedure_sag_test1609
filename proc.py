@@ -7,7 +7,7 @@ from langchain.memory import ConversationBufferMemory
 from langchain_community.document_loaders import DirectoryLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.docstore.document import Document
-from langchain.llms import OpenAI
+from langchain.chat_models import ChatOpenAI  # Use ChatOpenAI for chat models
 from langchain.prompts import PromptTemplate
 import os
 import ssl
@@ -97,11 +97,11 @@ conversational_prompt = PromptTemplate(
     input_variables=["context", "chat_history", "question"]
 )
 
-# Set up the LLM with the updated OpenAI interface
-llm = OpenAI(
+# Set up the LLM using ChatOpenAI for chat models
+llm = ChatOpenAI(
     api_key=openai_api_key,
     temperature=0,
-    model="gpt-4o-mini"  # Replace with the appropriate model name (e.g., "gpt-3.5-turbo")
+    model="gpt-4"  # Replace with "gpt-3.5-turbo" if using that model
 )
 
 # Setup the Conversational Retrieval Chain using the LLM and the corrected prompt
