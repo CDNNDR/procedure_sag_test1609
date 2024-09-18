@@ -37,8 +37,8 @@ def clone_github_repo(github_url, local_dir):
     if not os.path.exists(local_dir):
         Repo.clone_from(github_url, local_dir)
 
-# Define the GitHub URL and local directory path
-github_url = "https://https://github.com/CDNNDR/procedure_sag_test1609"
+# Correct GitHub URL
+github_url = "https://github.com/CDNNDR/procedure_sag_test1609"
 local_dir = "/tmp/github_repo"  # Temporary local directory
 
 # Clone the repository
