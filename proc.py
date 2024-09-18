@@ -119,11 +119,12 @@ st.sidebar.title("🧭 Navigator")
 # Add a button in the sidebar to clear the chat
 if st.sidebar.button("Clear Chat"):
     st.session_state["messages"] = [{"role": "assistant", "content": "Ciao! Come posso aiutarti?"}]
-    st.experimental_rerun()  # Refresh the page to clear the chat
+    st.experimental_set_query_params()  # Refresh the page
 
 # Add a button to re-run the page
 if st.sidebar.button("Restart Lucy!"):
-    st.experimental_rerun()  # This will force the Streamlit app to refresh
+    st.experimental_set_query_params()  # This will force the Streamlit app to refresh
+
 
 st.title("👩🏻‍💻 ‍🍀 Hi! I'm Lucy!")
 st.caption("🚀 Your personal assistant powered by OpenAI")
