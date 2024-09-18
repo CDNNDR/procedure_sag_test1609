@@ -12,6 +12,7 @@ from langchain.prompts import PromptTemplate
 import os
 import ssl
 import certifi
+from git import Repo
 
 # --------------------------------------------------------------------------------------------------------------------------------------------
 # Use certifi's certificates for SSL
