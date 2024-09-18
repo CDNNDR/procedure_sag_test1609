@@ -1,10 +1,10 @@
 import streamlit as st
 import openai
 from langchain.chains import ConversationalRetrievalChain
-from langchain.vectorstores import FAISS
-from langchain.embeddings.openai import OpenAIEmbeddings
+from langchain_community.vectorstores import FAISS
+from langchain_community.embeddings import OpenAIEmbeddings
 from langchain.memory import ConversationBufferMemory
-from langchain.document_loaders import DirectoryLoader
+from langchain_community.document_loaders import DirectoryLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.docstore.document import Document
 from langchain.llms import OpenAI
@@ -21,7 +21,6 @@ ssl_context = ssl.create_default_context(cafile=certifi.where())
 # Set the OpenAI API key
 openai_api_key = st.secrets["openai_api_key"]
 os.environ["OPENAI_API_KEY"] = openai_api_key
-openai.api_key = openai_api_key
 
 # Set the screen to full width by default across devices
 def wide_space_default():
@@ -47,14 +46,12 @@ clone_github_repo(github_url, local_dir)
 # -----------------------------------------
 # Function to load and split documents into manageable chunks
 def load_and_split_documents():
-    #folder_path = "/Users/andrea/Documenti/PycharmProjects/streamapp/data" 
-    folder_path = "data" # Your actual data folder path
+    folder_path = os.path.join(local_dir, "data")  # Adjust path as needed
     loader = DirectoryLoader(folder_path, glob="**/*.txt")
     documents = loader.load()
 
     # Ensure 'istruzioni' is included
     istruzioni_path = os.path.join(folder_path, "istruzioni.txt")
-    #istruzioni_path = "/Users/andrea/Documenti/PycharmProjects/streamapp/data/istruzioni.txt"  # Your actual istruzioni.txt path
     with open(istruzioni_path, 'r') as file:
         istruzioni_content = file.read()
     documents.append(Document(page_content=istruzioni_content, metadata={"source": "istruzioni"}))
@@ -69,7 +66,7 @@ docs, istruzioni_content = load_and_split_documents()
 # Initialize embeddings and FAISS vectorstore for document retrieval
 @st.cache_resource
 def setup_retrieval():
-    embeddings = OpenAIEmbeddings()
+    embeddings = OpenAIEmbeddings(openai_api_key=openai_api_key)  # Pass the API key explicitly
     vectorstore = FAISS.from_documents(docs, embeddings)
     return vectorstore
 
@@ -100,10 +97,11 @@ conversational_prompt = PromptTemplate(
     input_variables=["context", "chat_history", "question"]
 )
 
-# Set up the LLM without the 'openai_api_key' argument
+# Set up the LLM with the updated OpenAI interface
 llm = OpenAI(
+    api_key=openai_api_key,
     temperature=0,
-    model_name="gpt-4o-mini"  # Ensure you have access to this model, or replace with "gpt-3.5-turbo"
+    model="gpt-4o-mini"  # Replace with the appropriate model name (e.g., "gpt-3.5-turbo")
 )
 
 # Setup the Conversational Retrieval Chain using the LLM and the corrected prompt
