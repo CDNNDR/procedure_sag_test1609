@@ -47,12 +47,13 @@ clone_github_repo(github_url, local_dir)
 # Function to load and split documents into manageable chunks
 def load_and_split_documents():
     #folder_path = "/Users/andrea/Documenti/PycharmProjects/streamapp/data" 
-    folder_path = "/Users/andrea/Documenti/PycharmProjects/streamapp/data" # Your actual data folder path
+    folder_path = "data" # Your actual data folder path
     loader = DirectoryLoader(folder_path, glob="**/*.txt")
     documents = loader.load()
 
     # Ensure 'istruzioni' is included
-    istruzioni_path = "/Users/andrea/Documenti/PycharmProjects/streamapp/data/istruzioni.txt"  # Your actual istruzioni.txt path
+    istruzioni_path = os.path.join(folder_path, "istruzioni.txt")
+    #istruzioni_path = "/Users/andrea/Documenti/PycharmProjects/streamapp/data/istruzioni.txt"  # Your actual istruzioni.txt path
     with open(istruzioni_path, 'r') as file:
         istruzioni_content = file.read()
     documents.append(Document(page_content=istruzioni_content, metadata={"source": "istruzioni"}))
