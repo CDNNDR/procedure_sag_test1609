@@ -101,7 +101,7 @@ conversational_prompt = PromptTemplate(
 llm = ChatOpenAI(
     api_key=openai_api_key,
     temperature=0,
-    model="gpt-4"  # Replace with "gpt-3.5-turbo" if using that model
+    model="gpt-4o-mini"  # Replace with "gpt-3.5-turbo" if using that model
 )
 
 # Setup the Conversational Retrieval Chain using the LLM and the corrected prompt
