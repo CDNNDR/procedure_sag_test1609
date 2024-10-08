@@ -1,0 +1,368 @@
+﻿Procedura: accettazione e fatturazione esami di laboratorio
+	Pagina  di  
+
+
+
+
+19/10/2021
+Rev. 12/09/2024
+      
+	
+
+
+
+COVER DELLA PROCEDURA
+	
+
+Titolo procedura
+	Accettazione e Fatturazione Esami di Laboratorio
+	Versione
+	1.0.11
+	Data
+	19/10/2021
+	
+
+
+
+Autore
+	Ilaria Bressani  (Lab Operations Manager)
+	Owner
+	Ilaria Bressani  (Lab Operations Manager)
+	Verificato da
+	
+
+	
+
+
+
+Tracciamento modifiche
+	Data
+	Ver.
+	Autore 
+	Ruolo
+	Note
+	01/02/2022
+	1.0.3
+	Squillace Alessandra
+	Operation officer- processes
+	Tasto lista esami
+	02/04/2022
+	1.0.4
+	Squillace Alessandra
+	
+
+	Stampa referti
+	27/05/2022
+	1.0.5
+	Salamina Federica 
+	Operating Officer -Non-ordinary Processes & Nursing
+	INF66 - prelievo 0-5 anni
+	19/09/2022
+	1.0.6
+	Squillace Alessandra
+	
+
+	Urine Unisalute
+	18/11/2022
+	1.0.7
+	Bressani Ilaria
+	
+
+	
+
+	11/12/2023
+	1.0.8
+	 Chiara Carrisi
+	
+
+	Revisione procedura
+	13/12/2023
+	1.0.9.
+	Lorenzo Paparella
+	
+
+	Revisione procedura
+	26/02/2024
+	1.0.10
+	Stefania Scarabino
+	
+
+	Urine/feci Unisalute
+	12/09/2024
+	1.0.11
+	Anna Chiara Lombardi
+	
+
+	Revisione procedura
+	
+
+NOTE:
+Versione: 
+* X = MODIFICABILE SOLO DALL’OWNER. Da incrementare solo per modifiche strutturali della procedura (prima di incrementare e modificare la versione, esportare pdf versione precedente in modo da mantenere lo storico). 
+* Y = Da incrementare se vengono aggiunte attività alla procedura.
+* Z = Da incrementare ad ogni modifica del documento. 
+________________
+
+
+INDICE
+Premessa        3
+Campo di applicazione        3
+Descrizione delle attività        3
+Casi d’uso particolari        10
+
+
+
+
+________________
+
+
+Premessa
+La procedura descrive il flusso operativo standard di accettazione e fatturazione degli Esami di laboratorio erogati durante le agende dei prelievi nelle sedi.                                                                                                                                               
+Campo di applicazione 
+La procedura è da applicarsi a tutti gli esami della branca LABORATORIO ANALISI. 
+Sono esclusi gli esami di laboratorio come breath test al lattosio ed Helicobacter Pylori,  curve glicemiche e insulinemiche e hiv.  Il flusso di questi esami, che necessitano di specifici accorgimenti, è riassunto qui.  
+Descrizione delle attività
+
+
+Prenotazione
+
+
+Il paziente può accedere alle agende per prelievi ed esami di laboratorio liberamente recandosi direttamente in sede, oppure attraverso prenotazione. La prenotazione per  INF2: Prelievi ed esami di laboratorio oppure INF66: Prelievo 0-5 anni può avvenire in due modi:
+
+
+1. ONLINE: il paziente, sul sito Santagostino, può consultare la  guida di preparazione agli esami e può utilizzare il  calcolatore, per:
+* selezionare gli esami che deve effettuare;
+* sapere in anticipo prezzo e tempi di refertazione;
+* raccogliere informazioni cliniche sull’esame  attraverso l’accesso a schede informative  della SantagostinoPedia (il paziente cliccando sulla “i” di info in corrispondenza dell’esame accede alla scheda)
+* salvare il codice a barre per velocizzare la fase di accettazione e creare il codice widget che include tutti gli esami selezionati
+Per procedere con la prenotazione online deve accedere all’area riservata sul sito Santagostino, per selezionare sede e orario. 
+Al momento della prenotazione riceve un messaggio di conferma che include il link per consultare la guida di preparazione dove sono presenti sia gli accorgimenti che deve rispettare il paziente prima di eseguire gli esami, sia sono mostrati i contenitori specifici richiesti per la raccolta dei campioni biologici (urine, feci, espettorato e liquido seminale) . Per alcuni contenitori sarà necessario il ritiro in una nostra sede ( citologici urinari, vetrini per scotch test e contenitori feci sangue occulto). Per le provette sangue occulto, il desk deve obbligatoriamente  consegnare le seguenti istruzioni al paziente accertandosi che abbia capito.
+
+
+2. DESK O SERVICE CENTER: il paziente può recarsi in una sede Santagostino oppure contattare il Service center via whatsapp o call. Il personale del santagostino deve supportare il paziente fornendo le informazioni sui costi e i tempi di refertazione e dando indicazione su dove e come trovare queste informazioni sul sito santagostino. Al momento della prenotazione da parte di desk e service center, il paziente riceve due  sms: un primo di conferma che include il link per consultare la guida di preparazione e un secondo messaggio con riportato il link del  calcolatore
+
+
+
+
+
+
+
+
+
+
+Accettazione
+
+
+* Al momento dell’accettazione il desk deve richiedere obbligatoriamente la tessera sanitaria del paziente per accedere correttamente al suo cruscotto e successivamente cliccare il tasto “CHECK-IN” in corrispondenza degli appuntamenti prenotati e non ancora accettati, con riferimento a Prelievi ed Esami di laboratorio.
+In caso di accesso libero inserire il paziente nel primo slot disponibile dell’agenda, non fare un’accettazione diretta e proseguire successivamente con identificazione e “CHECK-IN” come descritto precedentemente.
+
+
+  
+
+
+
+
+
+ATTENZIONE: DELEGA PER CONSEGNA CAMPIONE DA PARTE DI TERZI: Se il paziente non può portare il proprio campione biologico, può delegare una persona di fiducia compilando questo documento.[a][b][c] Non vengono accettati campioni biologici di terzi senza delega firmata.
+
+
+* Si apre la schermata di accettazione:
+  
+
+
+
+Da qui, NON eliminare la riga corrispondente a INF2 o a INF66, perchè a questa prestazione sono legate diverse attività: costo del prelievo, recensioni, messaggi, etc.
+
+
+Quando eliminare INF2/INF66 dall’accettazione?
+Sono presenti alcune eccezioni, di seguito elencate,  in cui puoi eliminare INF2 o INF66 e non attribuire il costo del prelievo. 
+
+
+Accettazioni multiple per più prelievi  per  lo stesso paziente nello stesso giorno:  
+i casi in cui può essere richiesto di eseguire più accettazioni per lo stesso paziente nello stesso giorno sono:
+* scorporo per tempi di refertazione diversi (esami che richiedono lunghi tempi di lavorazione rispetto ad altri che sono pronti entro due giorni);
+* più prelievi nell’arco della stessa giornata (ad esempio glicemia a digiuno la mattina e glicemia postprandiale);
+* accettazione separata per esami citologici su espettorato
+* accettazione separata dell’ esame HIV (cod SAP L0213)
+* accettazione separata per prelievo per esami genetici (cod SAP INF52)
+
+
+Nel caso di accettazioni multiple per lo stesso paziente nello stesso giorno per  “Prelievo o Esame di laboratorio”  (INF2 o INF66), inserire la voce corrispondente solo in una delle accettazioni. 
+
+
+
+
+
+
+
+
+
+
+
+
+Quando NON eliminare  INF2/INF66 dall’accettazione?
+Di seguito sono elencate le casistiche in cui NON devi eliminare INF2 o INF66 perchè a queste prestazioni sono legate diverse attività: costo del prelievo, recensioni, messaggi, etc.;
+
+
+1. Dalla prenotazione del paziente privato
+2. Dalla prenotazione del paziente con assicurazione Unisalute: in questo caso INF2 e INF66 sono prezzati a zero;
+3. Dalla richiesta di esecuzione di tamponi specialistici con personale infermieristico all’interno dell’ agenda dei prelievi.
+4. Dalla consegna di singoli campioni biologici: Ogni campione consegnato singolarmente deve essere accettato come singolo campione (non come secondo o terzo) e deve essere sempre inserito il costo  corrispondente a “Prelievi o Esami di laboratorio”  (INF2 o INF66) 
+
+
+
+
+* Procedere inserendo gli analiti da analizzare, da aggiungi esami e ricercarli tra:
+* esami, se il paziente riporta una lista di analiti specifici;
+* pacchetti, se il paziente richiede un pacchetto predefinito di esami;
+* codice widget, se in possesso del codice a barre prodotto dal calcolatore prezzi del sito.
+
+
+In particolare, da esami, i singoli analiti possono essere ricercati per:
+* codice interno sap (es. L0419);
+* nome anagrafica articolo (es.Acetone nelle urine [Urine]);
+
+
+  
+
+
+
+Selezionare l’esame che si vuole inserire in accettazione:
+  
+
+
+
+* Nella tendina ESAMI, è possibile visualizzare:
+* l’elenco degli esami selezionati
+* la preparazione richiesta per ciascun esame;
+* i dettagli operativi sullo specifico esame che richiedono l’ATTENZIONE da parte del desk officer;
+* i giorni di lavorazione per il ritiro del referto per quell’esame (esclusa la domenica e i giorni festivi).  
+
+
+Se è necessaria una certa preparazione, accertarsi obbligatoriamente che il paziente l’abbia eseguita. In caso contrario, avvisare il paziente che non è possibile procedere con l’analisi per quell’analita ed eliminarlo dall’elenco degli esami da accettare. 
+
+
+* Prima di procedere con il salvataggio dell’accettazione, stampare obbligatoriamente la lista degli esami che il paziente sta per eseguire dal tasto LISTA ESAMI e obbligatoriamente:
+  
+ 
+
+
+* chiedere al paziente di verificare gli analiti presenti, facendoseli confermare e avvisandolo che non sarà possibile modificarli successivamente;
+
+
+* Procedere salvando l’accettazione cliccando la voce  “SALVA”.  
+  
+
+Al salvaggio dell’accettazione sarà visibile nel riquadro “data ritiro” la data di refertazione    e  verrà stampato automaticamente il modulo generico dove il paziente trova:
+* la data di refertazione;
+* le istruzioni per accedere al dossier;
+* il modulo di delega, per il ritiro del referto in sede; 
+* la lista degli analiti che verranno analizzati. 
+* sottolineare/evidenziare la data di refertazione, avvisando il paziente che il referto non sarà considerato in ritardo se non superata la data di refertazione riportata sul foglio.
+
+
+* Si può procedere poi allo step di fatturazione. I moduli stampati  restano al paziente, non devono essere archiviati dall’infermiere. Solo nel caso in cui per quell’esame è previsto un CONSENSO INFORMATO (HIV, curve glicemiche e insulinemiche, breath test), questo verrà stampato automaticamente al salvataggio dell’accettazione. Il modulo dovrà essere compilato in ogni sua parte insieme all’infermiere, che lo archivierà. 
+
+
+Fatturazione
+Salvata l’accettazione, si possono verificare due casi:
+* è stata creata l’accettazione con rispettivo codice e un messaggio avvisa che “l’invio al lab è stato effettuato con successo”. In questo caso, dal comando su His “FATTURAZIONE”  si può procedere alla fatturazione al paziente e, quindi, al prelievo.
+
+
+* è stata creata l’accettazione con rispettivo codice MA un messaggio avvisa che “Lab. interno: ECCEZIONE LAB. INTERNO: Problema comunicazione per invio laboratorio interno”. In questo caso verificare con il paziente la correttezza di tutti i dati anagrafici, i recapiti telefonici e la validità dell'indirizzo email, accertarsi che non siano presenti doppie anagrafiche e, una volta apportate eventuali modifiche, provare a forzare l'invio al laboratorio interno: dalla tendina NOTE, cliccare su FORZA INVIO ESAMI DI LABORATORIO AL SANTAGOSTINOLAB . Se dopo le correzioni non dovesse ancora funzionare l’invio al lab, non è possibile per l’infermiere eseguire il prelievo in quanto mancante l’accettazione su Modulab. Identificare il problema e aprire ticket sulla piattaforma OsTicket, selezionando la voce HisWeb/segnalazioni/errore generico su accettazione Laboratorio indicando il numero di accettazione, il codice paziente e allegando lo screen dell’errore; Assicurarsi che non ci sia un problema di rete, in questo caso ritentare l’invio al laboratorio in un secondo momento. In caso di down di rete e sui sistemi attivare le segnalazioni su “System status” e applicare la procedura di emergenza
+
+
+
+
+Ritiro referto
+Sia che il paziente chiami al call, sia che si presenti in sede è necessario verificare SEMPRE lo stato dei referti. Questi, non devono solo essere pronti ma anche FIRMATI.
+Sempre dopo identificazione del paziente , telefonica se al call, tramite consegna fisica del tesserino sanitario se in sede e verifica del Codice Univoco, verificare accedendo dal cruscotto del paziente su  “Modulab” lo stato dei referti.  Sulla guida sono mostrati i passaggi.
+Le indicazioni presenti dal punto 3 sulla configurazione delle opzioni di “Modulab” valgono sia per il desk sia per il call.
+
+
+Nel caso in cui il paziente dovesse tornare in sede per avere informazioni su un referto perchè in ritardo oppure per ritirare di persona il proprio referto:
+1. chiedere al paziente tessera sanitaria e documento di riconoscimento, come carta d’identità e verificare Codice Univoco rilasciato in fase di accettazione;
+2. inserire la sua tessera sanitaria nell’apposito lettore (se sprovvisto, procedere con il riconoscimento utilizzando l’altro documento). Accedere così al cruscotto paziente;
+3. selezionando il comando Modulab, si accede alla dashboard che informa sull’effettivo stato dei referti.
+  
+
+Nella dashboard, la tabella deve contenere le seguenti colonne:
+  
+
+Se non viene visualizzata l’ultima colonna, che riporta la data di firma del referto, allora:
+* cliccare su OPZIONI, in basso a sinistra
+  
+
+* si aprirà la finestra dalla quale è possibile settare i campi della tabella. Selezionare il campo data firma e aggiungerlo tra i campi da visualizzare
+  
+
+Fatta questa operazione, tutte le volte che si accede alla dashboard sarà possibile visualizzare se i referti associati a quel paziente sono stati firmati:
+* se l’icona dello stato è gialla, significa che il referto non è ancora completo;
+* se l’icona dello stato è verde MA il campo DATA FIRMA è vuoto significa che il referto è in firma: NON E’ QUINDI PRONTO E NON PUO’ ESSERE CONSEGNATO AL PAZIENTE;
+* se l’icona dello stato è verde E nel campo DATA FIRMA compare la data della firma allora il referto è pronto.
+  
+
+
+
+SOLO I REFERTI DI HIV POSSONO ESSERE STAMPATI DALLA DASHBOARD DI MODULAB, DOPO AVER PRESTATO ATTENZIONE CHE SIANO GIA’ STATI FIRMATI. IL REFERTO DI QUALSIASI ALTRA ANALISI DI LABORATORIO VIENE INVECE STAMPATO DA E-CMS (copiando e incollando il codice pz da hisweb in E-CMS). 
+
+
+Richiesta referto parziale
+Seguire la procedura per la richiesta di firma parziale . Il referto parziale può essere richiesto SE e SOLO SE:
+* l'icona dello stato del referto è verde, ma il campo DATA FIRMA è vuoto;
+* l’icona dello stato del referto è gialla, ma è presente il risultato dell’esame di interesse e il campo DATA FIRMA è vuoto.
+ATTENZIONE: se non è presente l’esito dell’esame, non è possibile richiederne la firma.
+Casi d’uso particolari
+1. Dopo aver salvato l’accettazione e non aver completato la fatturazione, c’è bisogno di modificarne il contenuto (rimuovere un analita o aggiungerne di altri). Procedere rimuovendo o aggiungendo l’esame di interesse e salvare nuovamente l’accettazione. Non verrà creata una nuova accettazione, ma il contenuto così aggiornato verrà sovrascritto nell’accettazione originaria.
+2. Dopo aver salvato l’accettazione e aver completato la fatturazione, c’è bisogno di modificarne il contenuto (rimuovere un analita o aggiungerne di altri). Fino a quando non è conclusa l’acquisizione di tutti i contenitori presenti nell'accettazione di un paziente, è possibile a sistema apportare modifiche riguardanti l’aggiunta o la cancellazione di analiti, quindi il desk potrà stornare la fattura, rimuovere l’esame di interesse, salvare nuovamente l’accettazione, emettere la nuova fattura con riaccredito parziale. Così, non verrà creata una nuova accettazione, ma il contenuto così aggiornato verrà sovrascritto nell’accettazione originaria. Tracie avviserà, attraverso un pop-up sulla schermata di accettazione del paziente, che sono state apportate delle modifiche e il personale infermieristico recepirà tali modifiche semplicemente aggiornando la pagina. Saranno inviate e al laboratorio solo i contenitori acquisiti, presenti sulla schermata di Tracie con i dati aggiornati.
+3. Dopo aver salvato l’accettazione e aver completato la fatturazione, il paziente, per qualsiasi ragione, non procede con l’esame. Procedere con l’interruzione dell’accettazione e lo storno della fattura. Questa operazione è fondamentale che avvenga su SAP/HIS prima che il personale infermieristico annulli l’ordine sul proprio portale. 
+
+
+N.B. Ogni modifica all’interno delle accettazioni deve essere fatta finchè il prelievo non è stato eseguito. Dopo, le accettazioni non sono più modificabili.
+
+
+4. Il paziente ha una presa in carico con Unisalute (unica assicurazione per quanto riguarda i prelievi). Una volta emessa la fattura in HIS, dobbiamo chiudere la pratica sul portale di Unisalute. Quando viene richiesto di indicare chi ha emesso la fattura, selezionare la voce “CENTRO MEDICO SANTAGOSTINO".
+
+
+5. Unisalute copre l’analisi di alcuni analiti piuttosto che di altri. Come oggi succede, ad una accettazione deve corrispondere una e una sola convenzione. In questo caso bisogna procedere effettuando due accettazioni distinte, una con gli analiti a listino privato (CONVENZIONE = 03), la seconda con gli analiti a listino assicurazione (es. CONVENZIONE =A-5). 
+
+
+6. Il paziente deve eseguire un esame contestualmente su più campioni raccolti in giorni diversi (ad esempio, tre campioni per il sangue occulto nelle feci). 
+Per il seguente elenco di esami su campioni diversi:
+* Ricerca di sangue occulto nelle feci
+* Esame parassitologico delle feci (Scotch Test)
+* Esame parassitologico delle feci 
+* Esame citologico delle urine
+* Esame colturale delle feci (coprocoltura)
+le tre voci corrispondenti ad ogni campione (per es. Ricerca di sangue occulto nelle feci [Feci], Ricerca di sangue occulto nelle feci, secondo campione [Feci], Ricerca di sangue occulto nelle feci, terzo campione [Feci]) devono essere inserite nella stessa accettazione SE E SOLO SE il paziente porta i tre campioni nella stessa giornata.  La distinzione tra 2° e 3° campione serve ai fini della refertazione all’interno della stessa accettazione per confrontare i risultati tra i diversi campioni.  Ogni campione consegnato singolarmente deve essere accettato come singolo campione (non come secondo o terzo) e deve essere sempre inserito il costo  corrispondente a “Prelievi o Esami di laboratorio”  (INF2 o INF66) 
+
+
+Fanno eccezione gli esami che riportano la dicitura “secondo” o “terzo campione” per l’Esame citologico dell'espettorato. Le tre voci corrispondenti ad ogni campione di espettorato devono essere inserite in tre accettazioni distinte quando il paziente porta i tre campioni nella stessa giornata. Non è possibile gestire nella stessa accettazione più di un campione. Vedi Gestione operativa: Esame citologico dell’espettorato
+
+
+7. Tra gli esami che il paziente deve effettuare, è prevista la consegna di un campione biologico, come urine e feci, ma il paziente non le ha con sé. In questo caso, bisogna eliminare tra gli esami in elenco in accettazione quello da eseguire sul campione biologico. Il giorno in cui il paziente tornerà con il campione raccolto nel modo corretto, viene fatta una nuova accettazione che contiene solo l’esame o gli esami da effettuare sul campione. 
+
+
+8. Il paziente ha una presa in carico da parte di un’assicurazione su un pacchetto che comprende anche l’analisi di campioni biologici come feci e urine, ma non li ha con sé. In questo caso:
+   1. inserire nell’accettazione tutti gli analiti presenti nella prese in carico (nel caso ci fossero pacchetti inserire solo il pacchetto);
+   2. il valore della fattura deve sempre coincidere con l’importo dall’assicurazione;
+   3. L’infermiera segna su Tracie che il campione non è stato consegnato e lo annulla, e il desk officer lo segna anche nelle note di HIS;
+   4. Il giorno in cui il paziente consegnerà il campione mancante, bisogna effettuare una nuova accettazione da HIS, con convenzione PRELIEVO SALDATO-PACCHETTO ASSICURATIVO. L’esame quindi non sarà fatturabile in quanto già saldato (vedere screen di seguito).
+
+
+  
+
+
+
+
+
+  
+
+
+
+Società e Salute SpA - sede legale: via Temperanza 6, 20127 Milano - P.IVA e CF - 05128650966 - REA n. 1798600 
+ Capitale sociale Euro 2.423.893,30 i.v. - Società soggetta all’attività di direzione e coordinamento di Unipol Gruppo SpA
+[a]@andreaconti@santagostino.it puoi verificare questo documento?
+_Assegnato a andreaconti@santagostino.it_
+[b]tolte alcune specifiche relative all'informativa privacy che andranno sistemate (p.iva e email del dpo precedente non piu attiva) non vedo altro. C'era qualcosa in particolare da attenzionare?
+[c]no, volevo accertarmi che le informazioni fossero corrette

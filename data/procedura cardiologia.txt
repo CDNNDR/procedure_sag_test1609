@@ -1,0 +1,246 @@
+﻿Procedure Cardiologia
+Indice
+Indice        1
+Acquisitore ECG        2
+Non mi si apre il programma Custo        2
+Non parte l'acquisizione dell’esame, dispositivo scollegato.        2
+Non vedo i pazienti in worklist        2
+Il tracciato ECG non è presente su ECMS        3
+Non riesco a stampare il tracciato ECG        3
+Holter ECG        3
+Ho un problema con un holter ecg        3
+Errore durante il caricamento/ scaricamento scheda SD        3
+Non riesco a modificare i dati dell’esame o a refertarlo        4
+Il referto holter non è presente su ECMS        4
+Holter PAO        4
+Non si riesco a scaricare il PAO        4
+Ho un problema con un bracciale pressorio        5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Acquisitore ECG
+Non mi si apre il programma Custo
+Quando si clicca sull’icona dell’applicazione Custo, si apre una finestra che riporta “Riconnessione a 10:236…” e una barra di caricamento che non avanza.
+In questo caso il problema è la connessione a Internet, bisogna contollare che il pc sia connesso a una delle seguenti reti:
+* Santagostino
+* SantagostinoStaff
+* SantAgostinoIOT
+Se così non è, reinserire le credenziali per una di queste reti wifi o collegare il pc con cavo ethernet e il programma si aprirà correttamente.
+Se è correttamente collegato, e si può controllare ad aprire una qualsiasi pagina google, allora è necessario mandare una mail a ingegneria-clinica@santagostino.it
+
+
+Non parte l'acquisizione dell’esame, dispositivo scollegato.
+Appare a schermo un errore che dice “Connessione a ECG fallita”.
+E’ importante non premere annulla per non perdere l’acquisizione, una volta che il problema verrà risolto il dispositivo si collegherà al programma e il tracciato riprenderà da solo.
+
+
+E’ necessario controllare:
+* che il cavo di alimentazione nero dell’acquisitore sia SCOLLEGATO dal pc e dall’alimentazione.
+L’unico cavo che deve essere collegato è quello degli elettrodi per il paziente.
+* che il dispositivo non sia spento. Bisogna provare a premere il tasto centrale per 5 secondi e essere sicuri che i LED centrali di wifi e batteria siano accesi.
+* che il bluetooth del pc sia acceso, andando in “Impostazioni Bluetooth e altri dispositivi” e controllando che lo stato del BT sia  “Attivato.”
+Nell’elenco dei dispositivi associati sotto “Altri dispositivi”, deve essere presente il customed cardo 300 UBE…
+Se non appare lo status o il dispositivo, è necessario riavviare il pc per far ricaricare il driver.
+   * Se tutto è acceso, ma non si risolve, tenere premuto il tasto centrale per 5 sec finché il dispositivo non ogni LED  si spegne del tutto.
+Dopo 30 secondi da quando è spento, premere il tasto centrale per riaccenderlo e riprovare l’esecuzione dell'esame.
+Se dopo questi tentativi lo strumento non si ricollega ,va segnalato con un ticket a ingegneria clinica tramite l’Asset Dashboard riportando il numero di tag del dispositivo.
+
+
+Non vedo i pazienti in worklist
+Se l’accettazione è stata correttamente fatta dal desk, può essere un problema di vista limitata sulla Lista di Attesa.
+Controllare sulla schermata iniziale in alto di avere non avere inserito un filtro e di avere la spunta sulla box “TUTTI” all’interno di tutti i campi di filtraggio disponibili (data esame, tipo esame etc..).
+
+
+
+
+Il tracciato ECG non è presente su ECMS
+La prima cosa da controllare su ECMS è che l’episodio della visita sia stata correttamente chiusa dal personale infermieristico o medico, come indicato sulle procedure.
+Bisogna poi controllare che sia stato dato il comando di esportazione dopo la scrittura del referto.
+Per farlo bisogna:
+      * Aprire il file con l’esame
+      * Premere “fine” in basso a destra e aspettare la schermata di chiusura
+      * Selezionare “Esegui esportazione" nel box Flusso di Lavoro
+      * premere “Conferma” 
+Se dopo 30 minuti il pdf allegato alla visita non viene caricato, bisogna segnalare il caso su OSTicket al team “Segnalazioni Tecniche” o procedere con il caricamento a mano del tracciato sull’anagrafica del paziente.
+
+
+Non riesco a stampare il tracciato ECG
+Il programma è impostato per stampare sulla stampante predefinita di windows alla fine di ogni esame.
+Bisogna quindi assicurarsi che la stampante desiderata sia installata all’interno del menù “Stampanti e Scanner” di Windows e che sia correttamente segnata come preferita.
+Per fare questo bisogna:
+      *  togliere la spunta “Consenti a windows di gestire la stampante predefinita” all’interno del menù stampanti
+      * cliccare col tasto sinistro del mouse sulla stampante desiderata dall’elenco disponibile
+      * cliccare su “Gestisci”
+      * cliccare su “Imposta come predefinito” all’interno della gestione dispositivo
+In questo modo il programma riconoscerà da solo il percorso verso la stampante e invierà i tracciati alla fine di ogni esame o quando si preme il tasto “Stampa” all’interno della schermata di riepilogo.
+E’ possibile anche impostare “Microsoft print to PDF” se si preferisce che l’esame venga salvato come file PDF sul pc, per poi caricarlo sulla cartella del paziente.
+Holter ECG
+Ho un problema con un holter ecg
+Il dispositivo è Custo Card 500. le procedure di applicazione sono disponibili su Drive cercando “Procedura infermieristica sistema CUSTO” e spiegano step by step come eseguire l’esame.
+Hai un problema specifico?
+
+
+Errore durante il caricamento/ scaricamento scheda SD 
+Se il sistema dice “Impossibile riconoscere/sovrascrivere la card multiday” c’è un problema di riconoscimento della scheda SD.
+Controlla di aver bene inserito la schedina e che sia nello stesso posto in cui si inserisce di solito, perchè se la porta viene cambiata il sistema non la riconoscerà.
+Controlla inoltre che la linguetta sul lato della SD sia posizionata in alto e lontano dalla posizione di LOCK, altrimenti sarà impossibile leggere i dati o caricare la nuova anagrafica del paziente.
+Quando la scheda è inserita si deve veder aprire la finestra di Esplora file che mostra il contenuto e i file salvati. Se è presente un file chiamato DAT0002 ,bisogna cancellarlo perchè crea conflitto e impedisce l’avvio della registrazione.
+Se ancora non funziona, provare con la seconda scheda in dotazione per ogni strumento
+
+
+Dopo aver fatto questi controlli, riprovare il processo di caricamento/scaricamento dell’holter che dovrebbe funzionare, altrimenti segnalare con un ticket a ingegneria clinica tramite l’Asset Dashboard riportando il numero di tag del dispositivo.
+
+
+Non riesco a modificare i dati dell’esame o a refertarlo
+Il problema è dovuto al fatto che In fase di salvataggio, l’esame viene tenuto come “documento originale” e quindi non è modificabile e filtrabile per il medico refertante.
+Per risolvere bisogna:
+      * Aprire il file con l’esame
+      * Premere “fine” in basso a destra e aspettare la schermata di chiusura
+      *  deselezionare “doc.originale” nel box Stato dell’esame
+      * premere “Conferma” 
+A questo punto l’esame sarà nuovamente modificabile e sarà possibile scrivere osservazioni e compilare il referto.
+
+
+Il referto holter non è presente su ECMS
+La prima cosa da controllare su ECMS è che l’episodio della visita sia stato correttamente chiuso dal personale infermieristico, come indicato sulle procedure.
+Bisogna poi controllare che sia stato dato il comando di esportazione dopo la scrittura del referto.
+Per farlo bisogna:
+      * Aprire il file con l’esame
+      * Premere “fine” in basso a destra e aspettare la schermata di chiusura
+      * Selezionare “Esegui esportazione" nel box Flusso di Lavoro
+      * premere “Conferma” 
+Se dopo 30 minuti il pdf allegato alla visita non viene caricato, bisogna segnalare il caso su OSTicket al team “Segnalazioni Tecniche” o procedere con il caricamento a mano del tracciato sull’anagrafica del paziente.
+Holter PAO
+Non si riesco a scaricare il PAO
+Questo è un problema di mancanza di interazione di connessione tra lettore a banda nera e la macchina per la lettura della pressione
+
+
+      * Assicurarsi che il dispositivo sia acceso,eventualmente cambiare batteria, e spostare l’interrutore posizionato sotto in modo che sia sull’icona I.
+      * Controllare che il lettore di bande nere chiamato, Custo Com IR. sia inserito correttamente nella presa USB, eventualmente si suggerisce di cambiare la porta per riprovare.
+      * Disporre il dispositivo e il lettore IR in modo che le bande nere di entrambi siano una davanti all’altra e a pochi centimetri di distanza.
+
+
+Riprovare a fare una lettura dopo aver eseguito queste prove, se il problema persiste è necessario controllare le configurazioni.
+Segnalare con un ticket a ingegneria clinica tramite l’Asset Dashboard riportando il numero di tag del dispositivo.
+
+
+Ho un problema con un bracciale pressorio
+Questo problema capita quando dopo il caricamento anagrafica da Custo e viene applicato lo strumento al paziente.
+E’ possibile cliccare il bottone posizionato sopra l’holter di fianco allo schermino LCD per far partire una lettura manuale e controllare il corretto gonfiaggio del bracciale.
+Se la misura ha esito positivo, lo schermo riporterà la pressione del paziente.
+Altrimenti  uscirà un codice di Errore tra quelli riportati in tabella qui sotto.
+Le operazioni da fare possono essere di cambio misura del bracciale, riposizionamento per migliorare la posizione del cavo e fascia, cambio batteria o ricarica dell’anagrafica.
+Se invece è necessario un intervento tecnico diverso, segnalare con un ticket a ingegneria clinica tramite l’Asset Dashboard riportando il numero di tag del dispositivo.
+
+
+
+
+CODICE    ERRORE RISCONTRATO                SPIEGAZIONE
+E05
+	Velocità di rilascio pressorio al di fuori dei limiti specificati
+	Valvola della pressione sanguigna difettosa
+	E06
+	Misurazione disturbata
+	Troppi artefatti da movimento, il bracciale è scivolato in basso o è troppo lasso
+	E07
+	Non in utilizzo
+	
+
+	E08
+	Batteria scarica
+	Inserire batteria nuove o controllare che i contatti siano sporchi o ossidati
+	E10-E11
+	Differenza di pressione in-out nel tubo del bracciale troppo elevata
+	Rimuovere il bracciale dal device e riprovare Se l’errore persiste, spedire il dispositivo + il bracciale in casa madre
+	E17
+	La pressione aumenta troppo lentamente nel sistema 
+	Il bracciale è troppo lasso o perde
+La valvola perde o è difettosa
+Il tubo perde
+La pompa è difettosa
+	E18
+	La pressione aumenta troppo velocemente
+	Il tubo del bracciale è strozzato o bloccato
+	E19
+	Il tempo di rilascio della pressione è troppo lungo
+	Il tubo del bracciale è strozzato
+La valvola è difettosa
+Spedire il device in casa madre nel caso il problema si presenti più di una volta
+	E21 - E24
+	Errore durante la rilevazione della diastole
+	Oscillazioni troppo deboli
+Bracciale applicato non correttamente o spostato
+Non muovere il braccio!
+	E25 - E28
+	Errore durante la rilevazione della sistole 
+	Sistole sopra la massima pressione.
+Bracciale posizionato scorrettamente.
+Non muovere il braccio!
+	E29 - E32
+	Errore nella scheda di circuito
+	Spedire il device alla casa madre 
+	E33 - E36
+	Card SD non leggibile/scrivibile (screen 400)
+	Formattare la SD con il PC (FAT) o utilizzare un’altra SD. Ritentare la procedura.
+Se l’errore dovesse persistere, spedire il device in casa madre.
+	E38 - E45
+	Errore nella scheda di circuito
+	Spedire il device alla casa madre 
+	E46
+	Sensore di pressione 1 difettoso
+	Spedire il device alla casa madre
+	E47
+	Sensore di pressione 2 difettoso
+	Spedire il device alla casa madre
+	E48 - E49
+	Modulo RTC difettoso
+	Spedire il device alla casa madre
+	E50 - E64
+	Errore nella pompa pressoria.
+Valvola di sicurezza difettosa
+Sensori di pressione difettosi
+	Spedire il device alla casa madre
+	E65 - E67
+	Spento dal sistema di sicurezza
+	Spedire il device alla casa madre se l’errore si verifica più di una volta durante una misurazione 
+	E68
+	Dati disturbati (screen 400)
+	Spedire il device alla casa madre
+	E69
+	Modulo radio difettoso (screen 400)
+	Spedire il device alla casa madre
+	E88
+	Richiesta calibrazione (MTK)
+	Calibrare il device con il software con custo screen software
+	E89
+	Richiesta assistenza
+	Spedire il device alla casa madre

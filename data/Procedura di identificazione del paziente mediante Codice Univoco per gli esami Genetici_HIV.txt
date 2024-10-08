@@ -1,0 +1,313 @@
+﻿Procedura di identificazione univoca del paziente per gli esami Genetici/HIV
+	Pagina  di  
+
+
+
+
+28/06/2024      
+	
+
+ 
+REGOLA OPERATIVA 
+	
+
+Titolo procedura
+	Procedura di identificazione univoca del paziente per gli esami Genetici/HIV
+	Versione
+	1.0.0
+	Data
+	28/06/2024
+	
+
+
+
+Autore
+	Andrea Conti (Compliance Specialist) 
+	Owner
+	Michela D’Ezio (Chief Quality & Compliance Officer) 
+	Verificato da
+	Valentina Maffucci (Operation Team Leader) 
+	
+
+
+
+Tracciamento modifiche
+	Data
+	Ver.
+	Autore 
+	Ruolo
+	Note
+	GG/MM/AA
+	X.Y.Z
+	Nome Cognome
+	Job title
+	Descrizione delle modifiche
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+NOTE:
+Versione: 
+* X = MODIFICABILE SOLO DALL’OWNER. Da incrementare solo per modifiche strutturali della procedura (prima di incremetare e modificare la versione, esportare pdf versione precedente in modo da mantenere lo storico). 
+* Y = Da incrementare se vengono aggiunte attività alla procedura.
+* Z = Da incrementare ad ogni modifica del documento. 
+________________
+
+
+
+
+Da condividere con : 
+* Personale Infermieristico;
+* Personale di Front Office: Health Coach, Specialist e Regional Manager;
+* Personale di laboratorio;
+* Genetisti.
+
+
+Distribuito il:  09/09/2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+INDICE
+Premessa        4
+Campo di applicazione        4
+Terminologia, abbreviazioni e definizioni        4
+Responsabilità        4
+Descrizione delle attività        5
+Flusso Identificativo per esami dell’HIV        5
+Flusso Identificativo Esami di Genetica        7
+Gestione in assenza di Codice Univoco        8
+Contatti e Supporto        8
+
+
+
+
+________________
+
+
+Premessa
+Per garantire precisione, affidabilità e sicurezza nei risultati delle analisi genetiche e degli esami per l'HIV, è fondamentale una corretta identificazione dei pazienti. Per raggiungere questo obiettivo, abbiamo deciso di implementare un sistema di identificazione univoco basato su un codice specifico, utilizzabile una sola volta per ciascun paziente.
+
+
+Questo sistema offre diversi vantaggi:
+* tutela della privacy: protegge rigorosamente le informazioni personali e sensibili dei pazienti;
+* riduzione degli errori: minimizza il rischio di scambi di identità ed errori amministrativi;
+* migliore tracciabilità: facilita la gestione e il monitoraggio dei dati del paziente lungo tutto il percorso diagnostico e terapeutico.
+Campo di applicazione 
+La seguente procedura si applica a:
+
+
+* esami di Genetica;
+* esami dell’HIV.
+Terminologia, abbreviazioni e definizioni 
+Codice di Identificazione Univoco: il Codice Accettazione rilasciato, mediante il modulo di accettazione, da parte del personale di Front Office.
+Responsabilità 
+La responsabilità in merito all’ottemperanza a tale procedura è in capo a:
+* Personale di Front Office: Health Coach Manager, Specialist e Regional Manager;
+* Direzione Operativa;
+* Personale di SantaLab;
+* Personale Infermieristico;
+* Genetisti.
+Descrizione delle attività
+Durante la fase di accettazione, viene fornito al paziente un codice univoco che svolge un ruolo cruciale nel collegare tutte le fasi successive del percorso di cura. Al paziente viene fornita un'esaustiva spiegazione sull'importanza del codice univoco, che sarà richiesto in ogni fase del percorso diagnostico e terapeutico. Dopo aver ricevuto il codice univoco, il paziente procede con il prelievo necessario per l'esame.
+Successivamente, il codice verrà utilizzato durante la consulenza post-esame da parte dei genetisti per gli esami di genetica e da parte del laboratorio per gli esami dell’HIV. 
+Inoltre, il codice univoco sarà necessario per il ritiro del referto cartaceo presso le nostre sedi questi integra la procedura di identificazione standard che deve essere comunque eseguita, specialmente per gli esami per l’HIV, i cui referti possono essere ritirati esclusivamente in formato cartaceo presso le sedi indicate.
+
+
+Nota Bene: i referti dell’HIV possono essere ritirati solo ed esclusivamente presso le nostre sedi da parte del paziente senza alcuna possibilità di delega. 
+Per i referti di Genetica è previsto, in aggiunta al tradizionale ritiro in formato cartaceo, il caricamento a dossier da cui il paziente può reperire il referto, post consulenza ed a seguito del flag del medico.[a]
+Flusso Identificativo per esami dell’HIV
+A) Fase di Accettazione
+* Operatori coinvolti: Personale di Front Office, Personale Infermieristico 
+* Procedura:
+1. Identificazione del Paziente: il personale di front office identifica il paziente tramite la lettura della tessera sanitaria utilizzando l'apposito lettore.
+2. Recupero Anagrafica: viene recuperata l'anagrafica del paziente.
+3. Emissione del Codice Unico: viene fornito al paziente un documento cartaceo contenente il Codice Univoco.
+4. Dove si trova: il codice univoco è il numero di accettazione ed è presente in due moduli: 
+* il modulo che viene stampato in accettazione;
+* all’interno della fattura.
+
+
+N.B. E’ fondamentale spiegare l'importanza di questo codice e dove può trovarlo per le fasi successive del percorso terapeutico. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Modulo di Accettazione:
+  
+
+
+
+Fattura:
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+B) Fase del Prelievo
+* Operatori coinvolti: Personale infermieristico
+* Procedura:
+1. Verifica del Codice Accettazione: prima di procedere al prelievo del campione ematico, il personale infermieristico verifica l'identità del paziente tramite il Codice di Accettazione.
+2. Prelievo del Campione: dopo la verifica, il campione ematico viene prelevato.
+
+
+C) Fase di Comunicazione del Risultato e del Ritiro in sede
+* Operatori Coinvolti:Front Office,Personale di Santa Lab, Direttore di Santa Lab
+* Procedura:
+1. Esito Negativo:
+* Comunicazione: Il personale di laboratorio comunica che il referto è disponibile per il ritiro;
+* Identificazione al Ritiro: Identificazione del paziente da parte del personale di Front Office mediante lettura della tessera sanitaria e verifica, al momento del ritiro del referto, del Codice Univoco corrispondente al codice Accettazione rilasciato in fase di accettazione.
+
+
+2. Esito Reattivo/Dubbio/Debole Reattivo:
+* Primo Contatto: Il direttore del Laboratorio (DL) del Santagostino Lab contatta telefonicamente il paziente per informarlo dell'esito e pianificare un counseling;
+* Verifica dell'Identità: prima di procedere al counseling (sia telefonico che fisico), il DL verifica l'identità del paziente tramite il Codice Univoco corrispondente al Codice di Accettazione.
+* Counseling: Viene effettuato il counseling;
+* Comunicazione per il Ritiro del Referto: il paziente viene informato che il referto è disponibile in sede per il ritiro;
+* Identificazione al Ritiro:Identificazione del paziente da parte del personale di Front Office mediante lettura della tessera sanitaria e verifica, al momento del ritiro del referto, del Codice Univoco corrispondente al codice Accettazione rilasciato in fase di accettazione.
+
+
+
+
+Flusso Identificativo Esami di Genetica 
+A) Fase di Accettazione
+* Operatori coinvolti: Personale di Front Office
+* Procedura:
+1. Identificazione del Paziente: il personale di front office identifica il paziente tramite la lettura della tessera sanitaria utilizzando l'apposito lettore;
+2. Recupero Anagrafica: viene recuperata l'anagrafica del paziente;
+3. Emissione del Codice Unico: viene fornito al paziente un documento cartaceo contenente il Codice Univoco.
+4. Dove si trova: il codice univoco è il numero di accettazione ed è presente in due moduli: 
+* il modulo che viene stampato in accettazione;
+* all’interno della fattura.
+
+
+N.B. E’ fondamentale spiegare l'importanza di questo codice e dove può trovarlo per le fasi successive del percorso terapeutico. 
+
+
+  
+
+
+
+  
+
+B) Fase del Prelievo
+* Operatori coinvolti: Personale infermieristico, Genetista, Ginecologo
+* Procedura:
+1. Verifica del Codice di Accettazione: prima di procedere al prelievo del campione l'operatore Infermiere, Genetista o Ginecologo verifica l'identità del paziente tramite il Codice Unico rappresentato dal codice Accettazione;
+2. Prelievo del Campione: dopo la verifica, il campione viene prelevato.
+
+
+C) Fase di Comunicazione del Risultato
+* Operatori Coinvolti: Personale di Front Office, Genetista (o Consulente Genetico), Personale di Laboratorio
+* Procedura:
+
+
+1. Esito Negativo :
+* Counseling post esame: il Genetista/Direttore del Laboratorio a prescindere dalle modalità con cui esso sia svolto deve identificare il paziente mediante il codice univoco che è stato comunicato al paziente in fase di accettazione.
+* Identificazione al Ritiro:Identificazione del paziente da parte del personale di Front Office mediante lettura della tessera sanitaria e verifica, al momento del ritiro del referto, del Codice Univoco corrispondente al codice Accettazione rilasciato in fase di accettazione.
+
+
+
+
+2. Esito Positivo:
+* Counseling post esame: il Genetista/Direttore di Laboratorio a prescindere dalle modalità con cui esso sia svolto deve identificare il paziente mediante il codice univoco che è stato comunicato al paziente in fase di accettazione.
+* Counseling Genetico: viene effettuato il counseling genetico per discutere i risultati e le implicazioni;
+* Comunicazione per il Ritiro del Referto: il paziente viene informato che il referto è disponibile per il ritiro;
+* Identificazione al Ritiro:Identificazione del paziente da parte del personale di Front Office mediante lettura della tessera sanitaria e verifica, al momento del ritiro del referto, del Codice Univoco corrispondente al codice Accettazione rilasciato in fase di accettazione.
+
+
+Nota bene: È possibile delegare una terza persona al ritiro del referto degli esami di genetica. La persona delegata deve presentare la delega firmata in originale, copia del documento di identità del delegante che verrà archiviata insieme alla delega, Codice Univoco rilasciato al paziente durante la fase di accettazione e il documento d'identità del delegato. 
+
+
+Gestione in assenza di Codice Univoco
+In casi eccezionali qualora il paziente non disponga al momento del ritiro del referto del Codice univoco la gestione si articola come segue:
+* il personale di Front Office, in occasione del ritiro referti (HIV, Genetica), è tenuto a chiedere supporto all’Health Coach Manager o al Regional Manager il quale provvederà e sarà responsabile dell’identificazione del paziente mediante verifica di tutti i dati in anagrafica, in assenza di tali figure il referto non potrà essere consegnato.
+* il Genetista/Direttore di Laboratorio, in occasione del counseling,  è tenuto a procedere all’identificazione mediante la verifica di tutti i dati presenti in anagrafica.
+Contatti e Supporto
+Qualora vi sia una specifica richiesta da parte di un ospedale in merito ad un referto aprire ticket al: Team Quality & Compliance, il quale gestirà la richiesta.
+
+
+Per qualsiasi domanda o necessità di supporto in merito a questa procedura, il personale coinvolto può contattare il Dipartimento Quality & Compliance e la Direzione Operativa.
+
+
+  
+
+[a]@valentina.maffucci@santagostino.it @ilaria.bressani@santagostino.it

@@ -1,0 +1,229 @@
+﻿Gestione appuntamenti Diagnostica per Immagini
+	Pagina  di  
+
+
+
+
+
+
+      
+	
+
+
+
+
+
+
+
+COVER DELLA PROCEDURA
+	
+
+Titolo procedura
+	Gestione appuntamenti Diagnostica per Immagini
+	Versione
+	1.0.0
+	Data
+	16/09/2024
+	
+
+
+
+Autore
+	Valentina Maffucci (Operation Team Leader)
+	Owner
+	Valentina Maffucci (Operation Team Leader)
+	Verificato da
+	Mirco Baroni (Clinical Engineering Manager) 
+Federica Salamina (Outpatient Operations Manager)
+Beatrice Bianchi (Technical Assistance Specialist)
+	
+
+
+
+Tracciamento modifiche
+	Data
+	Ver.
+	Autore 
+	Ruolo
+	Note
+	GG/MM/AA
+	X.Y.Z
+	Nome Cognome
+	Job title
+	Descrizione delle modifiche
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+NOTE:
+Versione: 
+* X = MODIFICABILE SOLO DALL’OWNER. Da incrementare solo per modifiche strutturali della procedura (prima di incremetare e modificare la versione, esportare pdf versione precedente in modo da mantenere lo storico). 
+* Y = Da incrementare se vengono aggiunte attività alla procedura.
+* Z = Da incrementare ad ogni modifica del documento. 
+
+
+
+
+
+
+
+
+Da condividere con:
+
+
+* Direzione Operativa
+* RM (Regional Manager)
+* HCM (Health Coach Manager)
+* Specialist
+* Health Coach 
+* Ingegneria Clinica
+* Team assistenza tecnica
+* Bu Medical Care
+* Training Specialist (Rosalia Guercio)
+* Quality Manager (Giuliana Lentini)
+
+
+
+
+Distribuito il 16/09/2024 in formato digitale. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INDICE
+1. Premessa        
+2. Modalità di prenotazione 
+3. Modalità di accettazione e cambio prestazione
+4. Modalità di spostamento prestazione su altra sede o giorno
+        
+________________
+
+
+
+
+1. Premessa
+
+
+La presente procedura ha lo scopo di descrivere le modalità operative per la gestione delle prenotazioni, accettazioni, cambi e spostamenti delle prestazioni diagnostiche per immagini all'interno della struttura. È fondamentale seguire le indicazioni riportate per garantire un servizio efficiente, assicurando al paziente un'esperienza senza disguidi.
+
+
+2. Modalità di Prenotazione
+
+
+Il paziente può prenotare gli esami di diagnostica per immagini attraverso diversi canali: sito internet, service center, oppure direttamente presso la sede.
+Per i pazienti solventi delle regioni Lombardia e Lazio, è obbligatorio effettuare il pagamento anticipato della prestazione. In caso di mancato pagamento, l'appuntamento verrà automaticamente cancellato dopo 20 minuti.
+
+
+Solo per le prestazioni radiografiche qualora il paziente dovesse prenotare:
+
+
+* 2 distretti: prenotarne uno e inserire il secondo nelle note.
+* 3 o più distretti: prenotarne 2 allo stesso orario, accertandosi della disponibilità in agenda e inserire gli altri nelle note.
+
+
+3. Modalità di Accettazione e Cambio Prestazione
+
+
+Il personale di front office ha il compito di identificare il paziente tramite il codice fiscale, al fine di verificare e confermare i dati anagrafici. Una volta completata l’identificazione, l'operatore richiede al paziente la prescrizione medica relativa all’esame prenotato per verificare la corrispondenza tra la prescrizione e l'esame prenotato.
+
+
+* Conformità tra Esame Prenotato e Prescrizione: Se la prescrizione corrisponde all'esame prenotato, il paziente può procedere con la firma dei consensi necessari e successivamente effettuare l’esame.
+* Divergenza tra Esame Prenotato e Prescrizione: Nel caso in cui vi sia una discrepanza tra la prescrizione e l'esame prenotato, l'operatore deve procedere nel seguente modo:
+
+
+  1. Accettare inizialmente l’esame prenotato.
+  2. Stornare la fattura dell’esame prenotato.
+  3. Inserire la prestazione corretta mantenendo lo stesso appuntamento.
+  4. Salvare la nuova prenotazione.
+  5. Fatturare la prestazione corretta.
+  6. Consegna e compilazione del consenso informato 
+
+
+Se l'importo della nuova prestazione differisce da quello già pagato in fase di prenotazione, il sistema mostrerà l'eventuale credito o debito del paziente. In caso di credito, si procederà al rimborso dell’importo spettante, inserendo la modalità di rimborso corretta. In caso di debito, il paziente dovrà saldare l’ammontare residuo.
+
+
+È essenziale che la modifica della prestazione venga fatta solo una volta per evitare di bloccare il sistema. 
+Questo processo garantisce che il tecnico di radiologia visualizzi in macchina la prestazione corretta e senza interruzioni. 
+
+
+Inoltre è necessario accettare la prestazione prima di stornarla, in modo che il sistema non effettuerà automaticamente il rimborso dell'importo già pagato online durante la fase di prenotazione.
+
+
+4. Modalità di Spostamento della Prestazione su un'Altra Sede o Giorno
+
+
+Quando non è possibile garantire l’esecuzione dell’esame presso la sede originaria, e si rende necessario spostare l’appuntamento a un’altra sede o cambiare la data, si seguono due possibili scenari:
+
+
+Caso 1 - La prestazione non cambia
+
+
+Paziente non ancora accettato:
+
+
+*  È possibile utilizzare la funzione "matitone" per spostare l’appuntamento a una nuova sede o data, mantenendo valido il pagamento effettuato durante la prenotazione.
+
+
+
+
+
+
+Paziente già accettato (ad es. per mancata preparazione):
+
+
+* Se il pagamento è avvenuto durante la prenotazione:  interrompere l'accettazione e procedere con lo spostamento tramite la funzione "matitone".
+* Se il pagamento è avvenuto durante l’accettazione: sarà necessario prima annullare e rimborsare l’importo al paziente, quindi spostare l’appuntamento e, infine, richiedere un nuovo pagamento per la prestazione.
+
+
+Caso 2 - Cambio di prestazione con spostamento a un'altra sede o data
+
+
+* Creazione del nuovo appuntamento:  Prenotare un nuovo appuntamento presso la sede alternativa o in una data successiva, avendo cura di inserire la convenzione con modalità "non pagante".
+
+
+* Richiesta di trasferimento del pagamento: Aprire un ticket al team di assistenza per richiedere il trasferimento del pagamento dall’appuntamento originario a quello nuovo. Sarà il team di assistenza a occuparsi del trasferimento dell’importo tra le prenotazioni.
+
+
+* Responsabilità della sede: La sede di destinazione dovrà emettere la nuova fattura, gestire eventuali differenze di pagamento e cancellare l’appuntamento originario.

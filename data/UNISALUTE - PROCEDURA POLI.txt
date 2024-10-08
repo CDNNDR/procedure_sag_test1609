@@ -1,0 +1,1091 @@
+﻿COVER DELLA PROCEDURA
+	
+
+Titolo procedura:
+	PROCEDURA ASSICURAZIONE UNISALUTE/ FONDO SALUTE/ SI SALUTE/ FONDO EST
+	Prima edizione:
+	23/03/2021
+	Owner: 
+	
+
+	Attori:
+	Health Coach
+	
+
+Modifiche successive:
+	23/11/2021
+	AGGIORNAMENTO-FATTURAZIONE ESAMI DI LABORATORIO (NO JLAB)
+	13/06/2023
+	AGGIORNAMENTO LISTINO CON NOMENCLATORE UNISALUTE (UTILIZZO TRADUTTORE CODICI)
+	04/07/2024
+	AGGIORNAMENTO PROCEDURA PAP TEST
+	________________
+
+
+
+
+FASE 1: ACCETTAZIONE
+
+
+
+
+PORTALE UNISALUTE - CONTROLLO E STAMPA PIC:
+
+
+1. Accedere al portale UNISALUTE ed inserire le credenziali di sede indicate nel file PASSWORD.
+
+
+2. In base al tipo di prestazione prenotata dal paziente, verificare la presenza della PIC cliccando  su SPECIALISTICA → prese in carico se si tratta di prestazioni Ambulatoriali (Visite, Esami diagnostici, Esami etc), se invece si tratta di Interventi Chirurgici andare su RICOVERI→ prese in carico (vedi procedura dedicata LINK e info utili LINK).
+
+
+  
+
+
+
+ATTENZIONE!! In alcuni casi Unisalute autorizza al paziente solo la tariffa agevolata prevista dalla convenzione e non la copertura totale o parziale della prestazione che deve eseguire.
+In questi casi Unisalute ci invia un’autorizzazione sempre tramite portale ed è possibile recuperarla cliccando su “PRENOTAZIONI” e poi la colonna “TARIFFE AGEVOLATE”.
+
+
+  
+
+
+
+3. Effettuare la ricerca della PIC inserendo COGNOME e NOME del paziente nei relativi campi, poi cliccare su “CERCA”. Individuata la PIC sul portale è possibile aprirla cliccando sulla freccia verde situata nella colonna VAI. 
+Di seguito un esempio di PIC:
+
+
+  
+
+
+
+Queste le informazioni inserite nella PIC:
+
+
+GIALLO: se per la prestazione autorizzata è richiesta la prescrizione medica. Nel caso fosse necessaria va richiesta al paziente in accettazione.
+
+
+ROSSO: la prestazione autorizzata che deve coincidere con quella prenotata e poi erogata in HIS;
+
+
+VERDE: importo a carico dell’assicurazione; 
+
+
+ARANCIONE: importo a carico del paziente, solitamente definita come “FRANCHIGIA”. Questo è l’importo che deve pagare il paziente;
+
+
+BLU: importo totale autorizzato che deve coincidere con l’importo della prestazione prenotata e poi erogata in HIS.
+ 
+
+
+
+
+4. Fatto ciò passare nuovamente su HIS per terminare l’accettazione.
+
+
+HIS- ACCETTAZIONE
+
+
+
+
+1. Su HIS aprire la prenotazione, modificare il campo CONVENZIONE inserendo la voce UNISALUTE DIRETTA 2020 e inserire nel campo FRANCHIGIA l’eventuale importo evidenziato in ARANCIONE  nella PIC, dopodichè cliccare sul tasto “SALVA”. 
+ATTENZIONE!! Questa operazione è fondamentale. Nel caso in cui in prenotazione è già presente la convenzione corretta non è necessario modificarla.
+
+
+
+
+  
+
+
+
+ UTILIZZO “TRADUTTORE CODICI” (DAL 20/6/23): 
+Dal 20/6/2023 le prestazioni autorizzate nelle PIC Unisalute avranno una descrizione differente rispetto a quelle presente in HIS.
+In caso di dubbi, per verificare la corretta associazione tra la prestazione autorizzata nella PIC e quella presente in prenotazione/accettazione, sarà necessario utilizzare il file TRADUTTORE CODICI (lo stesso file utilizzato per le convenzione FASCHIM e POSTE).
+All’interno del file traduttore codici, inserire nell’apposito campo il codice della prestazione riportato in HISWEB per conoscere il relativo codice prestazione UNISALUTE.
+
+
+  
+
+
+
+ATTENZIONE!! In alcuni casi potremmo avere più nostre prestazioni associate ad un unico codice Unisalute con la medesima tariffa convenzionata.
+
+
+
+
+FASE 2: POST-VISITA/FATTURAZIONE
+
+
+HIS - FATTURAZIONE
+
+
+1. Al termine della visita, verificare che la prestazione precedentemente accettata non abbia subito modifiche dal parte del medico (Es. il paziente entra in ambulatorio per una Visita Ginecologica ed esce con l’esecuzione di una Visita Ginecologica + Pap Test). Se non ci sono state modifiche procedere alla fatturazione, in caso contrario leggere il paragrafo FAQ - Rettifica PIC.
+
+
+2. Controllare che l’importo presente nell’accettazione di HIS nel campo “IMPORTO UNIT.” sia uguale a quello evidenziato in  BLU nella PIC.
+ 
+3. Se gli importi combaciano si può procedere all'emissione della fattura cliccando prima sul tasto “SALVA” e poi sul tasto “FATTURAZIONE”, quindi far pagare la franchigia al paziente.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PORTALE UNISALUTE - INSERIMENTO FATTURA
+
+
+1. Andare sul Portale UNISALUTE per recuperare e aprire la PIC seguendo i passi indicati al punto 1 di PORTALE UNISALUTE - CONTROLLO E STAMPA PIC. Una volta aperta cliccare sul tasto “ FATTURA PRESA IN CARICO”.
+  
+
+
+
+2. Inserire i dati della fattura come indicato nella foto sotto: NUMERO FATTURA e DATA FATTURA 
+
+
+  
+
+
+
+ATTENZIONE!! Il numero di fattura lo potete recuperare da HIS, andando nella sezione “SCHEDA CONTABILE” del paziente, prendendo come riga di riferimento quella che riporta la voce FATTURA sotto la colonna “TIPO DOCUMENTO”  e facendo il copia del numero che trovate sotto la colonna DOC. NUMERO.
+E’ di fondamentale importanza inserire il numero di fattura corretto in quanto con questa operazione, stiamo generando a tutti gli effetti una fattura elettronica.
+
+
+  
+
+
+
+Nell’esempio riportato qui sopra, il numero di fattura da inserire nel portale Unisalute è: 2106193335
+
+
+
+
+3. cliccare sulla prima opzione: “ Centro Medico Santagostino” (la tua struttura). 
+ATTENZIONE!! Dal 23/11/2021 anche per gli esami di laboratorio la fattura verrà emessa dal Santagostino quindi anche in questi casi bisognerà selezionare la prima opzione “ Centro Medico Santagostino” (la tua struttura)” 
+
+
+  
+
+
+
+
+
+4. Inserire la marca da bollo cliccando su “SI” solo se presente in fattura. 
+  
+
+
+
+5. Confermare di essere in possesso di eventuale prescrizione medica (solo se è presente il relativo campo).
+
+
+6. Cliccare sul tasto “AVANTI” e, dopo aver verificato che i dati inseriti siano corretti, cliccare sul tasto “CONFERMA” per erogare la pratica.
+
+
+7. Conservare al desk solo l’eventuale prescrizione medica facendo attenzione a riportare su questa, a matita e in maniera leggibile, il numero di fattura alla quale si riferisce. Questa verrà poi inviata a Multiservice che la spedirà ad Unisalute.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GESTIONE PRATICHE DI “RICOVERO”
+
+
+Sul portale di Unisalute troviamo anche la sezione relative alle pratiche di “RICOVERO” che attualmente per noi si traducono in tutte quelle prestazioni di Chirurgia Ambulatoriale semplice o complessa ed Endoscopia Digestiva quando operative (quando in sostanza vengono eseguite una o più biopsia con esame istologico).
+La gestione di queste pratiche è un pò diversa rispetto a quella prevista per tutte le altre prestazioni convenzionate. Di seguito trovate i link utili con la procedura condivisa da Unisalute e alcune info utili interne per la gestione delle pratiche:
+
+
+
+
+* PROCEDURA UNISALUTE: LINK 
+
+
+* INFO UTILI DI GESTIONE: LINK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ESAMI DI LABORATORIO - DOPPIA FATTURAZIONE
+
+
+Di seguito viene riportata la procedura per la corretta gestione di una PIC Unisalute generica per l’esecuzione di esami di laboratorio, in presenza di paziente che deve effettuare una serie di esami compreso quello dell’HIV. Questo esame non può essere inserito nella stessa accettazione di altri esami in quanto rientra in una particolare categoria di "dati ultrasensibili", che sono soggetti a protezione speciale per legge e deve essere refertato separatamente. 
+
+
+* sul portale Unisalute riceviamo una PIC generica per l’esecuzione degli esami di laboratorio, senza la specifica di quali esami deve eseguire il paziente, ma con la sola indicazione dell’eventuale franchigia a suo carico. Il paziente deve OBBLIGATORIAMENTE avere con sé la prescrizione medica con l’elenco degli esami da eseguire e consegnarla in accettazione.
+*   
+
+
+
+* qualora tra gli esami prescritti fosse presente anche l’HIV, si deve procedere ad effettuare due accettazioni distinte su HIS, una per il solo esame dell’HIV e una per tutti gli altri prescritti. La convenzione da utilizzare per entrambe è sempre UNISALUTE DIRETTA 2020. 
+I successivi passaggii fanno riferimento ad un caso in cui il totale degli esami eseguiti è pari a 88,37 euro (8,37 HIV + 80,00 altri esami) e la franchigia a carico del paziente è pari a zero.
+
+
+* una volta effettuate le accettazioni, inseriamo l’eventuale franchigia a carico del paziente indicata nella PIC, in quella dove l’importo di quest’ultima è inferiore rispetto al totale degli esami accettati. Nel nostro esempio la franchigia a carico del paziente indicata nella PIC è pari a zero, ma di seguito analizziamo dei casi dove la franchigia è pari ad euro 20,00:
+
+
+1. ACCETTAZIONE NR° 1 = 8,37 euro(HIV)
+ACCETTAZIONE NR° 2 = 80,00 euro (altri esami)
+
+
+In questo caso la franchigia di euro 20,00 va inserita nell’accettazione nr° 2 
+
+
+2. ACCETTAZIONE NR° 1 = 8,37 euro(HIV)
+ACCETTAZIONE NR° 2 = 15,00 euro (altri esami)
+
+
+In questo caso noi dobbiamo spalmare la franchigia su entrambe le accettazioni, quindi possiamo inserire 8,37 di franchigia nell’accettazione nr° 1 e 11,63 (20,00-8,37) di franchigia nell’accettazione nr° 2.
+
+
+
+
+
+
+3. ACCETTAZIONE NR° 1 = 8,37 euro(HIV)
+ACCETTAZIONE NR° 2 = 10,00 euro (altri esami)
+
+
+In questo caso la somma totale degli esami eseguiti è inferiore rispetto alla franchigia indicata di euro 20,00 quindi rimane tutto a carico del paziente. 
+Difficile che capiti, ma è giusto segnalarlo.
+
+
+* una volta inserita l’eventuale franchigia in maniera corretta, procediamo ad emettere le rispettive fatture. Nel nostro caso emettiamo le seguenti fatture: 
+
+
+1. fattura nr° 1 di euro 8,37 per l’esame HIV, franchigia zero.
+
+
+2. fattura nr° 2 di euro 80,00 + 2,00 di bollo per gli altri esami, franchigia zero.
+
+
+* a questo punto dobbiamo chiudere la PIC sul portale Unisalute andando ad inserire gli importi e i dati delle fatture emesse. 
+La prima cosa da fare è inserire nel campo evidenziato in rosso nell’immagine seguente, l’importo totale degli esami eseguiti dato dalla somma delle due fatture emesse, al netto dell’eventuale marca da bollo presente in una di esse (es. fattura esame HIV 8,37 + fattura altri esami 82,00 compresa marca da bollo, inseriamo sul portale Unisalute 88,37 ovvero 8,37+80,00). Una volta inserito l’importo, clicchiamo sul tasto CONFERMA (nell’esempio riportato sotto la franchigia a carico del paziente è pari a zero).
+
+
+
+
+  
+
+
+
+* in automatico verranno compilati anche i campi “IMPORTO A CARICO DI UNISALUTE” e “IMPORTO TOTALE” 
+
+
+  
+
+
+
+* in automatico verranno compilati anche i campi “IMPORTO A CARICO DI UNISALUTE” e “IMPORTO TOTALE” 
+
+
+* mettiamo il flag su SI nel campo relativo alla prescrizione medica e poi clicchiamo su “FATTURA PRESA IN CARICO”.
+
+
+
+
+* procediamo ad inserire i dati della prima fattura emessa, quindi compiliamo i dati relativi alla “DATA DI EMISSIONE” e al “NUMERO” della stessa, facendo attenzione a selezionare sempre “CENTRO MEDICO SANTAGOSTINO - SEDE (la tua struttura)” nel campo “FATTURATA DA”. 
+Seguendo il nostro esempio, la prima fattura è relativa all’esame dell’HIV quindi di euro 8,37.
+ATTENZIONE!! In presenza di fattura con quota a carico paziente, questa deve essere inserita a portale per prima.
+
+
+  
+
+
+
+* nel campo “IMPORTO DA FATTURARE” inseriamo esattamente l’importo indicato nella nostra prima fattura quindi 8,37 e nel campo BOLLO mettiamo il flag sul NO.
+
+
+  
+
+
+
+* Fatto ciò clicchiamo su “AVANTI” e ci apparirà il seguente avviso per il quale dovremo cliccare sul tasto “SI”
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* A video visualizziamo il riepilogo dei dati inseriti e, se corretti, clicchiamo su “CONFERMA” e poi su “INSERISCI” per inserire la prima fattura a portale.
+
+
+  
+
+
+
+* Verremo riportati al menù con l’elenco delle PIC presenti a portale, dove ritroveremo nuovamente la nostra PIC evidenziata in giallino, con un’icona che riporta la lettera “F” e lo stato “DA FATTURARE”
+  
+
+
+
+* apriamo la PIC e procediamo ad inserire la seconda fattura, nel nostro esempio quella di 82,00 euro, quindi clicchiamo su “FATTURA PRESA IN CARICO”
+
+
+* inseriamo tutti i dati richiesti esattamente come per la prima fattura, ad eccezione del campo “IMPORTO DA FATTURARE” dove troverete già inserito l’importo corretto. 
+Nel nostro esempio, l’importo inserito è 80,00 ovvero la differenza tra il totale della PIC 88,37 e l’importo della prima fattura inserita di 8,37.
+
+
+  
+
+
+
+* inseriamo tutti i dati richiesti esattamente come per la prima fattura, ad eccezione del campo “IMPORTO DA FATTURARE” dove troverete già inserito l’importo corretto. 
+Nel nostro esempio, l’importo inserito è 80,00 ovvero la differenza tra il totale della PIC 88,37 e l’importo della prima fattura inserita di 8,37.
+In questo caso mettiamo anche il flag sulla marca da bollo in quanto presente nella fattura che abbiamo emesso.
+
+
+* fatto ciò clicchiamo su “AVANTI”, poi “CONFERMA” ed “INSERISCI”. A questo punto abbiamo chiuso correttamente a portale la nostra PIC. 
+
+
+* entrambe le fatture dovreste visualizzarle nella sezione “FATTURE E PAGAMENTI” sul portale Unisalute. 
+
+
+PIC CON TARIFFA PIU’ ALTA
+
+
+In tutti i casi in cui abbiamo una PIC con una tariffa autorizzata più alta rispetto a quella presente in HIS, possiamo procedere ad inserire quella più bassa durante il caricamento della fattura nel portale Unisalute. (ATTENZIONE!! solo se la tariffa su HIS è più bassa rispetto a quella di Unisalute, in caso contrario dovete aprire ticket in quanto dobbiamo attenerci alle loro tariffe). 
+
+
+Di seguito come procedere:
+
+
+1) Apriamo la PIC sul portale Unisalute e poi clicchiamo su "FATTURA PRESA IN CARICO";
+
+
+2) Inseriamo i dati della fattura (numero, data e l'ente che l'ha emessa), poi in basso accanto al nome della prestazione nel campo importo da fatturare, inseriamo la tariffa presente su HIS (nell'esempio seguente ho inserito 32,90 quando la tariffa autorizzata da Unisalute era di 37,60).
+
+
+  
+
+
+
+3) mettiamo il flag sull'opzione della marca da bollo qualora questa fosse presente in fattura, e clicchiamo su "AVANTI"
+
+
+4) dovrebbe apparire la seguente finestra (ATTENZIONE!! se non appare non procediamo e aprite un ticket a me):
+  
+
+
+
+Clicchiamo SEMPRE su NO. 
+
+
+5) ci verrà chiesto di motivare l'inserimento di una tariffa inferiore rispetto a quella autorizzata, noi dobbiamo sempre selezionare la voce "CAMPAGNA PROMOZIONALE, SCONTO TEMPORANEO" e cliccare su OK.
+
+
+6) nella schermata di riepilogo possiamo vedere come la tariffa inserita in fattura sia effettivamente quella impostata precedentemente da noi, quindi clicchiamo su CONFERMA e poi su INSERISCI. 
+
+
+
+
+
+
+N.B. In caso di pacchetti prevenzione con tariffa più alta rispetto ad HIS, è necessario fatturare singolarmente i pacchetti e non insieme altrimenti non sarà possibile modificare la tariffa nella PIC presente a portale. 
+
+
+ESEMPIO:
+
+
+Abbiamo due PIC, la prima per esami MODULO 25 euro 29,90 e un’altra per LDL 1,08.
+
+
+In HIS invece abbiamo il MODULO 25 di euro 28,26, quindi con tariffa più bassa rispetto alla PIC, e LDL pari a 1,08 quindi uguale. 
+
+
+In questo caso dobbiamo fatturare singolarmente i due pacchetti, in questo modo:
+
+
+* prima fattura per MODULO 25 di euro 28,26. Sul portale Unisalute seguiamo la procedura sopra indicata e abbassiamo la tariffa da 29,90 a 28,26.
+
+
+* seconda fattura per LDL di euro 1,08. Sul portale Unisalute inseriamo la fattura singola per questo esame in corrispondenza della PIC di pari importo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PIC CON PRESTAZIONI DI BRANCHE DIVERSE - FATTURAZIONE
+
+
+
+
+E’ possibile che Unisalute autorizzi in un’unica PIC delle prestazioni che appartengono a specialità diverse. In questi casi è comunque possibile emettere due fatture distinte per poi inserirle entrambe nella stessa PIC presente sul portale.
+Di seguito un esempio:
+
+
+  
+
+In questo caso procediamo ad emettere una fattura per l’Ecografia imputando l’intera franchigia di euro 55,00 su questa prestazione. Successivamente emetteremo una fattura per la Visita Gastroenterologica imputando il costo della stessa interamente a carico di Unisalute. Riepilogando:
+
+
+FATTURA 1: Ecografia - importo totale euro 60,00 - franchigia euro 55,00 - quota Unisalute 5,00
+
+
+FATTURA 2: Visita - importo totale euro 60,00 - franchigia euro 0,00 - quota Unisalute euro 60,00
+
+
+
+
+Una volta emesse le fatture, si procede ad inserirle sul portale all’interno della PIC di riferimento. 
+Si accede al portale Unisalute, si apre la PIC di riferimento e cliccare sul tasto “FATTURA PRESA IN CARICO”.
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La prima fattura da inserire è SEMPRE quella con la franchigia a carico del paziente, nell’esempio sopra quella è quella per l’Ecografia.
+Inserire quindi i dati della fattura nei rispettivi campi, NUMERO FATTURA, DATA FATTURA, e selezionare SEMPRE l’opzione CENTRO MEDICO SANTAGOSTINO - NOME SEDE (la tua struttura).
+
+
+Nella sezione dove vengono elencate le prestazioni autorizzate nella PIC, è FONDAMENTALE selezionare solo la prestazione che stiamo andando a fatturare con l’inserimento della prima fattura che ricordo deve essere SEMPRE quella con inserita la franchigia del paziente. Nell’esempio indicato è quella per l’Ecografia. 
+
+
+  
+
+
+
+
+
+Inserire la marca da bollo cliccando su “SI” solo se presente in fattura. 
+  
+
+
+
+Confermare di essere in possesso di eventuale prescrizione medica (solo se è presente il relativo campo).
+
+
+Cliccare sul tasto “AVANTI” e, dopo aver verificato che i dati inseriti siano corretti, cliccare sul tasto “CONFERMA”. A questo punto la prima fattura è stata inserita, quindi dobbiamo procedere ad inserire la seconda, nell’esempio quella per la Visita, seguendo gli stessi passaggi sopra indicati (ovviamente la prestazione da fatturare verrà selezionate di default per esclusione.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PACCHETTI ESAMI DI LAB - CONVENZIONE PRELIEVO SALDATO-PACCHETTO ASSICURATIVO
+
+
+1. Il paziente ha una presa in carico da parte di un’assicurazione su un pacchetto che comprende anche l’analisi di campioni biologici come feci e urine, ma non li ha con sé. In questo caso:
+   1. inserire nell’accettazione tutti gli analiti presenti nella prese in carico (nel caso ci fossero pacchetti inserire solo il pacchetto)
+   2. il valore della fattura deve sempre coincidere con l’importo dall’assicurazione.
+   3. L’infermiera segna su tracie che il campione non è stato consegnato e lo annulla e il desk officer lo segna nelle note di HIS
+   4. Il giorno in cui il paziente consegnerà il campione mancante, bisogna effettuare una nuova accettazione da HIS, con convenzione PRELIEVO SALDATO-PACCHETTO ASSICURATIVO. L’esame non sarà fatturabile in quanto già saldato (vedere screen di seguito)
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FAQ
+
+
+
+
+RETTIFICA PIC: in caso di erogazione di prestazione diversa da quella autorizzata, si chiede la RETTIFICA PIC all’assicurazione solo per le seguenti prestazioni: chirurgia + test DNA fetale. Per tutte le altre paga direttamente il paziente con la tariffa agevolata prevista dalla convenzione UNISALUTE INDIRETTA. 
+Nel caso di esami aggiuntivi rispetto alla prestazione autorizzata, questi saranno a carico del paziente e verrà applicata la tariffa agevolata prevista dalla convenzione UNISALUTE INDIRETTA. (esempio: PIC per Visita Ginecologica e in sede di visita viene eseguito il PAP TEST. La Visita viene fatturata con la convenzione UNISALUTE 2020 sulla base di quanto indicato nella PIC, mentre il PAP TEST rimane a carico della paziente che la pagherà con la tariffa agevolata UNISALUTE INDIRETTA).
+
+
+In caso di paziente in disaccordo con il pagamento della prestazione, seguire queste indicazioni:
+- PRESTAZIONE AGGIUNTA DURANTE LA VISITA: 
+il paziente paga con la tariffa agevolata la prestazione aggiuntiva non presente nella PIC. Al contempo chiediamo rettifica della PIC e avvisiamo il paziente che in caso di conferma da parte dell'assicurazione sulla copertura, provvederemo al relativo rimborso a fronte però della presentazione dell'eventuale documentazione necessaria (prescrizione, PIC firmata etc);
+- PRESTAZIONE EROGATA DIVERSA DA QUELLA AUTORIZZATA: 
+stessa cosa di quanto indicato sopra. 
+- TARIFFE DIVERSE: 
+in caso di tariffa più bassa nella PIC rispetto ad HIS, far pagare al paziente l’eventuale franchigia indicata nella PIC, emettere fattura con gli importi presenti su HIS  e aprire un ticket ad Assicurazioni (per il Team Assicurazioni) / Aggiornamento tariffa prestazione. Se franchigia è indicata in % va calcolata sull’importo autorizzato nella PIC.
+In caso di tariffa in HIS più alta rispetto alla PIC, seguire la procedura indicata nel paragrafo 
+- ASSENZA PRESCRIZIONE: cosa fare se il paziente non ha prescrizione e questa è obbligatoria per accedere alla forma diretta: il paziente paga con la tariffa agevolata UNISALUTE INDIRETTA,  non possiamo procedere con la forma diretta in quanto l’assicurazione non ci rimborserà la somma a loro carico.
+- GESTIONE PRATICHE DI “RICOVERO” (CHIRURGIA AMBULATORIALE): Per la gestione di queste pratiche vedi procedura dedicata LINK e info utili LINK).
+- MARCA DA BOLLO-APPLICAZIONE: la marca da bollo viene SEMPRE addebitata all’ente questo perchè in SAP la convenzione è stata impostata in questo modo, e su HIS non abbiamo la possibilità di modificare di volta in volta il pagante.
+In caso di PIC con marca da bollo a carico del paziente, questa non dovrà essere fatta pagare al paziente perchè in automatico in HIS verrà addebitata all’ente.
+PRENOTAZIONI DA FISSARE A PORTALE - AGGIORNAMENTO PROCEDURA
+
+
+A questo LINK trovate la guida per procedere alla gestione delle richieste di prenotazione che arrivano sul portale Unisalute.
+Di seguito vengono specificati i termini entro i quali devono essere EVASE queste richieste:
+
+
+POLIAMBULATORIO: le prenotazioni presenti nella Sezione PRENOTAZIONI - DA FISSARE rimarranno visibili e gestibili da parte nostra per un tempo limite di 7 gg lavorativi dal momento della richiesta da parte del cliente. 
+Trascorse 36 h dall’apertura della richiesta riceveremo la seguente mail di promemoria:
+
+
+ “Spett.le Struttura, per migliorare il servizio nella gestione delle prenotazioni vi ricordiamo che XX clienti attendono di ricevere conferma di appuntamento presso la vostra struttura. Nel caso in cui non venisse fornita una data di appuntamento entro i prossimi giorni, la prenotazione sarà automaticamente indirizzata presso altro centro convenzionato. Confidando nella vostra collaborazione, cordiali saluti “Gestione Network Fornitori”.
+
+
+Nel caso in cui dette prenotazioni non venissero gestite entro i sette giorni lavorativi dalla data di richiesta, le stesse verranno automaticamente spostate nella Sezione PRENOTAZIONI - DA ANNULLARE e non sarà più possibile gestirle. 
+Queste richieste di prenotazione riporteranno l’indicazione "NON EVASA".
+
+
+
+
+ODONTOIATRIA: le richieste di appuntamento per il pacchetto prevenzione (visita+igiene) rimarranno visibili nella Sezione PRENOTAZIONI - DA FISSARE  per un tempo limite di 3 gg lavorativi dal momento della richiesta da parte del cliente.   
+ 
+Trascorse 36 h dalla data della richiesta di prenotazione, riceveremo la solita mail di promemoria e, nel caso in cui dette prenotazioni non venissero gestite entro i 3 giorni lavorativi dalla data di richiesta, le stesse verranno automaticamente inserite nella Sezione PRENOTAZIONI – ANNULLATE e non sarà più possibile gestirle.    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ERRORE CONFERMA PRENOTAZIONE
+
+
+stiamo riscontrando un errore che si verifica sul portale Unisalute quando dobbiamo confermare una prenotazione per una richiesta presente nella sezione PRENOTAZIONI/DA FISSARE. 
+In sostanza, nel momento in cui inseriamo data e orario dell'appuntamento all'interno della richiesta, sul portale viene visualizzato il messaggio "PRENOTAZIONE CONFERMATA" ma la richiesta rimane sempre nella sezione "DA FISSARE".
+
+
+In questi casi procedete così:
+
+
+1) aprite un ticket ad Unisalute direttamente dal portale, sezione CONTATTI, cliccando sull'opzione qui sotto indicata:
+
+
+
+Compilate i seguenti campi:
+
+
+SITO DI RIFERIMENTO: mettere il flag su Unisalute o Sisalute in base al fondo di appartenenza del paziente.  Questa informazione la potete trovare direttamente richiesta del paziente nella sezione "DA FISSARE":
+
+
+
+
+
+INDIRIZZO MAIL FORNITORE:  inserite quello di segreteria della sede (es. segreteria.cairoli@santagostino.it)
+
+
+CONTATTO TELEFONICO FORNITORE: inserite sempre 0289701701
+
+
+REFERENTE DELLA RICHIESTA: il vostro nominativo, chi sta compilando il form
+
+
+SEZIONE DEL SITO PER CUI SI RICHIEDE ASSISTENZA: nel caso specifico selezionate sempre SPECIALISTICA
+
+
+NOME E COGNOME ASSICURATO: inserire i dati del paziente
+
+
+DATA DI NASCITA ASSICURATO: inserire i dati del paziente
+
+
+CODICE PRESA IN CARICO: - nulla perchè non ce l'abbiamo nel caso specifico trattandosi di una richiesta di prenotazione
+
+
+NUMERO E DATA FATTURA: - nulla
+
+
+COMUNICAZIONE PER UNISALUTE:  scrivete esattamente la problematica riscontrata.
+
+
+Fatto ciò cliccate su "INVIA".
+
+
+In automatico vi arriverà una mail di conferma apertura ticket da parte di Unisalute che vi chiedo di inoltrare sempre a @Michele Messina e @Stefania Scarabino 
+Se non ricevete riscontro da parte Unisalute entro 3gg lavorativi, inviate un sollecito a strutturesanitarie@unisalute.it inoltrando la mail di conferma apertura ticket che avete ricevuto, e mettendo in CC @Michele Messina  e @Stefania Scarabino.
+
+
+ATTENZIONE!! solitamente Unisalute non risponde inviando una mail di avvenuta gestione anche se la richiesta viene effettivamente evasa. Prima di sollecitare, verificate sempre sul portale che la richiesta di prenotazione si trovi ancora nella sezione da FISSARE.
+
+
+
+
+
+
+
+
+
+
+
+
+IMPORTANTI INDICAZIONI OPERATIVE
+
+
+- INSERIMENTO NUMERO E DATA FATTURA A PORTALE: questo passaggio è fondamentale,  dobbiamo assolutamente fare attenzione ad inserire il numero di fattura corretto, senza inserire spazi o altro a seguito del copia incolla fatto da HIS,  e la relativa data di emissione della stessa (non la data in cui voi chiudete la pratica a portale perchè questo può avvenire in un momento diverso rispetto a quello di emissione della fattura).  Per recuperare il numero di fattura corretto potete andare nella sezione SCHEDA CONTABILE, cliccare su STAMPA e dall'anteprima del documento copiate il relativo numero:
+
+
+  
+
+
+
+  
+
+
+
+N.B. Se per qualche motivo, la fattura che avete inserito nel portale Unisalute viene stornata oppure vi accorgete di aver inserito dei dati errati della stessa, dovete ASSOLUTAMENTE e SEMPRE correggere le informazioni che avete inserito a portale, mi riferisco sempre a numero e data fattura. La modifica o addirittura l'annullamento della fattura inserita a portale, può avvenire nei seguenti termini:
+
+
+PRATICHE SPECIALISTICA (NO RICOVERI): è possibile annullare la fattura entro 5 giorni dalla data di inserimento a portale. In questo caso la fattura viene annullata e la pratica torna nella sezione PRESE IN CARICO; per effettuare l'annullamento bisogna andare sul portale Unisalute, nella sezione FATTURE E PAGAMENTI, e cercare la fattura  inserendo il numero della stessa o la sua data di emissione. Una volta individuata, bisogna aprirla cliccando sulla freccia verde > accanto alla colonna STATO, e poi cliccare sul tasto ANNULLA FATTURA in fondo alla pagina. Si aprirà una finestra nella quale va inserita la motivazione dell'annullamento (possiamo sempre indicare, ad esempio, "errore fatturazione"), e poi cliccare su conferma. In questo modo la fattura verrà annullata e la pratica sarà nuovamente presente nella sezione PRESE IN CARICO.
+
+
+Passati i 5 giorni, sarà possibile modificare solo il numero di fattura inserito a portale fino a quando la pratica passerà nello stato PAGATO (questo discorso vale per tutte le pratiche anche per quelle relative ai RICOVERI). I passaggi per procedere sono gli stessi descritti sopra, con l'unica differenza che non si potrà più cliccare su ANNULLA FATTURA ma solo su MODIFICA FATTURA.
+
+
+ATTENZIONE!! l'inserimento dei dati della fattura nel portale di Unisalute, genera a tutti gli effetti un documento contabile che deve essere assolutamente corretto e uguale alla fattura emessa in HIS, quindi il numero di fattura, la sua data e gli importi devono ASSOLUTAMENTE combaciare. Inoltre il corretto inserimento del numero di fattura a portale, ci permette di effettuare un controllo puntuale delle pratiche in sospeso. 
+
+
+
+
+- PIC IN ALTRA SEDE:  capita a volte che la PIC si trovi in una sede diversa rispetto a quella dove viene effettivamente erogata la prestazione, anche se questo di regola non dovrebbe accadere. In questi casi l'operatore che emette la fattura in HIS ha il compito di chiudere la pratica che si trova sul portale Unisalute di una sede diversa dalla sua. Non dobbiamo lasciare nulla in sospeso.
+
+
+- ODONTO: le PIC di odonto, soprattutto quelle che riguardano visita ed igiene orale, devono essere chiuse dall'operatore che emette la fattura, esattamente come accade per il poli. Discorso un pò diverso per quanto riguarda le cure presenti nei pdc per le quali spesso serve caricare della documentazione radiografica. In questi casi il compito di chiudere le pratiche è in carico alle persone indicate dagli HCM in base all'organizzazione della sede.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DIPENDENTI UNIPOL ED EX UNIPOL 
+
+
+
+
+CONVENZIONE A-181 UNISALUTE DIPENDENTI UNIPOL: questa convenzione dovrà essere utilizzata per tutti i dipendenti ed ex dipendenti unipol che hanno una presa in carico sul portale di Unisalute (come vedete di seguito). In questo caso non verrà fatturato. Questa convenzione dovrà essere utilizzata per tutti i centri anche se gli importi non quadrano con la presa in carico. 
+
+
+
+
+  
+
+
+
+Potete inserire tutte le accettazioni con l'indicazione del numero di prese in carico cliccando qui. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAP TEST ATTIVO SOLO PER UNISALUTE
+
+
+Il  pap test con codice GIN36 e OSTE53 sono attivi SOLO per i pazienti UNISALUTE. Di seguito relativa transcodifica che trovate sui portali. 
+
+
+ Cod. Santa 
+	 Descrizione Santa 
+	 Cod Unisalute 
+	 Descrizione Unisalute 
+	 Tariffa Unisalute Lombardia 
+	 Tariffa Unisalute Lazio 
+	 Tariffa Unisalute Emilia 
+	GIN36
+	PAP TEST
+	 91.38.5 
+	 ES. CITOLOGICO CERVICO VAGINALE [PAP TEST] 
+	                                  35,00
+	                            35,00
+	                             38,00
+	OSTE53
+	PAP TEST
+	 91.38.5 
+	 ES. CITOLOGICO CERVICO VAGINALE [PAP TEST] 
+	                                  35,00
+	                            35,00
+	                             38,00
+	GIN36
+	PAP TEST
+	 PREV01 
+	 ES. CITOLOGICO CERVICO VAGINALE [PAP TEST] 
+	                                  35,00
+	                            35,00
+	                             38,00
+	OSTE53
+	PAP TEST
+	 PREV01 
+	 ES. CITOLOGICO CERVICO VAGINALE [PAP TEST] 
+	                                  35,00
+	                            35,00
+	                             38,00
+	
+
+I pazienti potranno prenotare questa prestazione solamente attraverso i seguenti canali:
+
+
+* Richiesta di Prenotazione su Portale Unisalute: Call Center/Desk prenota il pap test da HIS con Convenzione Unisalute della regione di pertinenza
+* Paziente che chiama il Call Center: Call Center/Mail/Whatsapp prenota il pap test 
+* Paziente che prenota Online dal sito: Da sito non possono essere più prenotati i codici GIN36 e OSTE53 (PAP TEST) ma solo OSTE57 e GIN46 (PAP TEST IN FASE LIQUIDA). In fase di Accettazione, è FONDAMENTALE controllare il codice UNISALUTE presente nella pic. Nel caso in cui nella pic ci sia codice 91.38.5 si dovrà modificare la prestazione da pap test in fase liquida a pap test.
+* Paziente che prenota in Autonomia dal Portale Unisalute: sarà agganciata la prestazione in convenzione
+
+
+
+
+I pazienti potranno prenotare questa prestazione solamente attraverso i seguenti canali:
+
+
+* Richiesta di Prenotazione su Portale Unisalute: Call Center/Desk prenota il pap test (GIN 36/OSTE 53) da HIS con Convenzione Unisalute della regione di pertinenza
+* Paziente che chiama il Call Center: Call Center/Mail/Whatsapp prenota il pap test   (GIN 36/OSTE 53)   da HIS con Convenzione Unisalute della regione di pertinenza
+* Paziente che prenota Online dal sito: Da sito Santagostino non possono essere più prenotati i codici GIN36 e OSTE53 (PAP TEST) ma solo OSTE57 e GIN46 (PAP TEST IN FASE LIQUIDA. Se un paziente Unisalute ha prenotato da Sito Il pap in fase liquida,  In fase di Accettazione, è FONDAMENTALE controllare il codice UNISALUTE presente nella pic. Nel caso in cui nella pic ci sia codice 91.38.5 o PREV01 si dovrà SOSTITUIRE SU HIS la prestazione da pap test in fase liquida a pap test  (GIN 36/OSTE 53). Nel caso in cui in Pic è indicato codice 91.38.5C (pap In fase liquida) nessuna variazione dovrà essere apportata.
+* Paziente che prenota in Autonomia dal Portale Unisalute: sarà agganciata la prestazione in convenzione.
+
+
+
+
+
+
+PRENOTAZIONE PREV45 MAPPATURA NEI/ESAME IN EPILUMINESCENZA SEDI MILANO
+
+
+Nel momento in cui nella richiesta di autorizzazione Unisalute è presente la prestazione "PREV45 MAPPATURA NEI/ESAMI IN EPILUMINESCENZA" su his bisognerà inserire la prestazione DERM46 - MAPPATURA NEVI CON VIDEODERMATOSCOPIA. 
+
+
+La prestazione DERM46 è attiva sulle sedi e sui portali Unisalute di Porta Romana e Cairoli.
+
+
+Nel caso in cui il paziente abbia due richieste di autorizzazione, una per visita dermatologica (89.7A.7a/prev46)  e l'altra per mappatura (38.22B/prev45) si dovranno prenotare le prestazioni DERM1 - VISITA DERMATOLOGICA e DERM46 - MAPPATURA NEVI CON VIDEODERMATOSCOPIA.

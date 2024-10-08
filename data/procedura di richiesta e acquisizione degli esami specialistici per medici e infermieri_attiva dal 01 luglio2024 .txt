@@ -1,0 +1,607 @@
+﻿Nuova procedura di richiesta e acquisizione degli esami specialistici 
+	
+
+
+
+
+
+            Data 20/06/2024
+	
+
+
+
+
+
+COVER DELLA PROCEDURA
+	
+
+Titolo procedura
+	Nuova procedura di richiesta e acquisizione degli esami specialistici 
+	Versione
+	1.0.0
+	Data
+	20/06/2024
+	
+
+
+
+Autore
+	Ilaria Bressani
+	Owner
+	Ilaria Bressani
+	Verificato da
+	
+
+	
+
+
+
+NOTE:
+Versione: 
+* X = MODIFICABILE SOLO DALL’OWNER. Da incrementare solo per modifiche strutturali della procedura (prima di incrementare e modificare la versione, esportare pdf versione precedente in modo da mantenere lo storico). 
+* Y = Da incrementare se vengono aggiunte attività alla procedura.
+* Z = Da incrementare ad ogni modifica del documento. 
+________________
+
+
+
+
+Da condividere con:
+* specialistici clinici;
+* personale infermieristico;
+* AM, referenti operativi e customer service.
+
+
+
+
+
+
+Distribuito il: 17/06/2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INDICE
+
+
+
+
+Scopo della procedura        4
+Campo di applicazione        4
+Responsabilità        5
+Descrizione delle attività        6
+RICHIESTA ESAMI         6
+ASSOCIAZIONE DEI CONTENITORI         8        
+ESAMI COLTURALI E MOLECOLARI        10
+ESAMI DI ANATOMIA PATOLOGICA (ESAMI ISTOLOGICI, CITOLOGICI E PAP TEST)        12
+ESAMI GENETICI (ESCLUSI CGT E ESAMI GENETICI ONCOLOGICI)        12
+Gestione e consegna dei referti da parte del medico :        12
+Monitorare esami prescritti ed esami erogati        15
+ECCEZIONI E PROCEDURE DI EMERGENZA        17
+
+
+
+
+________________
+
+
+Scopo della procedura
+
+
+Lo scopo di questa procedura è spiegare come gestire tutte le richieste per Esami di laboratorio specialistici erogati in ambulatorio o in sala operatoria. Dal 1 luglio 2024  tutte le richieste per gli esami specialistici di laboratorio (inclusi citologici, PAP test e istologici) dovranno essere gestiti dal personale medico direttamente dalla cartella clinca (ECMS1/ECMS2) utilizzando il sistema interno di laboratorio Modulab, per la raccolta di note cliniche e per l’associazione dei campioni ai pazienti  
+L’obiettivo è quello di utilizzare un unico sistema di gestione delle richieste per tutti gli esami di laboratorio erogati al Santagostino (sia nei punti prelievo sia negli ambulatori) 
+
+
+E’ stata fatta un’integrazione del sistema interno di refertazione del Santagostino Lab denominato “Modulab”, direttamente con ECMS con la finalità di uniformare i flussi e avere un controllo di tutte le accettazioni e di tutte le refertazioni.
+
+
+I motivi per cui abbiamo modificato il processo operativo sono:
+* Garantire un’immediata gestione della richiesta, identificazione, inserimento note cliniche obbligatorie per la messa in lavorazione dei campioni e associazione dei contenitori immediatamente alla chiusura del referto su ECMS;
+* Eliminare gli scambi di identità attraverso l’associazione univoca tra contenitore-esame-paziente
+* Eliminare gli errori di scelta del contenitore e della prestazione mostrando la foto del contenitore e il dettaglio della prestazione;
+* Eliminare gli errori dovuti al coinvolgimento di due figure (specialista clinico e infermiere che oggi scrivono, interpretano, e caricano sul portale del laboratorio i dati del paziente);
+* Comunicare con il laboratorio, riportando il quesito diagnostico e le note cliniche obbligatorie richieste per la refertazione degli Esami;
+* Avere un controllo interno sui tempi di refertazione;
+* Aumentare la qualità clinica, potendo interagire direttamente con il laboratorio interno.
+Campo di applicazione
+La procedura è da applicarsi a:
+
+
+* MICROBIOLOGIA (esami/tamponi colturali)
+* BIOLOGIA MOLECOLARE (esami/tamponi molecolari)
+* ESAMI CITOLOGICI (agoaspirati)
+* PAP TEST
+* ESAMI ISTOLOGICI 
+* DNA FETALE ED ESAMI GENETICI (esclusi CGT ed esami genetici oncologici)
+* ESAMI ENDOCRINOLOGICI DA LIQUIDO DI LAVAGGIO/EVACUATO (calci/pth/tg)
+* DUOTEST : Dosaggio ormonale (free B-HCG + PAPP-A)
+Responsabilità 
+
+
+La procedura deve essere eseguita da tutti gli Specialisti che eseguono gli Esami sopra riportati. 
+Gli infermieri e il customer service sono a conoscenza della procedura e fungono da riferimento per ricevere supporto operativo o chiarimenti sulle procedure.
+
+
+ATTENZIONE: la gestione di tutti gli esami DEVE AVVENIRE IN AMBULATORIO IMMEDIATAMENTE alla CHIUSURA DEL REFERTO  ed è a CARICO DELLO SPECIALISTA. 
+
+
+Se lo specialista non inserisce correttamente la richiesta da ECMS e non gestisce i contenitori utilizzando il portale di laboratorio “Tracie”, NESSUNO, nemmeno il personale infermieristico , è responsabile in un secondo momento, in assenza dello specialista o di una sua dichiarazione scritta,  di associare e gestire  il contenitore non acquisito.  
+Le uniche eccezioni in cui può intervenire il personale infermieristico sono:
+* richiesta di supporto in presenza dello specialista
+* down informatici che impediscono allo specialista di accedere ai sistemi di laboratorio. In questi casi lo specialista dovrà riportare il problema al desk di riferimento che prenderà in carico la segnalazione. Lo specialista è quindi responsabile di riportare su un modulo di emergenza, tutti i dati richiesti per poter gestire successivamente i campioni (N.B. in assenza di una comunicazione scritta dello specialista con tutti i campi richiesti il campione non può essere gestito e inviato al laboratorio)
+
+
+NESSUN CONTENITORE PUO’ ESSERE SPEDITO IN LABORATORIO SE NON E’ STATO CORRETTAMENTE GESTITO IN SEDE IN TUTTE LE FASI DEL PROCESSO E SE NON E’ COMPLETO DELLE NOTE CLINICHE OBBLIGATORIE RICHIESTE DAL LABORATORIO PER LA REFERTAZIONE. IL PERSONALE INFERMIERISTICO CHE INVIA I CAMPIONI IN LABORATORIO (IL GIORNO DELL’INVIO) DEVE VERIFICARE LE ASSOCIAZIONI DEI CONTENITORI SU TRACIE ED ESEGUIRE IL CHECK IN SU MODULAB DI  TUTTI I CONTENITORI ISTOLOGICI E CITOLOGICI (INCLUSI PAP TEST) INSERITI NELLE BORSE INVIATE AL LABORATORIO
+
+
+________________
+Descrizione delle attività
+* Accedi al portale medici utilizzando la propria mail aziendale;
+* Accedi ad ECMS tramite l’apposito pulsante;
+
+
+  
+
+
+
+* Seleziona l’agenda del giorno corrente e seleziona il paziente in visita;
+* Clicca su “Compila Visita” per aprire la compilazione del referto;
+  
+
+
+
+* Se esegui Esami di laboratorio gestisci direttamente da ECMS la RICHIESTA DEGLI ESAMI e l’ ASSOCIAZIONE DEI CONTENITORI (etichettatura e inserimento note cliniche obbligatorie)
+RICHIESTA ESAMI :
+
+
+Per accedere alla sezione di richiesta di esami specialistici di laboratorio devi seguire 4 semplici passaggi:
+
+
+1. ACCEDI ALLA BARRA DI RICERCA DEGLI ESAMI DI LABORATORIO: Clicca sulla barra rossa presente su ECMS  “Clicca qui per eseguire un Esame specialistico di laboratorio” per visualizzare l’elenco completo degli Esami di laboratorio;
+
+
+
+
+  
+
+
+
+2. SCEGLI L’ESAME DI LABORATORIO  :Seleziona ponendo o togliendo il flag all’esame o agli esami di laboratorio da eseguire: puoi utilizzare il campo “Cerca” per filtrare gli Esami di laboratorio di interesse, ad es. colturale, molecolare, uretrale, vaginale, biopsia escissionale, pap test, radicalizzazione, agoaspirato etc.; 
+
+
+  
+
+
+
+
+
+
+
+Gli Esami di laboratorio da eseguire; gli Esami di laboratorio presenti nella prenotazione risulteranno già flaggati; tutto ciò che non deve essere eseguito non deve presentare il flag; Controlla che le prestazioni del box “Prestazioni eseguite” siano quelle scelte e corrette; per eliminarle o modificarle torna all'elenco per togliere o mettere il flag
+NON INSERIRE ALCUNA NOTA CLINICA NEL RIQUADRO PRESENTE SU ECMS. LE NOTE DOVRAI INSERIRLE SU TRACIE (SCHERMATA DI VISUALIZZAZIONE DEL PAZIENTE PER ACQUISIRE I CONTENITORI E INSERIRE LE NOTE CLINICHE) 
+
+
+
+
+3. SALVA E TERMINA LA VISITA: Controlla che le prestazioni del box “Prestazioni eseguite” siano quelle scelte e corrette; per eliminarle o modificarle torna all'elenco e deselezionale o selezionale; clicca sul pulsante “salva e termina la visita”
+  
+
+  
+
+
+
+
+
+
+
+
+
+4. ACCEDI AL PORTALE DEL SANTAGOSTINOLAB (TRACIE) : Alla chiusura del referto apparirà la schermata riportata in figura: cliccare sul “tasto giallo” per accedere al portale del
+  
+
+
+
+NOTA BENE
+Se cliccando su SantagostinoLab non dovesse aprirsi la pagina del portale di acquisizione dei contenitori del SantagostinoLab “Tracie” , torna su questa pagina e riclicca sul box giallo. Potrebbe esserci un momentaneo problema di rete.
+
+
+ASSOCIAZIONE DEI CONTENITORI (etichettatura e inserimento note cliniche obbligatorie): 
+L’associazione dei contenitori all’anagrafica del paziente e l’inserimento delle note cliniche obbligatorie avvengono tramite il portale del Santagostino Lab denominato “TRACIE” 
+
+
+Clicca  >QUI< per vedere la presentazione con le istruzioni sull’utilizzo del sistema di acquisizione dei contenitori “Tracie” 
+Clicca >QUI< per vedere le slide della formazione per i nuovi flussi di Anatomia Patologica (PAP TEST, citologici e istologici) 
+
+
+  
+
+
+
+Da Ecms vieni direttamente indirizzato su Tracie, sulla schermata di accettazione  del paziente per iniziare l’ acquisizione dei contenitori dove trovi le seguenti informazioni:
+
+
+richiesta esame e acquisizione su Tracie.mp4
+
+
+* informazioni sul paziente
+* informazioni sul numero e sulla tipologia dei contenitori necessari
+* campo dedicato alla compilazione delle note cliniche obbligatorie 
+
+
+  
+
+
+
+Per procedere alla corretta acquisizione e associazione dei contenitori al paziente GARANTENDO LA TRASMISSIONE DEI DATI AL LABORATORIO devi:
+
+
+1. verificare il numero e la tipologia di contenitori necessari per l’erogazione dell’esame richiesto
+
+
+2. Staccare l’etichetta neutra ( barcode con prefisso CC o VC) dal rotolo e applicarla sulla provetta/contenitore prima di procedere alla sua acquisizione Non acquisire l’etichetta quando è ancora sul rotolo, ma attaccala alla provetta e poi acquisicila. Questo perchè la pistola è molto sensibile ed è possibile che venga acquisita erroneamente una etichetta vicina.
+
+
+3. Compilare prima della scansione dei contenitori, TUTTE LE NOTE CLINICHE OBBLIGATORIE richieste per la refertazione (ATTENZIONE: LA MANCATA COMPILAZIONE DELLE NOTE DETERMINA UNA NON IDONEITA’ E BLOCCO NELLA LAVORAZIONE DEI CAMPIONI)
+
+
+4. Dopo aver compilato le note cliniche , acquisire con l’ausilio di una pistola scanner, il barcode assicurandoti di eseguire la corretta associazione tra contenitore ed esame richiesto 
+
+
+5. Assicurare la corretta trasmissione dei dati al laboratorio concludendo l’intera accettazione. La gestione dell’intera accettazione si conclude alla comparsa della schermata che riporta:
+“I dati sono stati trasmessi con successo. Ora i campioni possono essere inviati al laboratorio”
+
+
+  
+       
+
+
+Se non dovesse concludersi in automatico Clicca su “Concludere” per trasmettere i dati al Laboratorio 
+
+
+  
+
+
+
+ESAMI COLTURALI E MOLECOLARI
+
+
+Per gli Esami colturali e molecolari troverai una sola provetta dal fondo tondo e il tappo bianco che potrai utilizzare sia per gli Esami colturali che per quelli molecolari. Nella confezione è presente un cotton fioc classico. Saranno a tua disposizione nel cassetto anche dei cotton fioc più sottili, utili ad es. per i prelievi uretrali. Alla fine del prelievo, rompi il cotton fioc in corrispondenza della linea rossa e lascia il cotton fioc nella provetta. La provetta contiene un liquido di trasporto che serve a garantire una migliore conservazione del campione.
+  
+
+ATTENZIONE ECCEZIONE CONTENITORE:  Per la Ricerca colturale di Dermatofiti in peli, unghie e pelle, troverai l’immagine del contenitore sterile come sotto per la raccolta:
+  
+
+
+
+
+
+NOTA BENE #2
+Se hai due prestazioni della stessa tipologia ad es. Esame “colturale” e della stessa “zona anatomica” (ad es. Esame colturale vaginale con antibiogramma  e Esame colturale vaginale ricerca lieviti con antimicogramma) vedrai una sola provetta. In laboratorio useremo lo stesso campione per effettuare entrambi gli esami.
+
+
+* Una volta effettuato il prelievo, posizionare la provetta nel rack presente in ambulatorio in corrispondenza dell’area dedicata alla sezione anatomica del prelievo;
+
+
+  
+
+
+
+Il laboratorio richiede per specifici esami che vengano compilate note obbligatorie per compilarle  “Clicca e compila obbligatoriamente le note cliniche del paziente” !! Vedi presentazione sulla corretta compilazione delle note 
+
+
+  
+
+
+
+Per una corretta refertazione, è estremamente importante che il prelievo corrisponda alla prestazione riportata sul portale. Se effettui due prelievi, uno vaginale e uno uretrale, presta attenzione ad associare il campione vaginale alla prestazione Tampone vaginale e il campione uretrale alla prestazione Tampone uretrale. Per farlo clicca prima sulla provetta e poi effettua l’acquisizione del codice a barre.
+Visto che le provette potrebbero essere identiche, hai a disposizione il rack per supportarti. Se disporrai infatti ogni provetta nella zona del rack dedicata alla sede anatomica del prelievo, sarai facilitato nella successiva associazione della provetta. 
+
+
+NOTA BENE #2
+Qualora dovessi erroneamente uscire dalla schermata di acquisizione, o  l'accettazione dovesse essersi chiusa inaspettatamente e non finalizzata correttamente  è importante sapere che queste accettazioni devono essere aperte dalla lista di accettazioni. Cioè, è necessario sapere in quale sede si trova l’accettazione (per i medici si tratta di "Specialistica") per poter aprirla e modificarla. Se si apre l'accettazione tramite la ricerca con codice a barre delle provette già trasferite in laboratorio, le domande delle note cliniche senza risposta rimangono in read-only e non è possibile aggiungere delle risposte
+
+
+Alla fine della agenda, consegnare i campioni prelevati in infermeria, riponendoli in frigorifero.
+
+
+ESAMI DI ANATOMIA PATOLOGICA (ESAMI ISTOLOGICI, CITOLOGICI E PAP TEST)
+Gli esami di anatomia patologica (istologici, citologici e PAP test) richiedono dei passaggi obbligatori di identificazione e di gestione dei campioni  riportati nella >seguente procedura<.  La mancata applicazione delle procedure determinano una NON IDONEITA’ nella lavorazione dei campioni. 
+
+
+Dal 01 luglio sarà è possibile richiedere gli esami di Anatomia Patologica con la stessa modalità sopra descritta. Questi esami vengono messi in lavorazione dal reparto di Anatomia Patologica di Cerbahealthcare di cui vengono riportati i contatti diretti qualora si presentasse la necessità di contattarli per questioni cliniche
+
+
+Per contattare laboratorio di Anatomia Patologica di Cerba (RDI)
+TEL: 049 5017280 | EMAIL: anatomiapatologica.rdi@cerbahealthcare.it
+
+
+
+
+
+
+
+
+
+
+
+
+ESAMI GENETICI (ESCLUSI CGT E ESAMI GENETICI ONCOLOGICI)
+
+
+I passaggi per la gestione degli esami genetici (DNA fetale, genetica pre e post natale) sono riportati nella >seguente procedura<
+
+
+Gestione e consegna dei referti da parte del medico : 
+
+
+La presa in carico dei pazienti da parte dei clinici prescrittori/esecutori di esami di laboratorio implica diverse responsabilità, tra cui l’interpretazione e la gestione dei risultati. Una volta ottenuti i risultati degli esami di laboratorio, i clinici devono interpretarli in base al quadro del paziente e prendere le decisioni appropriate riguardo alla diagnosi, al trattamento e al follow-up. È importante che i clinici informino i pazienti in modo chiaro e comprensibile sui risultati e sulle implicazioni per la loro salute. Nella >seguente procedura< sono riportate le responsabilità sulla gestione e consegna dei referti da parte del medico. 
+nello specifico il flusso prevede che:
+
+
+* PAP test negativi sono resi disponibili direttamente sul dossier del paziente
+* PAP test positivi, esami citologici, istologici, genetici e DNA fetale richiedono di essere dapprima visionati dal medico che tramite funzione apposita su ECMS, rende disponibile il referto al paziente
+
+
+Ci sono due modalità per visualizzare gli esiti degli esami di laboratorio e renderli visibili al paziente:
+
+
+Prima modalità
+
+
+Per avvisare della presenza di nuovi referti di laboratorio non ancora visionati ECMS, nella HomePage immediatamente dopo l’accesso, mostra un banner in azzurro che riporta “Ci sono allegati di laboratorio da caricare sul dossier CLICCA QUI”:
+
+
+  
+ 
+
+
+Cliccare su CLICCA QUI per far aprire la pagina contenente tutti i nuovi referti e procedere scegliendo “Visualizza esami allegati e visita”
+
+
+  
+
+
+
+Cliccare sulla LENTE D’INGRANDIMENTO che si trova sulla destra per visionare il referto, una volta visionato spuntate la casella “visionato?”. Per permettere al paziente di visualizzare a sua volta il referto, sarà ESSENZIALE spuntare la casella “Carico il referto in dossier”, SOLO in questo modo il paziente avrà accesso al referto.
+
+
+    
+
+
+
+
+Seconda modalità:
+
+
+Accedere alla scheda del paziente tramite la funzione CERCA PAZIENTE nella HomePage di Ecms (utilizzando alternativamente nome e cognome o codice paziente)
+
+
+  
+
+
+
+Andare nella sezione STORIA CLINICA del paziente e individuare l'appuntamento all'interno del quale è stato richiesto l'esame di laboratorio e cliccare su Visualizza esami e allegati visita
+
+
+  
+
+
+
+Cliccare su Visualizza esami allegati visita
+Cliccare sulla LENTE D’INGRANDIMENTO per visionare il file con il referto 
+Spuntare la casella CARICO IL REFERTO IN DOSSIER per renderlo visibile anche al paziente
+
+
+  
+
+
+
+E’ possibile visualizzare i referti e renderli disponibili al paziente anche da casa, utilizzando un proprio dispositivo (es. smartphone o pc personale). Il sistema da utilizzare è ECMS LIGHT e qui troverai la procedura.
+
+
+Monitorare esami prescritti ed esami erogati
+
+
+Nella schermata principale in alto a destra troverete due voci: Esami prescritti ed Esami erogati. Cliccando su queste voci, accederete all'elenco dei pazienti a cui avete prescritto degli Esami di laboratorio o a cui avete eseguito degli Esami di laboratorio. Potete fare una ricerca per data, per prestazione, per nome e cognome o codice paziente, etc. Se la prestazione è stata eseguita e il referto è pronto, quest'ultimo sarà disponibile e potrete visualizzarlo. 
+
+
+Il suddetto sistema permette di visionare i referti senza che il paziente ve li invii (rischiando che si diffondano nel web) e consente di verificare le condizioni del paziente e contattarlo nel caso ce ne sia bisogno (per es. visita di controllo, etc.).
+
+
+Attenzione: visualizzerete solo gli Esami erogati o quelli che avete prescritto usando il campo di ECMS corretto.
+
+
+  
+
+
+
+REMINDER 
+Se avete ESEGUITO degli Esami specialistici di laboratorio che richiedono di essere consultati e poi caricati sul dossier del paziente, aprendo la vostra cartella, vedrete questo avviso. 
+
+
+  
+
+
+
+Cliccando sull'avviso otterrete la lista dei pazienti a cui avete erogato un Esame specialistico di laboratorio. Anche in questo caso vi è data la possibilità di fare una ricerca per ciò che vi interessa.
+
+
+  
+
+
+
+Procedendo su Visualizza Esami, accederete agli Esami. Qui sarà possibile consultare il referto. Consultato il referto, dovrete fleggare su "ho visto il referto" e quando possibile (per es. dopo aver contattato il paziente) su "carico il referto in dossier". Attenzione: se non apponete il flag, il paziente non riceverà il suo referto in dossier.
+
+
+  
+
+
+
+Video tutorial: 
+
+
+  
+ Video1.mov
+  
+ Video2.mov
+
+
+
+
+
+
+
+
+________________
+ECCEZIONI E PROCEDURE DI EMERGENZA
+Che faccio se?
+
+
+1. Non sono presenti tutte le prestazioni nella schermata di acquisizione
+Una volta completata l’acquisizione di quanto presente, chiudi la pagina e torna sulla finestra con il box giallo e riclicca su Accedi al portale del SantagostinoLab. 
+
+
+2. Finisco su una pagina in cui vedo un elenco di pazienti
+Non preoccuparti, sei sulla pagina “riassuntiva” di SantagostinoLab. Potrebbe essere solo un passaggio transitorio, e dopo pochi istanti si aprirà la pagina del tuo paziente. Se non dovesse aprirsi hai due possibilità: clicca sul tuo paziente nella schermata riassuntiva e procedi all’acquisizione oppure chiudi la pagina, torna sulla pagina con il box giallo e riclicca su Accedi al portale del SantagostinoLab. Se non dovessi essere indirizzato correttamente, il alto a destra cliccare sulla sede “Specialistica” dove vedrai la lista di pazienti, non necessariamente “tuoi” e da qui clicca sul paziente di interesse
+
+
+3. Non si apre la pagina di Santagostino Lab/non vedo il paziente
+E’ possibile che ci sia un problema di rete. Chiudi la pagina e torna sulla finestra con il box giallo e riclicca su Accedi al portale del SantagostinoLab. Ripetilo un paio di volte.
+Se non dovesse ancora aprirsi, guarda la barra di ricerca in alto (http://…) e verifica che alla fine dell’indirizzo della pagina che si sta caricando ci sia scritto ID e poi un numero. Se c’è, dopo qualche istante si aprirà la pagina. Se non c’è o la pagina si apre ma continui a non vedere il paziente, contatta il desk perchè:
+* c’è un problema su SAP/His (anagrafica, etc.) che va corretto
+* non hai accesso alla piattaforma e questo impedisce la trasmissione dell’informazione dal gestionale a SantagostinoLab e vanno richieste delle credenziale di back up
+* non c’è comunicazione tra His/Modulab e Get e va riavviato il canale
+
+
+Il desk forza l’invio dell’accettazione a Tracie attraverso His e chiede all’infermiere di associare il contenitore.
+Se il problema non si risolve, il desk apre un ticket (Laboratorio / Errore Accettazione His/Get/Modulab).
+
+
+4. La pistola scanner non funziona
+Nel caso in cui dovessi avere dei problemi ad acquisire l’etichetta con la pistola prova a staccarla e riattaccarla, se il problema persiste segnalalo al desk e intanto procedi inserendo il codice manualmente cliccando sui 3 puntini in alto a destra.
+
+
+ATTENZIONE: Le azioni manuali sono da EVITARE. Esiste la funzione “Acquisire il campione manualmente” SOLO per non bloccare l’operatività in caso ad esempio di mancato funzionamento della pistola scanner
+
+
+  
+
+
+
+
+
+
+
+5. Ho acquisito il contenitore ma non appare il messaggio che conferma l’invio dei dati
+Controlla di aver compilato tutte le note perché sono obbligatorie. Se per qualche motivo non dovessi visualizzare sullo schermo l’intero box delle note, riduci lo zoom della pagina (cliccando insieme Ctrl e tasto -) e procedi alla compilazione.
+
+
+6. Seleziono la prestazione sbagliata ma non ho ancora acquisito il contenitore
+Riapri il referto, modifica la prestazione dall’elenco degli Esami di laboratorio, controlla che sia presente nel box riassuntivo e procedi seguendo la procedura standard. Avvisa il desk per verificare che non ci siano problemi di fatturazione.
+
+
+7. Seleziono la prestazione sbagliata ma ho acquisito il contenitore
+Informa il desk che creerà un’altra accettazione. Attacca una nuova etichetta al contenitore e procedi seguendo la procedura standard.
+
+
+Il desk apre un ticket al laboratorio per informarlo dell’errore.
+Il desk crea un nuovo appuntamento o inserisce la prestazione corretta in overbooking e gestisce eventuali problemi di fatturazione. Importante: NON effettuare accettazioni dirette perché il passaggio dei dati dal gestionale al portale del laboratorio non si verifica.
+
+
+
+
+8. Non risolvo il problema e ho dei contenitori da associare
+Chiedi al desk il  MODULO CARTACEO  di richiesta Esami di Laboratorio. Compila il modulo in ogni sua parte con particolare attenzione al campo “codice  di acquisizione” che permetterà l’identificazione del contenitore e la sua associazione al paziente e alla prestazione corretta. Consegna il modulo al desk (non al paziente).
+
+
+Il desk forza l’invio dell’accettazione a Tracie attraverso His e chiede all’infermiere di associare il contenitore.
+
+
+9. ECMS è bloccato o in errore/i campioni sono in sede non acquisiti 
+Chiedi al desk il MODULO CARTACEO di richiesta Esami di Laboratorio. Compila il modulo in ogni sua parte con particolare attenzione al campo “codice di acquisizione” che permetterà l’identificazione del contenitore e la sua associazione al paziente e alla prestazione corretta. Consegna il modulo al desk (non al paziente) che:
+* quando possibile creerà un appuntamento o un overbooking su SAP/His
+* forzerà l’invio dell’accettazione a Tracie attraverso His
+* consegnerà il modulo all’infermiere perché provveda all’associazione dei contenitori prima dell’invio in laboratorio.
+
+
+10. Sono nella schermata riassuntiva di SantagostinoLab e non trovo il mio paziente
+Controlla che in alto a destra non ci sia la sede ma sia specificato “Specialità”.
+Se non c’è, contatta il desk.
+
+
+Il desk apre un ticket al laboratorio per informarlo di quanto accaduto.
+Il laboratorio - insieme al dipartimento Dididi - risolve il problema e avvisa il desk di procedere all’acquisizione del campione con l’aiuto del personale infermieristico. Nel frattempo, il campione deve rimanere in sede e non deve essere inviato in laboratorio senza essere acquisito.

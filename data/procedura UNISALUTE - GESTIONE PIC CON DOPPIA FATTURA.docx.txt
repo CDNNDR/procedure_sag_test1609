@@ -1,0 +1,304 @@
+﻿UNISALUTE – ESAMI DI LABORATORIO CON DOPPIA FATTURA
+	Pagina  di  
+
+
+
+
+Data
+02/02/2022
+	
+
+
+
+COVER DELLA PROCEDURA
+	
+
+Titolo procedura
+	UNISALUTE – ESAMI DI LABORATORIO CON DOPPIA FATTURA
+	Versione
+	1.0.0
+	Data
+	02/02/2022
+	
+
+
+
+Autore
+	Michele Messina 
+	Owner
+	Michele Messina
+	Verificato da
+	
+
+	
+
+
+
+Tracciamento modifiche
+	Data
+	Ver.
+	Autore 
+	Ruolo
+	Note
+	GG/MM/AA
+	X.Y.Z
+	Nome Cognome
+	Job title
+	Descrizione delle modifiche
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+NOTE:
+Versione: 
+* X = MODIFICABILE SOLO DALL’OWNER. Da incrementare solo per modifiche strutturali della procedura (prima di incrementare e modificare la versione, esportare pdf versione precedente in modo da mantenere lo storico). 
+* Y = Da incrementare se vengono aggiunte attività alla procedura.
+* Z = Da incrementare ad ogni modifica del documento. 
+________________
+
+
+
+
+
+
+Da condividere con:
+Customer care
+Referenti operativi
+AM
+
+
+Distribuito il: 02/02/2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Di seguito viene riportata la procedura per la corretta gestione di una PIC Unisalute generica per l’esecuzione di esami di laboratorio, in presenza di paziente che deve effettuare una serie di esami per i quali è necessario effettuare due accettazioni separate e quindi due  fatture, ad esempio nel caso in cui venga richiesto l’esecuzione dell’esame dell’HIV. 
+
+
+
+* sul portale Unisalute riceviamo una PIC generica per l’esecuzione degli esami di laboratorio, senza la specifica di quali esami deve eseguire il paziente, ma con la sola indicazione dell’eventuale franchigia a suo carico. Il paziente deve OBBLIGATORIAMENTE avere con sé la prescrizione medica con l’elenco degli esami da eseguire e consegnarla in accettazione.
+
+
+  
+
+
+
+
+* qualora tra gli esami prescritti fosse presente anche l’HIV, si deve procedere ad effettuare due accettazioni distinte su HIS, una per il solo esame dell’HIV e una per tutti gli altri esami prescritti. La convenzione da utilizzare per entrambe è sempre UNISALUTE DIRETTA 2020. 
+I successivi passaggi fanno riferimento ad un caso esempio in cui il totale degli esami eseguiti è pari a 97,90euro (17,90 HIV + 80,00 altri esami) e la franchigia a carico del paziente è pari a zero.
+
+
+
+* una volta effettuate le due accettazioni, inseriamo l’eventuale franchigia a carico del paziente indicata nella PIC, in quella dove l’importo di quest’ultima è inferiore rispetto al totale degli esami accettati. Nel nostro esempio la franchigia a carico del paziente indicata nella PIC è pari a zero, ma di seguito analizziamo dei casi dove la franchigia è pari ad euro 20,00:
+
+
+
+1. ACCETTAZIONE NR° 1 = 17,90 euro(HIV)
+ACCETTAZIONE NR° 2 = 80,00 euro (altri esami)
+
+
+In questo caso la franchigia di euro 20,00 va inserita nell’accettazione nr° 2 
+
+
+
+
+
+
+
+2. ACCETTAZIONE NR° 1 = 17,90 euro (HIV)[a]
+ACCETTAZIONE NR° 2 = 15,00 euro (altri esami)
+
+
+In questo caso noi dobbiamo spalmare la franchigia su entrambe le accettazioni, quindi possiamo inserire 17,90 di franchigia nell’accettazione nr°1e 2,10 (20,00-17,90) di franchigia nell’accettazione nr° 2.
+
+
+
+3. ACCETTAZIONE NR° 1 = 17,90 euro(HIV)
+ACCETTAZIONE NR° 2 = 1,70 (altri esami)
+
+
+In questo caso la somma totale degli esami eseguiti è inferiore rispetto alla           franchigia indicata di euro 20,00 quindi rimane tutto a carico del paziente. 
+Difficile che capiti, ma è giusto segnalarlo.
+
+
+
+* una volta inserita l’eventuale franchigia in maniera corretta, procediamo ad emettere le rispettive fatture. Nel nostro caso emettiamo le seguenti fatture: 
+
+
+
+1. fattura nr° 1 di euro  17,90 per l’esame HIV, franchigia zero.
+
+
+2. fattura nr° 2 di euro 80,00 + 2,00 di bollo per gli altri esami, franchigia zero.
+
+
+
+* a questo punto dobbiamo chiudere la PIC sul portale Unisalute andando ad inserire gli importi e i dati delle fatture emesse. 
+La prima cosa da fare è inserire nel campo evidenziato in rosso nell’immagine seguente, l’importo totale degli esami eseguiti dato dalla somma delle due fatture emesse, al netto dell’eventuale marca da bollo presente in una di esse (es. fattura esame HIV 17,90 + fattura altri esami 82,00 compresa marca da bollo, inseriamo sul portale Unisalute 97,90 ovvero 17,90 +80,00). Una volta inserito l’importo, clicchiamo sul tasto CONFERMA (nell’esempio riportato sotto la franchigia a carico del paziente è pari a zero).
+
+
+  
+
+
+
+
+* in automatico verranno compilati anche i campi “IMPORTO A CARICO DI UNISALUTE” e “IMPORTO TOTALE” 
+
+
+  
+
+
+
+
+* in automatico verranno compilati anche i campi “IMPORTO A CARICO DI UNISALUTE” e “IMPORTO TOTALE” 
+
+
+
+
+* mettiamo il flag su SI nel campo relativo alla prescrizione medica e poi clicchiamo su “FATTURA PRESA IN CARICO”.
+
+
+
+* procediamo ad inserire i dati della prima fattura emessa, quindi compiliamo i dati relativi alla “DATA DI EMISSIONE” e al “NUMERO” della stessa, facendo attenzione a selezionare sempre “CENTRO MEDICO SANTAGOSTINO - SEDE (la tua struttura)” nel campo “FATTURATA DA”. 
+Seguendo il nostro esempio, la prima fattura è relativa all’esame dell’HIV quindi di euro 17,90.
+
+
+  
+
+
+
+
+* nel campo “IMPORTO DA FATTURARE” inseriamo esattamente l’importo indicato nella nostra prima fattura quindi 17,90 e nel campo BOLLO mettiamo il flag sul NO.
+
+
+  
+
+
+
+
+* Fatto ciò clicchiamo su “AVANTI” e ci apparirà il seguente avviso per il quale dovremo cliccare sul tasto “SI”
+
+
+  
+
+
+
+
+* A video visualizziamo il riepilogo il riepilogo dei dati inseriti e, se corretti, clicchiamo su “CONFERMA” e poi su “INSERISCI” per inserire la prima fattura a portale.
+
+
+  
+
+
+
+
+* Verremo riportati al menù con l’elenco delle PIC presenti a portale, dove ritroveremo nuovamente la nostra PIC evidenziata in giallino,con un’icona che riporta la lettera “F” e lo stato “DA FATTURARE”
+
+
+  
+
+
+
+
+* apriamo la PIC e procediamo ad inserire la seconda fattura, nel nostro esempio quella di 82,00 euro, quindi clicchiamo su “FATTURA PRESA IN CARICO”
+
+
+
+* inseriamo tutti i dati richiesti esattamente come per la prima fattura, ad eccezione del campo “IMPORTO DA FATTURARE” dove troverete già inserito l’importo corretto. 
+Nel nostro esempio, l’importo inserito è 80,00 ovvero la differenza tra il totale della PIC 97,90 e l’importo della prima fattura inserita di 17,90.
+
+
+  
+
+
+
+
+* inseriamo tutti i dati richiesti esattamente come per la prima fattura, ad eccezione del campo “IMPORTO DA FATTURARE” dove troverete già inserito l’importo corretto. 
+Nel nostro esempio, l’importo inserito è 80,00 ovvero la differenza tra il totale della PIC 88,37 e l’importo della prima fattura inserita di 8,37.
+In questo caso mettiamo anche il flag sulla marca da bollo in quanto presente nella fattura che abbiamo emesso.
+
+
+
+* fatto ciò clicchiamo su “AVANTI”, poi “CONFERMA” ed “INSERISCI”. A questo punto abbiamo chiuso correttamente a portale la nostra PIC. 
+
+
+
+* entrambe le fatture dovreste visualizzarle nella sezione “FATTURE E PAGAMENTI” sul portale Unisalute. 
+
+
+Società e Salute SpA - sede legale: via Temperanza 6, 20127 Milano - P.IVA e CF - 05128650966 - REA n. 1798600 
+Capitale sociale Euro 2.423.893,30 i.v. - Società soggetta all’attività di direzione e coordinamento di Unipol Gruppo SpA
+[a]@gabriele.casciato@santagostino.it l'importo è aggionato? da privato l'importo è 17,90, qual è il prezzo da convenzionato? sicuro di voler lasciare all'interno di una procedura un importo che potrebbe essere soggetto a variazioni nel tempo?
+_Assegnato a gabriele.casciato@santagostino.it_

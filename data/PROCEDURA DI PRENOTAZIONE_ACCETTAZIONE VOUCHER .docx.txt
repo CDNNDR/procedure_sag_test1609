@@ -1,0 +1,412 @@
+﻿PROCEDURA DI PRENOTAZIONE/ACCETTAZIONE VOUCHER
+	Pagina  di  
+
+
+
+
+Data 19/10/2020
+      
+	
+
+
+
+COVER DELLA PROCEDURA
+	
+
+Titolo procedura
+	PROCEDURA DI PRENOTAZIONE/ACCETTAZIONE VOUCHER
+	Versione
+	1.0.4
+	Data
+	19/10/2020
+	
+
+
+
+Autore
+	Federica Salamina
+	Owner
+	Federica Salamina
+	Verificato da
+	Federica Salamina, Alexandre Crivellari
+	
+
+
+
+Tracciamento modifiche
+	Data
+	Ver.
+	Autore 
+	Ruolo
+	Note
+	25/10/2021
+	1.0.1
+	Federica Salamina
+	Referente Operativo
+	Esami di laboratorio Allianz
+	05/07/2022
+	1.0.2
+	Federica Salamina
+	Operating Officer  
+	Esami di laboratorio Allianz 2022
+	21/10/2022
+	1.0.3
+	Federica Salamina 
+	Operating Officer
+	Esami di laboratorio Edison 2022/2023
+	12/12/2022
+	1.0.4
+	Federica Salamina 
+	Operating Officer
+	Convenzione VOUCHER 2023
+	16/05/2024
+	1.0.5
+	Alice Taylor
+	B2B Offering Specialist
+	Convenzione VOUCHER EMILIA ROMAGNA, Convenzione VOUCHER PRAXI
+	07/06/2024
+	1.0.6
+	Alice Taylor
+	B2B Offering Specialist
+	Aggiornata tabella pacchetti voucher esami 
+	09/07/2024
+	1.0.7
+	Alice Taylor
+	B2B Offering Specialist
+	Aggiornamento nuove convenzioni (Voucher Lombardia 2024, Voucher Lazio 2024)
+	31/07/2024
+	1.0.8
+	Alice Taylor
+	B2B Offering Specialist
+	Aggiornamento convenzione Edison e Zegna
+	
+
+
+
+
+
+
+
+NOTE:
+Versione: 
+* X = MODIFICABILE SOLO DALL’OWNER. Da incrementare solo per modifiche strutturali della procedura (prima di incrementare e modificare la versione, esportare pdf versione precedente in modo da mantenere lo storico). 
+* Y = Da incrementare se vengono aggiunte attività alla procedura.
+* Z = Da incrementare ad ogni modifica del documento. 
+________________
+
+
+
+
+Da condividere con :
+* Area manager sedi
+* Desk 
+* Call center
+* Responsabile Customer-Care
+* Operation
+* Team assistenza paziente
+
+
+Distribuito il: 21/10/2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+
+
+INDICE
+Premessa        5
+Responsabilità        5
+Descrizione delle attività        5
+Flussi eccezionali        10
+
+
+
+
+________________
+
+
+Premessa
+
+
+Il Voucher Santagostino è un codice alfanumerico che permette di prenotare prestazioni sanitarie presso le sedi Santagostino in totale comodità e autonomia. Le aziende (o altri enti come associazioni ecc.) possono in questo modo acquistare un qualunque numero di Voucher e distribuirli ai propri dipendenti che, attraverso il sito www.santagostino.it, potranno a loro volta prenotare la prestazione scelta nella sede e nel giorno e orario a questi più comodi.                                                                                                                                                                                                     
+Responsabilità 
+
+
+Questa procedura deve essere seguita da tutto il desk durante l’accettazione di un paziente in possesso di un codice voucher rilasciato da noi. 
+
+
+Descrizione delle attività
+
+
+PROCEDURA DI PRENOTAZIONE PER VOUCHER AZIENDALE - HIS WEB        
+
+
+1. Inserire i dati del paziente che desidera prenotare la prestazione
+2. Inserire nell’apposito riquadro il numero di voucher 
+3. Inserire la convenzione richiesta dalla validazione nel campo “convenzione”
+   1. VOUCHER CMS - utilizzabile solo per le aziende che hanno acquistato voucher prima del 05/12/2022 e per Edison/Zegna fino al 15/02/2022
+   2. VOUCHER 2023 - utilizzabile per le aziende che hanno acquistato voucher a partire dal 05/12/2022 fino al 08/07/2024 di Milano e Roma
+   3. VOUCHER LOMBARDIA 2024 - utilizzabile per le aziende che hanno acquistato voucher a partire dal 09/07/2024 di Milano e per Edison/Zegna
+   4. VOUCHER LAZIO 2024 - utilizzabile per le aziende che hanno acquistato voucher a partire dal 09/07/2024 di Roma
+   5. DIPENDENTI ALLIANZ - Utilizzabile solo per la campagna Allianz Voucher attiva su tutte le sedi di Milano tranne MB Dyadea
+   6. VOUCHER EMILIA ROMAGNA - utilizzabile per le aziende dell’Emilia Romagna
+   7. VOUCHER PRAXI  -  utilizzabile solo per l’azienda Praxi (vedi procedura)
+
+
+IMPORTANTE: 
+
+
+* Il codice voucher dovrà essere inserito in modo corretto, le lettere dovranno essere  sempre in maiuscolo ed è importante inserire anche il trattino che divide le varie serie alfanumeriche.
+* I voucher saranno utilizzabili solamente per le prestazioni precedentemente concordate con l’azienda e non potranno essere modificati.
+  
+
+
+
+4. Per verificare che il codice inserito sia ancora valido fare clic sull’icona “Valida Voucher”
+* Se il voucher risulta utilizzabile la prenotazione andrà a buon fine.
+* In caso di voucher scaduto, già utilizzato o non valido per la prestazione scelta la prenotazione non andrà a buon fine e verrà restituito un errore come questo: 
+
+
+  
+
+
+
+5. Una volta verificata la validità del voucher procedere con la prenotazione.
+
+
+
+
+PROCEDURA DI PRENOTAZIONE PER VOUCHER AZIENDALE - SAP        
+
+
+1. Inserire i dati del paziente che desidera prenotare
+
+
+2. Inserire il codice del Voucher nell’apposito riquadro e validarlo facendo clic sull’icona “Valida” 
+3. Inserire in “codice convenzione” la convenzione riportata nel riquadro di validazione
+
+
+  
+
+4. Se il Voucher risulta in corso di validità la prenotazione andrà a buon fine.
+
+
+
+
+PROCEDURA DI ACCETTAZIONE CON VOUCHER AZIENDALE - HIS WEB
+
+
+1. Aprire la prenotazione
+2. Inserire il codice di Vouchers nell’apposito riquadro o verificare che sia già stato inserito in fase di prenotazione.
+3. Verificare la validità del voucher facendo clic sull’icona Valida Voucher
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.  Nell’avviso in alto verrà indicato il nome dell’azienda inviante e della convenzione da inserire negli appositi riquadri.
+
+
+  
+
+
+
+   8. VOUCHER CMS - utilizzabile solo per le aziende che hanno acquistato voucher prima del 05/12/2022 e per Edison/Zegna fino al 15/02/2022
+   9. VOUCHER 2023 - utilizzabile per le aziende che hanno acquistato voucher a partire dal 05/12/2022 fino al 08/07/2024 di Milano e Roma
+   10. VOUCHER LOMBARDIA 2024 - utilizzabile per le aziende che hanno acquistato voucher a partire dal 09/07/2024 di Milano e per Edison/Zegna
+   11. VOUCHER LAZIO 2024 - utilizzabile per le aziende che hanno acquistato voucher a partire dal 09/07/2024 di Roma
+   12. DIPENDENTI ALLIANZ -  Utilizzabile solo per la campagna Allianz Voucher attiva su tutte le sedi di Milano tranne MB Dyadea
+   13. VOUCHER EMILIA ROMAGNA - utilizzabile per le aziende dell’Emilia Romagna
+   14. VOUCHER PRAXI  -  utilizzabile solo per l’azienda Praxi 
+
+
+3. Inserire nel campo Convenzione quella riportata nel riquadro di validazione e nel campo Azienda inviante il nome della società (importante farlo prima di salvare la prenotazione).
+4.  Salvare la prenotazione 
+  
+
+
+
+________________
+
+
+
+
+COME VERIFICARE LO STATO DI UN VOUCHER 
+
+
+1.  Nel menu principale selezionare il campo “GESTIONE VOUCHER”
+  
+
+2. Inserire il nome dell’azienda inviate e selezionare “Lista Voucher”. Verranno visualizzati tutti i Voucher generati per l’azienda inserita con il rispettivo stato: 
+  
+
+
+
+
+
+3. Se un Voucher risulta già utilizzato, sarà possibile verificare la data di erogazione ed in numero di prenotazione/ accettazione
+
+
+  
+
+
+
+4. Per verificare quale tipo di prestazione prenotabile con quel voucher è possibile selezionare l’opzione “Pacchetti Prestazioni”.
+  
+
+
+
+COME SPOSTARE UN APPUNTAMENTO
+
+
+Per procedere allo spostamento delle prenotazioni con voucher è necessario:
+* cancellare la prenotazione esistente in modo da rendere il voucher utilizzabile 
+* Fissare un nuovo appuntamento inserendo lo stesso codice di voucher utilizzato nella prenotazione cancellata.
+Flussi eccezionali
+GESTIONE PACCHETTI ESAMI DI LABORATORIO PER DIPENDENTI ALLIANZ/EDISON/ ZEGNA
+1. I pazienti prenoteranno online un appuntamento per prelievo semplice ( INF2 - Prelievo/consegna campione)
+2. Una volta arrivati in sede vi comunicheranno il tipo di pacchetto/esame per il quale hanno ricevuto il codice di voucher. Gli esami di laboratorio che avevano la possibilità di acquistare sono: 
+ALLIANZ
+	EDISON e ZEGNA
+	L00109 - Pacchetto prevenzione Allianz uomo - voucher
+	L00054 - Pacchetto esami Edison Malattie cardiovascolari
+	L0806- Pacchetto prevenzione Allianz donna - voucher
+	L00057 - Pacchetto esami Edison Malattie gastroenterologiche
+	L0529 - PSA
+	L00055 - Pacchetto esami Edison Bilancio della salute
+	
+
+	L00056 - Pacchetto esami Edison Prevenzione base
+	
+
+	L00150         - Pacchetto esami Bilancio della salute Zegna
+	
+
+3. Inserire in accettazione l’esame o il pacchetto richiesto ed il codice di voucher che vi verrà fornito dal dipendente e togliere la prestazione INF2 - Prelievo/Consegna campioni.
+
+
+4. Dopo aver inserito il codice di voucher sarà necessario inserire la convenzione 
+ALLIANZ
+	EDISON e ZEGNA
+	A93 - DIPENDENTI ALLIANZ 
+	C79 - VOUCHER LOMBARDIA 2024
+	
+
+ e l’azienda inviante che vi verrà comunicata dal dipendente, ma che potrete verificare anche in autonomia selezionando il bottone “Valida Voucher”. Queste le aziende invianti che potranno esservi comunicate: 
+ALLIANZ
+	EDISON e ZEGNA
+	CS00000406 - Allianz S.p.A.
+	CS00000002 EUDAIMON S.p.A
+	CS00000407 - Allianz Global Corporate & Specialty SE
+	
+
+	CS00000408 - Allianz Technology S.p.A
+	
+
+	CS00000409 - UniCreditRas Vita S.p.A.
+	
+
+	CS00000410 - UniCreditras Assicurazioni S.p.A.
+	
+
+	CS00000411 - Allianz Direct S.p.A.
+	
+
+	CS00000443 - PIMCO Prime Real Estate GmbH 
+	
+
+	CS00000544 - TUA Assicurazioni S.p.A.
+	
+
+	
+
+5. Salvare l’accettazione. Come per gli altri esami non bisognerà emettere la fattura.
+
+
+
+
+CODICI PACCHETTI ESAMI DI LABORATORIO PER AZIENDA CLIENTE:
+
+
+AZIENDA
+	PACCHETTO ESAMI LAB.
+	CODICE
+	Studio Casadio Prati 
+	Pacchetto Casadio Prati - voucher
+	L000137 
+	Studio Odontoiatrico Mancini
+	Pacchetto Odontoiatrica Mancini - voucher
+	L000135
+	Sinergie per la Salute 1
+	Pacchetto Sinergie per la salute - voucher
+	L000136
+	Seamen
+	Pacchetto Seamen - voucher 
+	L000138
+	F.lli Tinarelli
+	Pacchetto F.lli Tinarelli - voucher
+	L000142
+	
+
+Direzione Sanitaria Santagostino
+Società e Salute Spa - Sede legale via Temperanza, 6 - 20127 Milano - P.Iva e C.F. 05128650966

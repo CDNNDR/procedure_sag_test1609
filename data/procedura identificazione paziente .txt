@@ -1,0 +1,272 @@
+﻿Procedura di identificazione del Paziente 
+	Pagina  di  
+
+
+
+
+16/10/2019
+      
+	
+
+
+
+
+
+
+
+COVER DELLA PROCEDURA
+	
+
+Titolo procedura
+	Procedura identificazione paziente 
+	Versione
+	1.0.3
+	Data
+	16/10/2019
+	
+
+
+
+Autore
+	Chiara Carrisi 
+	Owner
+	
+
+	Verificato da
+	
+
+	
+
+
+
+Tracciamento modifiche
+	Data
+	Ver.
+	Autore 
+	Ruolo
+	Note
+	20/10/2022
+	1.0.2
+	
+
+	
+
+	
+
+	4/01/2024
+	1.0.3
+	Andrea Conti 
+	Privacy Intern 
+	
+
+	
+
+NOTE:
+Versione: 
+* X = MODIFICABILE SOLO DALL’OWNER. Da incrementare solo per modifiche strutturali della procedura (prima di incremetare e modificare la versione, esportare pdf versione precedente in modo da mantenere lo storico). 
+* Y = Da incrementare se vengono aggiunte attività alla procedura.
+* Z = Da incrementare ad ogni modifica del documento. 
+
+
+PREMESSA SULLA SICUREZZA NELL’ACCESSO AGLI AMBULATORI
+
+
+La sicurezza degli ambienti dedicati agli ambulatori è di primaria importanza per garantire la riservatezza e il benessere dei pazienti. Ogni individuo che accede all’area ambulatoriale deve essere adeguatamente identificato e autorizzato. 
+La responsabilità di verificare l'accesso è affidata al personale di desk, il cui ruolo è fondamentale per assicurare che solo persone autorizzate possano entrare negli ambulatori. La collaborazione di tutti è essenziale per mantenere uno standard elevato di sicurezza e proteggere la privacy dei pazienti.
+
+
+PERCHE’ E’ IMPORTANTE IDENTIFICARE IL PAZIENTE?
+
+
+Identificare il paziente ci consente di associare correttamente allo stesso tutti i dati anagrafici, amministrativi e sanitari e, quindi, evitare errori nella compilazione della cartella anagrafica, amministrativa, clinica e nella consegna della documentazione a lui inerente (certificati, preventivi, fatture, referti, etc.).
+
+
+PERCHE’ E’ IMPORTANTE NON COMMETTERE ERRORI?
+
+
+Un errore nella compilazione della scheda anagrafica, della cartella clinica e nella consegna della documentazione a lui inerente può causare un DATA BREACH (“violazione dei dati personali”). Un DATA BREACH è un ERRORE in seguito al quale un dato viene consultato, copiato, trasmesso, o utilizzato da un soggetto non autorizzato (prenotazione a nome di un altro paziente, accettazione a nome di un altro paziente, consegna del referto ad un paziente sbagliato, etc.).
+
+
+PERCHE’ E’ IMPORTANTE NON COMMETTERE DATA BREACH?
+
+
+Le conseguenze dovute al verificarsi di un DATA BREACH possono essere molto pesanti: notifica dell’episodio all’Autorità Garante per la Protezione dei Dati Personali (“Garante della Privacy”), conseguenti ispezioni e provvedimenti e sanzioni pecuniarie particolarmente elevate (fino al 4% del fatturato annuo). Dati i rischi, questo errore non può essere considerato aziendalmente ammissibile. 
+
+
+IN QUALI MOMENTI IL CUSTOMER CARE DEVE IDENTIFICARE IL PAZIENTE?
+
+
+* Prenotazione/Spostamento/Cancellazione
+* Accettazione
+* Fatturazione 
+* Consegna documentazione
+
+
+A COSA DARE PRIORITA’?
+
+
+Identificare il paziente è parte integrante del lavoro degli health coach, imprescindibile e di priorità assoluta. Non c’è coda, non c’è attività, non c’è motivo per cui l’identificazione del paziente non debba essere effettuata con estrema attenzione. 
+
+
+COME SI IDENTIFICA UN PAZIENTE?
+
+
+PRENOTAZIONE/SPOSTAMENTO/CANCELLAZIONE
+NUOVO PAZIENTE
+L’Operatore può prendere una prenotazione al telefono (whatsApp e email) o al desk. 
+L’Operatore deve chiedere al paziente tutti i dati personali per la compilazione della scheda anagrafica (nome, cognome, codice fiscale, data e luogo di nascita, luogo di residenza, numero di telefono e indirizzo email, etc.) e acorretto, ccertarsi di averli riportati in modo chiedendone conferma al paziente. Qualora ce ne fosse la possibilità, al desk e se il paziente ne è provvisto, l’Operatore deve chiedere  al paziente un documento di riconoscimento o la tessera sanitaria e utilizzare, laddove presente, il lettore della tastiera.
+E’ possibile inserire il numero di telefono di chi sta effettuando la prenotazione per altro nuovo paziente solo in casi eccezionali (es. paziente anziano che non ha il cellulare o non sa usarlo), se chi sta effettuando la prenotazione insiste e fornisce una spiegazione sulla richiesta. Questa possibilità è esclusa per chi prenota per amici/colleghi/assimilabili.
+ 
+PAZIENTE GIA’ REGISTRATO
+L’Operatore può prendere una prenotazione al telefono (whatsApp e email) o al desk. 
+L’Operatore deve chiedere conferma al paziente di tutti i dati personali presenti nella scheda anagrafica (nome, cognome, codice fiscale, data e luogo di nascita, numero di telefono e indirizzo email, etc.), completarli se incompleti e accertarsi che siano compilati in modo corretto.  
+L’Operatore non deve suggerire la risposta al paziente, ma è quest’ultimo che deve comunicare i dati a seguito della domanda posta dall’Operatore stesso.
+Qualora ce ne fosse la possibilità, al desk e se il paziente ne è provvisto, l’Operatore deve chiedere al paziente un documento di riconoscimento o la tessera sanitaria e utilizzare, laddove presente, il lettore della tastiera.
+
+
+La procedura e il riconoscimento dell’identità del paziente sono validi anche per:
+* prenotazioni attraverso altri canali in cui è coinvolto un Operatore (wa e mail);
+* richiesta di SPOSTAMENTO o CANCELLAZIONE di prenotazioni.
+
+
+RICHIESTA  DI INFORMAZIONE SU PRENOTAZIONE DEL PAZIENTE
+Nel caso in cui un utente chieda  informazioni sulla  prenotazione prenotata, l’Operatore può procedere se l’utente è in grado di fornire la tipologia della prestazione prenotata e tutti i propri dati anagrafici e questi corrispondono a quelli presenti nella scheda anagrafica. 
+Al desk per maggiore sicurezza, l’Operatore può chiedere al paziente un documento di riconoscimento con una fotografia riconoscibile.
+Qualora l’utente non sia in grado di fornire tutte le informazioni anagrafiche, l’Operatore non deve riscontrare la richiesta di informazioni: non siamo infatti certi di trovarci davanti all’utente che ha realmente prenotato.
+
+
+RICHIESTA DI PRENOTAZIONE DA PARTE DI ALTRO UTENTE 
+Nel caso in cui un utente chieda di effettuare una prenotazione per un altro “nuovo” paziente, l’Operatore può procedere se l’utente è in grado di fornire tutti i dati anagrafici del paziente. Se l’utente non fornisce il cellulare del paziente, l’Operatore non procede alla prenotazione.
+Nel caso in cui un utente chieda di effettuare una prenotazione per un altro “nostro” paziente, l’Operatore può procedere se l’utente è in grado di fornire tutti i dati anagrafici del paziente e questi corrispondono a quelli presenti nella scheda anagrafica. In caso contrario l’Operatore non deve procedere con la richiesta di prenotazione.
+
+
+RICHIESTA DI DISDETTA DA PARTE DI UN ALTRO UTENTE
+Nel caso in cui un utente chieda di effettuare una disdetta per un altro “nostro” paziente, l’Operatore può procedere se l’utente è in grado di fornire la tipologia della prestazione prenotata e tutti i dati anagrafici del paziente e questi corrispondono a quelli presenti nella scheda anagrafica. In caso contrario l’Operatore non deve procedere con la richiesta di disdetta.
+
+
+RICHIESTA DI INFORMAZIONE SU PRENOTAZIONE DA PARTE DI ALTRO UTENTE
+Nel caso in cui un utente chieda informazioni su una prenotazione (tipo di prestazione, luogo, orario, etc.) di un nostro paziente minorenne o con tutore, l’Operatore può procedere se il richiedente dichiara espressamente di essere genitore o tutore dell’utente e se il richiedente  è in grado di fornire tutti i dati anagrafici del paziente e questi corrispondono a quelli presenti nella scheda anagrafica.
+Nel caso in cui un utente chieda informazioni sulla tipologia della prestazione prenotata di un nostro paziente maggiorenne, l’Operatore non procede.
+
+
+                              RICHIESTA INFORMAZIONI SU REFERTO
+Nel caso in cui un paziente chieda informazioni sul fatto che il proprio referto sia pronto o meno, l’Operatore fornisce l’informazione solo se il paziente è in grado di fornire tutti i suoi dati anagrafici, altrimenti l’Operatore non procede.
+Nel caso in cui un utente chieda informazioni sul fatto che il referto di altro utente maggiorenne sia pronto o meno, l’Operatore non può procedere in nessun caso, salvo che si tratti di un genitore che lo richiedere per un minore o di un tutore per la persona che beneficia della tutela. L’Operatore non fornisce IN NESSUN CASO informazioni relative all’esito/al contenuto clinico del referto.
+
+
+RICHIESTE DI ASSISTENZA SUL SITO CMS DA PARTE DI ALTRI UTENTI
+Nel caso in cui l’utente abbia problemi a collegare come familiare/abbia problemi a registrare sul sito il figlio minorenne o il soggetto di cui è tutore, l’Operatore verifica che in his il numero di cellulare corrisponda al cellulare dell'utente che ci ha contatto e che è iscritto al sito. In caso contrario l'Operatore, ricordando all’utente che l’operazione potrà essere effettuata solo nel caso di figli minorenni o soggetti di cui si sia tutori, modifica il cellulare, salva e invita l'utente a rifare il login. A questo punto l'utente effettuando il nuovo login troverà un pop-up per proseguire con l'aggiunta del familiare. 
+Nel caso in cui l’utente abbia problemi a collegare come familiare altro utente maggiorenne AUTOSUFFICIENTE, l’Operatore spiega all’utente che non è possibile aggiungere un familiare maggiorenne, che ha già effettuato visite/esami presso le nostre strutture. Il familiare maggiorenne dovrà necessariamente effettuare una propria registrazione al sito.
+
+In nessun caso alcun Operatore può collegare come familiare un utente maggiorenne.
+
+ACCETTAZIONE
+L’Operatore deve richiedere la tessera sanitaria, utilizzando l'apposito lettore della tastiera per il recupero dell’anagrafica; deve chiedere poi conferma al paziente di tutti i dati personali presenti nella scheda anagrafica (nome, cognome, data e luogo di nascita, numero di telefono e indirizzo mail, etc.), completarli se incompleti e accertarsi che siano compilati in modo corretto. 
+Qualora il lettore della tastiera non dovesse funzionare o non dovesse leggere la tessera, l’Operatore richiede ugualmente il documento e verifica, con attenzione, la corrispondenza dei dati registrati a sistema con quelli forniti dal paziente. In caso di dubbio, l’Operatore può sempre richiedere un ulteriore documento d’identità (carta d’identità, passaporto, patente di guida).
+L’Operatore non deve suggerire la risposta al paziente, ma è quest’ultimo che deve comunicare i dati a seguito della domanda posta dall’Operatore stesso.
+Inoltre, l’Operatore deve sempre verificare dalla scheda anagrafica e amministrativa che la prenotazione prenotata corrisponda a quella accettata.
+
+
+In caso di FAST CHECK IN si presuppone che l’identità del paziente sia stata verificata in fase di prenotazione. Ciò però non deve giustificare nessuno dal non controllare l’identità del paziente nel momento in cui questo dovesse avere un contatto con un Operatore in una delle fasi del processo. In carenza di dati utili alla fatturazione e alla refertazione, il fast check in invita il paziente a recarsi al desk perché si proceda all’accettazione. L’Operatore deve richiedere la tessera sanitaria, utilizzando l'apposito lettore della tastiera per il recupero dell’anagrafica; deve chiedere poi conferma al paziente di tutti i dati personali presenti nella scheda anagrafica (nome, cognome, data e luogo di nascita, numero di telefono e indirizzo mail, etc.), completarli se incompleti e accertarsi che siano compilati in modo corretto.
+L’Operatore non deve suggerire la risposta al paziente, ma è quest’ultimo che deve comunicare i dati a seguito della domanda posta dall’Operatore stesso.
+Inoltre, l’Operatore deve sempre verificare sulla scheda anagrafica e amministrativa che la prenotazione prenotata corrisponda a quella accettata.
+
+
+FATTURAZIONE
+L’Operatore deve chiedere conferma al paziente di tutti i dati personali presenti nella scheda anagrafica (nome, cognome, codice fiscale, data e luogo di nascita, numero di telefono e indirizzo mail, etc.), completarli se incompleti e accertarsi che siano compilati in modo corretto. 
+L’Operatore non deve suggerire la risposta al paziente, ma è quest’ultimo che deve comunicare i dati a seguito della domanda posta dall’Operatore stesso.
+Qualora ce ne fosse la possibilità, al desk e se il paziente ne è provvisto, l'Operatore deve chiedere al paziente un documento di riconoscimento o la tessera sanitaria e utilizzare, laddove presente, il lettore della tastiera.
+L’Operatore deve sempre controllare che i dati riportati sulla fattura, sia quelli anagrafici che quelli amministrativi (prestazione eseguita), coincidano esattamente con i dati presenti nella scheda anagrafica e amministrativa e solo allora consegnarla al paziente.
+
+
+In caso di ADDEBITO AUTOMATICO in si presuppone che l’identità del paziente sia stata verificata in fase di prenotazione e accettazione. Ciò però non deve giustificare nessuno dal non controllare l’identità del paziente nel momento in cui questo dovesse avere un contatto con un Operatore in una delle fasi del processo (es. fatturazione o richiesta stampa referti o altri documenti).
+
+
+MODIFICA DI UN DATO ANAGRAFICO
+Nel caso sia necessario MODIFICARE un dato anagrafico, l’Operatore deve:
+* procedere alla modifica, se si tratta di modificare il numero di telefono o l’indirizzo email dopo aver verificato l’identità del paziente attraverso gli altri dati presenti nella scheda anagrafica;
+* procedere alla modifica, se si tratta di modificare i dati che compongono il CF (nome, cognome, anno, mese, giorno, luogo di nascita e sesso) e gli altri dati presenti nella scheda anagrafica coincidono.
+* procedere a verificare i dati con il paziente, se si tratta di modificare i dati che compongono il CF (nome, cognome, anno, mese, giorno, luogo di nascita e sesso) e gli altri dati presenti nella scheda anagrafica non coincidono o si abbia qualsiasi tipo di dubbio.
+
+
+PERCHE’ E’ IMPORTANTE IDENTIFICARE IL PAZIENTE IN FASE DI PRENOTAZIONE - ACCETTAZIONE - FATTURAZIONE - MODIFICA DI UN DATO ANAGRAFICO?
+
+
+L’importanza di identificare il paziente in queste fasi del processo è legata alla corretta creazione della scheda anagrafica del paziente e al suo corretto utilizzo per le prenotazioni, le accettazioni, le fatturazioni e la consegna dei referti o di altra documentazione.
+Un errore nella compilazione della scheda anagrafica può causare un DATA BREACH perchè rende disponibile quel dato a un soggetto non autorizzato (altro paziente).
+
+
+CONSEGNA DI REFERTO
+L’Operatore deve verificare (anche se il ritiro è contestuale alla prestazione, ad es. la diagnostica) tutti i dati personali del paziente presenti nella scheda anagrafica (nome, cognome, codice fiscale, data e luogo di nascita, numero di telefono e indirizzo mail, etc.), e completarli se incompleti, chiedendo obbligatoriamente al paziente un documento di riconoscimento con una fotografia riconoscibile o il tesserino sanitario, utilizzandolo nell’apposito lettore.
+Inoltre, l’Operatore deve verificare di consegnare al paziente il referto della prestazione eseguita dallo stesso ponendogli delle domande, e controllando sulla scheda anagrafica e amministrativa la prestazione eseguita. In questa fase l’Operatore deve prestare la massima attenzione ad usare un tono di voce moderato, per evitare che altri pazienti possano venire a conoscenza della prestazione effettuata dal paziente.
+L’Operatore deve sempre consegnare il referto in busta chiusa o in una cartellina, riportando sulla busta “nome, cognome e data e luogo di nascita del paziente, data prestazione”, dopo aver verificato accuratamente tutte le informazioni.
+
+
+Nel caso il paziente abbia delegato un’altra persona al ritiro del referto, l’Operatore deve ritirare la delega e verificare che sia correttamente compilata e che ci siano in allegato i documenti di riconoscimento in corso di validità del delegante e del delegato. 
+Inoltre, l’Operatore deve leggere attentamente la delega (dove è presente la prestazione) e verificare di consegnare al delegato il referto della prestazione eseguita dal paziente, controllando sulla scheda anagrafica e amministrativa la prestazione eseguita dallo stesso.
+L’Operatore deve sempre consegnare il referto in busta chiusa o in una cartellina, riportando sulla busta “prestazione, data di esecuzione, nome, cognome e data di nascita del paziente”, dopo aver verificato accuratamente tutte le informazioni.
+La documentazione fornita dal delegato (delega + copia dei documenti di identità del delegante e del delegato) devono essere archiviati e conservati negli appositi faldoni.
+Si ricorda a tutti gli Operatori che gli esami relativi all’HIV posso essere ritirati esclusivamente dal Paziente, il quale non può delegare nessun altro al ritiro.
+
+
+La procedura e il riconoscimento del paziente sono validi per la CONSEGNA e il RITIRO di qualunque documentazione.
+
+
+Nel caso in cui il paziente richieda tramite TELEFONO l’invio di documentazione a mezzo email, l’Operatore, dopo aver tentato di far accedere il paziente al dossier, deve:
+* verificare la natura della documentazione (referto o altra documentazione)
+* in caso di REFERTO, spiegare al paziente che in nessun caso un referto può essere inoltrato tramite email. Qualora il paziente rappresentasse casi di urgenza, di particolare gravità o un’impossibilità oggettiva di accedere al dossier o di recarsi in una delle sedi presso il ritiro, inoltrare la richiesta, provvista di tutte le informazioni in suo possesso, a michela.dezio@santagostino.it  che verificherà la richiesta con il supporto della Direzione Operativa e della Direzione Sanitaria e provvederà a contattare il paziente ed eventualmente ad inviare la documentazione richiesta;
+* in caso di ALTRA DOCUMENTAZIONE si rimanda alla relativa procedura di invio documentazione via email
+
+
+PERCHE’ E’ IMPORTANTE IDENTIFICARE IL PAZIENTE IN FASE DI CONSEGNA DI DOCUMENTAZIONE?
+
+
+In ambito sanitario la probabilità che un paziente ritiri con dolo una documentazione (ad es. un referto) per un’altra persona è alta. Ci sono diversi motivi per cui potrebbe accadere: genitori separati, liti tra partner, etc.. Per questo motivo, è obbligatorio verificare l’identità del paziente, controllando accuratamente i suoi documenti; se chi vuole ritirare la documentazione non è il paziente, deve essere necessariamente munito di delega. Non è sufficiente porre al paziente delle domande nè è possibile porre per privacy queste domande al delegato.
+
+
+L’importanza di identificare il paziente in questa fase del processo è quindi legata alla consegna della documentazione al paziente corretto e autorizzato a riceverla e visionarla. Un errore nella consegna della documentazione può causare un DATA BREACH perchè rende disponibile quel dato a un soggetto non autorizzato (altro paziente).
+
+
+COSA FARE CON UN MINORENNE?
+
+
+* Se il minore ha un documento di riconoscimento, l’Operatore deve verificare che il genitore corrisponda a quello riportato sul documento del minore, verificandone l’identità;
+* Se il minore non ha un documento di riconoscimento o sul documento non sono riportati i nomi dei genitori, l’Operatore deve far firmare il documento di autocertificazione al genitore, con allegata copia di documento di identità del genitore, e conservare il tutto in archivio.
+In ogni caso l’Operatore deve procedere all’identificazione dell’accompagnatore del minore e verificare che questo sia il genitore. Se il minore non è accompagnato da un genitore, l’accompagnatore (zio, nonna, tata ecc) deve essere in possesso della delega da parte del genitore che lo autorizza ad accompagnare il minore. 
+Per la corretta gestione del paziente minorenne si rimanda alle FAQ disponibili al seguente link.
+
+
+CONSEGNA DI CAMPIONE BIOLOGICO
+Nel caso in cui un utente consegna un campione biologico per un altro “nuovo” paziente, l’Operatore non procede, salvo il casi di cui al successivo punto 2.
+
+
+1. Nel caso in cui un utente consegna un campione biologico per un altro “nostro” paziente, l’Operatore procede solo se l’utente che consegna il campione biologico è in grado di fornire tutti i dati anagrafici del paziente e questi corrispondono a quelli presenti nella scheda anagrafica.
+
+
+2. Nel caso in cui un utente consegna un campione biologico per un paziente minorenne o con tutore, l’Operatore procede solo se l’utente è in grado di fornire tutti i dati anagrafici del paziente presenti nella scheda anagrafica o utili a compilare una nuova scheda anagrafica.
+
+
+PERCHE’ E’ IMPORTANTE NON ESSERE “IRRAGIONEVOLMENTE” RIGIDI?
+
+
+Noi abbiamo il DOVERE di verificare l’identità del paziente in qualsiasi fase del processo e possiamo farlo ponendo domande al paziente - ad es. in fase di prenotazione, accettazione, fatturazione - e controllando i documenti di riconoscimento - ad es. in fase di ritiro referti. 
+Allo stesso tempo abbiamo il DOVERE di condividere i dati anagrafici, amministrativi e sanitari con il paziente interessato, senza opporre resistenza immotivata.
+
+
+Infatti facciamo qualcosa che va contro la normativa GDPR, e siamo soggetti agli stessi provvedimenti, in entrambi i seguenti casi:
+
+* se rendiamo disponibili i dati anagrafici, amministrativi e sanitari di un paziente ad un altro paziente;
+* se non condividiamo i dati anagrafici, amministrativi e sanitari al paziente interessato.
+
+
+Note
+
+
+* Spegnere il pc o metterlo in stand by ogni volta che ci allontaniamo;
+* Prestare molta attenzione a non lasciare in giro documenti con dati personali (anagrafici e clinici);
+* Distruggere (tagliuzzandolo), se necessario, qualsiasi documento prima di buttarlo nel cestino.
+
+
+
+
+*Sono equipollenti alla carta d’identità, il passaporto e la patente di guida.

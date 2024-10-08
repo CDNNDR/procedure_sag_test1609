@@ -1,0 +1,217 @@
+﻿Procedura Accettazione
+	Pagina  di  
+
+
+
+
+
+
+      
+	
+
+
+
+
+
+
+
+COVER DELLA PROCEDURA
+	
+
+Titolo procedura
+	Procedura Accettazione
+	Versione
+	1.0.0
+	Data
+	16/09/2024
+	
+
+
+
+Autore
+	Valentina Maffucci (Operation Team Leader)
+	Owner
+	Valentina Maffucci (Operation Team Leader)
+	Verificato da
+	Giuliana Lentini(Quality Manager)
+	
+
+
+
+Tracciamento modifiche
+	Data
+	Ver.
+	Autore 
+	Ruolo
+	Note
+	GG/MM/AA
+	X.Y.Z
+	Nome Cognome
+	Job title
+	Descrizione delle modifiche
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+NOTE:
+Versione: 
+* X = MODIFICABILE SOLO DALL’OWNER. Da incrementare solo per modifiche strutturali della procedura (prima di incremetare e modificare la versione, esportare pdf versione precedente in modo da mantenere lo storico). 
+* Y = Da incrementare se vengono aggiunte attività alla procedura.
+* Z = Da incrementare ad ogni modifica del documento. 
+
+
+
+
+
+
+
+
+Da condividere con:
+
+
+* Direzione Operativa
+* RM (Regional Manager)
+* HCM (Health Coach Manager)
+* Specialist
+* Health Coach 
+* Team assistenza tecnica
+* Training Specialist (Rosalia Guercio)
+* Quality Manager (Giuliana Lentini)
+
+
+
+
+Distribuito il 18/09/2024  in formato digitale. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INDICE
+
+
+1. Premessa        
+2. Modalità di accettazione
+3. Accettazione al desk con personale di front office 
+4. Accettazione con self check in 
+5. Accettazione con fast check in 
+
+
+        
+________________
+
+
+
+
+1. Premessa
+
+
+L'accettazione del paziente è un passaggio fondamentale per garantire un servizio efficiente e accurato. Questa procedura standardizza il processo di verifica e registrazione dei dati anagrafici e amministrativi, assicurando che l'identità del paziente sia correttamente confermata e che tutte le informazioni necessarie siano complete e aggiornate. L'operatore deve seguire scrupolosamente i passaggi indicati per garantire precisione, rispetto della privacy e conformità normativa, contribuendo così a un'esperienza positiva per il paziente e un corretto svolgimento delle attività sanitarie.
+
+
+2. Modalità di Accettazione
+
+
+Il paziente può completare l'accettazione presso le nostre strutture in tre modalità: recandosi al desk per essere assistito da un operatore del front office, utilizzando il self check-in, oppure tramite il totem per il fast check-in, disponibile in alcune sedi per un’esperienza più rapida e autonoma. Il personale di front office utilizza HIS WEB, un'interfaccia web accessibile a tutti gli operatori Santagostino, per gestire e registrare i dati dei pazienti e le prestazioni da eseguire. 
+
+
+3. Accettazione al desk con personale di front office
+
+
+L'Operatore accoglie il paziente richiedendo la tessera sanitaria e, tramite il lettore dedicato, procede al recupero automatico dei dati anagrafici. Successivamente, chiede al paziente di confermare o aggiornare le informazioni personali (nome, cognome, data e luogo di nascita, telefono, email, ecc.), correggendo eventuali errori o completando i campi mancanti.
+
+
+L'Operatore, nel caso di nuovo paziente, deve raccogliere i consensi per le finalità di marketing e profilazione. Il paziente dovrà compilare e firmare un modulo cartaceo, indicando le proprie preferenze tramite le opzioni "acconsento" o "non acconsento" e apponendo la firma. Successivamente, l'Operatore dovrà inserire nel gestionale le scelte espresse, assicurandosi che siano correttamente registrate. Infine, il modulo di consenso dovrà essere archiviato in un faldone dedicato.
+
+
+Una volta completata la fase di identificazione e raccolta consensi, l'Operatore procederà ad accettare il paziente e fornirà tutte le informazioni necessarie riguardo la prestazione da eseguire, indicando dove recarsi per attendere il medico.
+
+
+4. Accettazione con Self Check in 
+
+
+Nelle sedi in cui è attivo il servizio di Self Check In, tutti i pazienti con una prenotazione riceveranno, insieme alla conferma via email, un link per il self check-in via SMS. Questo vale per pazienti di ambulatorio, diagnostica e odontoiatria.
+
+
+Promemoria dell’Appuntamento: 
+
+
+Il messaggio di promemoria include i dettagli dell’appuntamento e un link per salvare un metodo di pagamento per evitare commissioni, seguito da un link per il self check-in.
+
+
+Accettazione: 
+
+
+All'arrivo, il paziente deve cliccare sul link dell’appuntamento. L'accesso al link darà risposte diverse a seconda dell'orario:
+Prima di 20 minuti prima dell’appuntamento: Il messaggio indica che è troppo presto e invita a tentare più tardi.
+Tra 20 minuti prima e 2 minuti dopo l’appuntamento: Il paziente accede alla pagina per completare l'accettazione in autonomia.
+Oltre 2 minuti dopo l’appuntamento: Il paziente riceve un ticket digitale per accodamento e verifica se può essere ricevuto dal medico. In questo caso, sarà chiamato dal desk.
+
+
+Nelle sedi in cui il servizio di Self Check-In non è disponibile, il paziente completerà l'accettazione con l'assistenza del personale di Front Office.
+
+
+
+
+5. Accettazione con Fast Check in 
+
+
+Nelle sedi dotate del totem Artexe, i pazienti possono effettuare autonomamente il check-in senza interagire direttamente con il personale, a condizione che siano già registrati nel nostro database, siano maggiorenni e abbiano fornito i consensi sulla privacy. Se tali condizioni non sono soddisfatte, il sistema restituirà un errore e inviterà il paziente a recarsi al desk per completare l'accettazione con l'assistenza del personale di front office. Questo sistema è progettato per le prestazioni che richiedono un'accettazione veloce.
+
+
+Il totem Artexe ottimizza il processo di accettazione, riduce i tempi di attesa e migliora l’efficienza operativa. Dopo il check-in, il totem emette un numero di chiamata per il paziente, contrassegnato da una lettera che indica la coda predefinita nel sistema (ad esempio: Accettazione A, Informazioni I, Fast Check-In V, ecc.). Questo numero viene utilizzato per gestire l’ordine di chiamata e facilitare l’accesso alle prestazioni.
+
+
+In assenza di un totem, il personale di Front Office gestisce il flusso di pazienti e fornisce assistenza per la registrazione e la gestione delle prenotazioni.
+
+
+
+
+Questa procedura garantisce la correttezza e la precisione dei dati anagrafici e amministrativi del paziente, assicurando una gestione efficiente del processo di accettazione.
